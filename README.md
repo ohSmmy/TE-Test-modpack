@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260912.1008**
+Minecraft **26.2** · **neoforge** · версия **latest**
 
 [Импортировать в Prism Launcher](https://github.com/ohSmmy/TE-Test-modpack/releases/download/latest/te-test.mrpack)
 
