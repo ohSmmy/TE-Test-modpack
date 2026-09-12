@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260912.1830",
+  "versionId": "20260912.1856",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -111,19 +111,34 @@
       "fileSize": 61
     },
     {
-      "path": "config/pf_test_config.txt",
+      "path": "config/iris.properties",
       "hashes": {
-        "sha1": "c58aa4f43817080e7fcfcd5622f60a693a253c14",
-        "sha512": "991caab8cf784f4ed2bcf46cce72f658bcc80a42d68f873395963512a86c3945bdada9a2341e1b0205cea664f05b4a958a5e445fe67b3d12535f4398f9167b8e"
+        "sha1": "5623094ed63ab512a6d41bbdb089b3615d707b74",
+        "sha512": "8cdd48d50407e60ae9a520120499943c83506332071ceb0b6c871f3a4a7a7ad35191b96cacb536cbc2c464340a2ffcc313909083d132f40a8bab27c5f2571ccd"
       },
       "env": {
         "client": "required",
         "server": "optional"
       },
       "downloads": [
-        "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/pack-files/config/pf_test_config.txt"
+        "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/pack-files/config/iris.properties"
       ],
-      "fileSize": 21
+      "fileSize": 312
+    },
+    {
+      "path": "options.txt",
+      "hashes": {
+        "sha1": "957aaa2036f1a811624cba4c42a8a9aa2fdb236d",
+        "sha512": "cebec1336fd608669bee3f8c3fc1f42e7d25dce9cf61916d896128dbcb65ce9992fc7b60d230d307849985a70d183c8e45871ca5a75252ae73ecb98cdaab8932"
+      },
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/pack-files/options.txt"
+      ],
+      "fileSize": 5863
     }
   ],
   "dependencies": {
