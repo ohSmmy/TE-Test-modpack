@@ -1,10 +1,55 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.0.20260912.0946",
+  "versionId": "1.0.20260912.0947",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
+    {
+      "path": "mods/voicechat-neoforge-2.6.23+26.2.jar",
+      "hashes": {
+        "sha1": "975f860c9e9148cc8b1bb99d35a62e2abfd492e9",
+        "sha512": "c4ee6d8d1a1d9836c0ea0219c2007da221e60db1b4348f5568c7a0037651e7ad1389f812075bdea0ddc2952e6fd16f33eb904bbeb074a4e5272afe97902417e6"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/7nOrYJRU/voicechat-neoforge-2.6.23%2B26.2.jar"
+      ],
+      "fileSize": 4924697
+    },
+    {
+      "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
+      "hashes": {
+        "sha1": "82ab30bc5cf0177e4ca1a0e5aad14d0e79e2aa13",
+        "sha512": "72c7ee0f075cea44a62543b98db5e4182acfb90a7c67410141d6a4fa83bab57fc61303e4510d9d2a9cc5bcc001aa80e42aad26603cef853211ca110942bfb1bd"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kkmrDlKT/versions/TzDe72Nr/TerraBlender-neoforge-26.2-26.2.0.0.2.jar"
+      ],
+      "fileSize": 141227
+    },
+    {
+      "path": "mods/GlitchCore-neoforge-26.2-26.2.0.0.0.jar",
+      "hashes": {
+        "sha1": "ed6a68cb80febcb5d03a76e5231f2aeaa372538a",
+        "sha512": "3d8a05aa40beb03b7e3490a7da4bc5839daf5ac4e357daa4a8cb42fbaa221101192857d8cb7bea780a21a90bf3d810d61dd5d0ca184157cffc4442ff7ee7f1c4"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/s3dmwKy5/versions/POAebwFo/GlitchCore-neoforge-26.2-26.2.0.0.0.jar"
+      ],
+      "fileSize": 97831
+    },
     {
       "path": "servers.dat",
       "hashes": {
