@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260912.1204",
+  "versionId": "20260912.1408",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -19,6 +19,21 @@
         "https://cdn.modrinth.com/data/9eGKb6K1/versions/7nOrYJRU/voicechat-neoforge-2.6.23%2B26.2.jar"
       ],
       "fileSize": 4924697
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.9.1.zip",
+      "hashes": {
+        "sha1": "3a600568ea318b4886f59ab27a098abdfd49850b",
+        "sha512": "fe7ee33e0fcf69ea2922bdc80c514faac8ef0875112cf0efeb4d8fbd03c177f2d9a48179de6ca6e055bf5dc8c64d1ca1c7d0987ed763d04842df3bda3a29417f"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/R6NEzAwj/versions/UhZjVKiD/ComplementaryUnbound_r5.9.1.zip"
+      ],
+      "fileSize": 552949
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
