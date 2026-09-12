@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260912.1900",
+  "versionId": "20260912.1912",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -128,8 +128,8 @@
     {
       "path": "options.txt",
       "hashes": {
-        "sha1": "957aaa2036f1a811624cba4c42a8a9aa2fdb236d",
-        "sha512": "cebec1336fd608669bee3f8c3fc1f42e7d25dce9cf61916d896128dbcb65ce9992fc7b60d230d307849985a70d183c8e45871ca5a75252ae73ecb98cdaab8932"
+        "sha1": "76e71dcc94c597d43e11136b95265578e7ff91e7",
+        "sha512": "62ce6bc23791c4b217da7a12e8a2545b090c82f6e66f3f6002a906346849512933d451900cb56577d9cb05525be51a4d6e3efc1184a8df7f50a191fe4957624a"
       },
       "env": {
         "client": "required",
@@ -138,7 +138,7 @@
       "downloads": [
         "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/pack-files/options.txt"
       ],
-      "fileSize": 5863
+      "fileSize": 5660
     }
   ],
   "dependencies": {
