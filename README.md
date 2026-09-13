@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.0957**
+Minecraft **26.2** · **neoforge** · версия **20260913.1015**
 
-## Моды (89)
+## Моды (90)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -75,10 +75,11 @@ Minecraft **26.2** · **neoforge** · версия **20260913.0957**
 | [Lithium](https://modrinth.com/mod/lithium) | mc26.2-0.25.3-neoforge | client, server |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
 | [Distant Horizons](https://modrinth.com/mod/distanthorizons) | 3.2.0-b-26.2 | client, server |
+| [Faithful 64x](https://modrinth.com/mod/faithful-64x) | Release-14-Chaos-Cubed | client |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
-| [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
 | [fusion-connected-textures](https://modrinth.com/mod/fusion-connected-textures) | — | client |
+| [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
 | [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |
 | [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |
