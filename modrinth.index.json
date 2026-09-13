@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.0326",
+  "versionId": "20260913.0429",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -499,21 +499,6 @@
         "https://cdn.modrinth.com/data/iRmWy6ga/versions/dqAZDndt/pipez-neoforge-1.2.32%2B26.2.jar"
       ],
       "fileSize": 450569
-    },
-    {
-      "path": "mods/modular-routers-26.2.0.1.jar",
-      "hashes": {
-        "sha1": "2cf5a30fb3bc03a4975cc9a6df6afcf4b8c0b905",
-        "sha512": "49d9d56cfe59280c2b3968399b94a8aa3a087c80909a8645c145b81c6a82ceb5837aa91fbab0432d7fcf7fc01d1b084b0b690d16e4282404e4749a2acc17c0b2"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/EuTS81Z3/versions/No2ZCBbI/modular-routers-26.2.0.1.jar"
-      ],
-      "fileSize": 1343450
     },
     {
       "path": "mods/GrowableOres-3.8.0-26.2-NeoForge.jar",
@@ -1107,7 +1092,7 @@
         "sha512": "3b6d226a2b8ec8b9178c16c285874d12c1a14696f2af42983c72468a30f7acb0dc1ecd14eab26b96f51355ffff985ee05f0242719f9ff705cf1c4266663f0ad2"
       },
       "env": {
-        "client": "unsupported",
+        "client": "required",
         "server": "required"
       },
       "downloads": [

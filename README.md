@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.0326**
+Minecraft **26.2** · **neoforge** · версия **20260913.0429**
 
-## Моды (83)
+## Моды (82)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -39,7 +39,6 @@ Minecraft **26.2** · **neoforge** · версия **20260913.0326**
 | [Integrated Tunnels](https://modrinth.com/mod/integrated-tunnels) | 26.2-1.9.6-775 | client, server |
 | [ Integrated Crafting](https://modrinth.com/mod/integrated-crafting) | 26.2-1.4.7-768 | client, server |
 | [Pipez](https://modrinth.com/mod/pipez) | neoforge-1.2.32+26.2 | client, server |
-| [Modular Routers](https://modrinth.com/mod/modular-routers) | 26.2.0.1 | client, server |
 | [GrowableOres](https://modrinth.com/mod/growableores) | 3.8.0-26.2-NeoForge | client, server |
 | [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) | 26.2-3.26.2.2154 | client, server |
 | [Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage) | 26.2-1.5.113.2122 | client, server |
@@ -79,7 +78,7 @@ Minecraft **26.2** · **neoforge** · версия **20260913.0326**
 | [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |
 | [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
-| [lithostitched](https://modrinth.com/mod/lithostitched) | — | server |
+| [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
 | [cristel-lib](https://modrinth.com/mod/cristel-lib) | — | client, server |
 | [cyclops-core](https://modrinth.com/mod/cyclops-core) | — | client, server |
 | [common-capabilities](https://modrinth.com/mod/common-capabilities) | — | client, server |
