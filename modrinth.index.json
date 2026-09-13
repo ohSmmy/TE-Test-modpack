@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.1507",
+  "versionId": "20260913.1522",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1388,8 +1388,8 @@
     {
       "path": "options.txt",
       "hashes": {
-        "sha1": "44b434e5ad33aeffefe5020725227ef395accd71",
-        "sha512": "b26314b7b71aa2e3571438d2c25a87e86a5e5e6627c03a1ff4a6a5625055a4acc0a507e8621dcd26f2bb2354670c70ebb468d746dbdeff6870071f9216be6e49"
+        "sha1": "76407c3b9ee85d64709a602e4d60d5a938b1e94a",
+        "sha512": "308a18f9f5e68a7bd955a6df5b6b9ad3b5c6e77be37b0d60bc7166dcef7fcbad27cc11732818ee9e4e3f7260533d66df2b36fe8908ef8e9bfe1af3673d786b69"
       },
       "env": {
         "client": "required",
@@ -1398,7 +1398,22 @@
       "downloads": [
         "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/pack-files/options.txt"
       ],
-      "fileSize": 5659
+      "fileSize": 5819
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.9.1.zip.txt",
+      "hashes": {
+        "sha1": "92acdc23830342c73ad9ea0d964d90571a87ca72",
+        "sha512": "b099a0c0702f91e3d8101c49c34fee9bcbd67c74af877d5add9858ce81d051fa91ee6414a871fcb097e1b514e31fc14f3103242008b5bf828f0501021893c5e1"
+      },
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/pack-files/shaderpacks/ComplementaryUnbound_r5.9.1.zip.txt"
+      ],
+      "fileSize": 200
     }
   ],
   "dependencies": {
