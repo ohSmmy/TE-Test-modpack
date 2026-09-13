@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.0911**
+Minecraft **26.2** · **neoforge** · версия **20260913.0914**
 
-## Моды (87)
+## Моды (88)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -73,6 +73,7 @@ Minecraft **26.2** · **neoforge** · версия **20260913.0911**
 | [Double Doors](https://modrinth.com/mod/double-doors) | 26.2.0-7.2-fabric+forge+neo | server |
 | [Controlling](https://modrinth.com/mod/controlling) | 26.2.2 | client |
 | [Solas Shader](https://modrinth.com/mod/solas-shader) | 3.7b | client |
+| [SPBR](https://modrinth.com/mod/spbr) | 21.2 | client |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [fusion-connected-textures](https://modrinth.com/mod/fusion-connected-textures) | — | client |

@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.0911",
+  "versionId": "20260913.0914",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1009,6 +1009,21 @@
         "https://cdn.modrinth.com/data/EpQFjzrQ/versions/KcfQaN5J/Solas%20Shader%20V3.7b.zip"
       ],
       "fileSize": 1252311
+    },
+    {
+      "path": "resourcepacks/SPBR-21_2.zip",
+      "hashes": {
+        "sha1": "746465f9c6b7baaa1f3931c7fff06a257fbd9dd0",
+        "sha512": "626ea8d795f331a07050c45dcbea6a4194d2c26da3576fb7238e9af39667840aa5bf2bbe5ffe6f3ae6e1f276216143921a65e1756346cb84d614762b283db7f9"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/aNcOVoD7/versions/3s2tJ0xX/SPBR-21_2.zip"
+      ],
+      "fileSize": 25856712
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
