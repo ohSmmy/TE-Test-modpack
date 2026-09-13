@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.1316",
+  "versionId": "20260913.1401",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1129,6 +1129,36 @@
         "https://cdn.modrinth.com/data/EpQFjzrQ/versions/KcfQaN5J/Solas%20Shader%20V3.7b.zip"
       ],
       "fileSize": 1252311
+    },
+    {
+      "path": "resourcepacks/Patrix_26.2_32x_basic.zip",
+      "hashes": {
+        "sha1": "cd4a70aa14521b4918e98750768249f7b963dd69",
+        "sha512": "bab0dafd003c63b388f4090790b5dcabf2e6d6dfda63268fb5e8f2f582e93ae669b8a88e4a47fd97e7426127c7832afe2d8b991ae7ac8e75ed70f5cc5b51d5b9"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/olO1TaXd/versions/226vxy35/Patrix_26.2_32x_basic.zip"
+      ],
+      "fileSize": 74561962
+    },
+    {
+      "path": "resourcepacks/\u00a75Respirited Coven.zip",
+      "hashes": {
+        "sha1": "16fbbff5a2b672d1f8ee85023b4243fd9fcd4a2e",
+        "sha512": "68be1af0fc2fec39b6a9a56f3b421e9f30dff17e4270c61e2d42ea0de4c911ac380fdf80a66b8d509e091e7c71b66ea29cead1467e6178000795ba737e3638ac"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/TtuOyRmz/versions/37RjRnCL/%C2%A75Respirited%20Coven.zip"
+      ],
+      "fileSize": 87530
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
