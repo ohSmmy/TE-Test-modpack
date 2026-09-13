@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.1422**
+Minecraft **26.2** · **neoforge** · версия **20260913.1507**
 
-## Моды (103)
+## Моды (90)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -74,22 +74,9 @@ Minecraft **26.2** · **neoforge** · версия **20260913.1422**
 | [Controlling](https://modrinth.com/mod/controlling) | 26.2.2 | client |
 | [Lithium](https://modrinth.com/mod/lithium) | mc26.2-0.25.3-neoforge | client, server |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
-| [Faithful 64x](https://modrinth.com/mod/faithful-64x) | Release-14-Chaos-Cubed | client |
-| [Prime's HD Textures FREE [32x]](https://modrinth.com/mod/primes-hd-textures) | 56.1 | client |
-| [SPBR](https://modrinth.com/mod/spbr) | 21.2 | client |
 | [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.3.15a-neoforge-mc26.2 | client |
 | [Fusion Connected Blocks](https://modrinth.com/mod/fusion-connected-blocks) | 1.1.0-mc1.20-26.2 | client |
 | [Fusion Block Transitions](https://modrinth.com/mod/fusion-block-transitions) | 1.0.3-mc1.20-26.2 | client |
-| [Solas Shader](https://modrinth.com/mod/solas-shader) | 3.7b | client |
-| [Patrix 32x](https://modrinth.com/mod/patrix-32x) | 91 | client |
-| [Respirited Coven](https://modrinth.com/mod/respirited-coven) | 2.0 | client |
-| [Pixlli](https://modrinth.com/mod/pixlli) | V57 | client |
-| [Clayful 512x](https://modrinth.com/mod/clayful-512x) | 1.4.2.6 | client |
-| [Default HD 128x](https://modrinth.com/mod/default-hd-128x) | 1.8.2.6 | client |
-| [rotrBLOCKS](https://modrinth.com/mod/rotrblocks) | V87-3D-Foliage | client |
-| [Default HD 512x](https://modrinth.com/mod/default-hd-512x) | 1.5.2.6 | client |
-| [ModernArch](https://modrinth.com/mod/modernarch) | 3.2.2 | client |
-| [Roundista - LabPBR](https://modrinth.com/mod/roundista) | 32 | client |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
