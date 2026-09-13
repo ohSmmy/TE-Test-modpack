@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.1233**
+Minecraft **26.2** · **neoforge** · версия **20260913.1303**
 
-## Моды (90)
+## Моды (93)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -76,9 +76,12 @@ Minecraft **26.2** · **neoforge** · версия **20260913.1233**
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
 | [Faithful 64x](https://modrinth.com/mod/faithful-64x) | Release-14-Chaos-Cubed | client |
 | [Prime's HD Textures FREE [32x]](https://modrinth.com/mod/primes-hd-textures) | 56.1 | client |
+| [SPBR](https://modrinth.com/mod/spbr) | 21.2 | client |
+| [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.3.15a-neoforge-mc26.2 | client |
+| [Fusion Connected Blocks](https://modrinth.com/mod/fusion-connected-blocks) | 1.1.0-mc1.20-26.2 | client |
+| [Fusion Block Transitions](https://modrinth.com/mod/fusion-block-transitions) | 1.0.3-mc1.20-26.2 | client |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
-| [fusion-connected-textures](https://modrinth.com/mod/fusion-connected-textures) | — | client |
 | [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
 | [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |
 | [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
