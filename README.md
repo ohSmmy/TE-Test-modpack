@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.0548**
+Minecraft **26.2** · **neoforge** · версия **20260913.0601**
 
 ## Моды (86)
 
@@ -80,7 +80,7 @@ Minecraft **26.2** · **neoforge** · версия **20260913.0548**
 | [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |
 | [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
-| [lithostitched](https://modrinth.com/mod/lithostitched) | — | server |
+| [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
 | [cristel-lib](https://modrinth.com/mod/cristel-lib) | — | client, server |
 | [cyclops-core](https://modrinth.com/mod/cyclops-core) | — | client, server |
 | [common-capabilities](https://modrinth.com/mod/common-capabilities) | — | client, server |

@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.0548",
+  "versionId": "20260913.0601",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1122,7 +1122,7 @@
         "sha512": "3b6d226a2b8ec8b9178c16c285874d12c1a14696f2af42983c72468a30f7acb0dc1ecd14eab26b96f51355ffff985ee05f0242719f9ff705cf1c4266663f0ad2"
       },
       "env": {
-        "client": "unsupported",
+        "client": "required",
         "server": "required"
       },
       "downloads": [
