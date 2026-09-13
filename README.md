@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.1118**
+Minecraft **26.2** · **neoforge** · версия **20260913.1233**
 
-## Моды (89)
+## Моды (90)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -75,6 +75,7 @@ Minecraft **26.2** · **neoforge** · версия **20260913.1118**
 | [Lithium](https://modrinth.com/mod/lithium) | mc26.2-0.25.3-neoforge | client, server |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
 | [Faithful 64x](https://modrinth.com/mod/faithful-64x) | Release-14-Chaos-Cubed | client |
+| [Prime's HD Textures FREE [32x]](https://modrinth.com/mod/primes-hd-textures) | 56.1 | client |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [fusion-connected-textures](https://modrinth.com/mod/fusion-connected-textures) | — | client |

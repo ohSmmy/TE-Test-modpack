@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.1118",
+  "versionId": "20260913.1233",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1039,6 +1039,21 @@
         "https://cdn.modrinth.com/data/r4GILswZ/versions/AOqbBNcY/Faithful%2064x%20-%20Release%2014.zip"
       ],
       "fileSize": 15357404
+    },
+    {
+      "path": "resourcepacks/Prime's HD Textures [32x].zip",
+      "hashes": {
+        "sha1": "ebc8538b791fe617f96fc92f522aa803ea06c207",
+        "sha512": "66b863ce91a6dc89e9b72eae26cb7b5438653c1727833d410d5c4a5c483956f34c49a5c6c34d55223f92350ababdb7c97d704d7f91711d852c75ff16a042e77c"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/PTSGmxET/versions/wYEiMpLi/Prime%27s%20HD%20Textures%20%5B32x%5D.zip"
+      ],
+      "fileSize": 21812433
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
