@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.1303**
+Minecraft **26.2** · **neoforge** · версия **20260913.1316**
 
-## Моды (93)
+## Моды (94)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -80,6 +80,7 @@ Minecraft **26.2** · **neoforge** · версия **20260913.1303**
 | [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.3.15a-neoforge-mc26.2 | client |
 | [Fusion Connected Blocks](https://modrinth.com/mod/fusion-connected-blocks) | 1.1.0-mc1.20-26.2 | client |
 | [Fusion Block Transitions](https://modrinth.com/mod/fusion-block-transitions) | 1.0.3-mc1.20-26.2 | client |
+| [Solas Shader](https://modrinth.com/mod/solas-shader) | 3.7b | client |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
