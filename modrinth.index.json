@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.0239",
+  "versionId": "20260913.0314",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -51,19 +51,64 @@
       "fileSize": 1128681
     },
     {
-      "path": "mods/iris-neoforge-1.11.2+mc26.2.jar",
+      "path": "mods/iris-neoforge-1.11.4+mc26.2.jar",
       "hashes": {
-        "sha1": "65330433644a0706156b63d02a44855d2b80dd15",
-        "sha512": "4f50647ba9644fd47feb7f1a46c74a34c7ef4a03e06d589243eed0863b8f08f5bc0ebf1e53a7c5e3ed55806204d3d22d50f9ec66d494e352375080e790096fdc"
+        "sha1": "decfbe06505849620da8f1381c88af1e122ecdd3",
+        "sha512": "d163ae2b7ece209d4b56dc4e95dc7873c076a20c851bf625ec6e27909a07f2a73838a4336311afcfa8701d7a3bc28108aee3a27d4b926f48ab903e2582bd7e6a"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/YL57xq9U/versions/bXt6zsZT/iris-neoforge-1.11.2%2Bmc26.2.jar"
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/k55HdONq/iris-neoforge-1.11.4%2Bmc26.2.jar"
       ],
-      "fileSize": 2751198
+      "fileSize": 2775477
+    },
+    {
+      "path": "mods/connectedglass-1.1.14a-neoforge-mc26.2.jar",
+      "hashes": {
+        "sha1": "1e1706dd131a08eb3dd0e3371cc316e16bf00ccd",
+        "sha512": "d785dfb4813a8e3deb3ecfa82baf02013e56619edd6da0a27c101bd59c40086aa1490a9bc951f8dfa5fc30da2d4fcbca3c2f5cb45634162c2287e076e1cb378b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/DghO0R02/versions/inqXx1Ea/connectedglass-1.1.14a-neoforge-mc26.2.jar"
+      ],
+      "fileSize": 830833
+    },
+    {
+      "path": "mods/rechiseled-1.2.5a-neoforge-mc26.2.jar",
+      "hashes": {
+        "sha1": "3e1f3a86b67ca2f7668d0b731560a2890dc74137",
+        "sha512": "f4228372d45881467de748b132e37101a177d17ea805da47fc5e46b9c81ca613a31466cebf486bdcdffb54cba55c32c0b42d7d557cc6d098963483c322f56d32"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/B0g2vT6l/versions/aZH7p1sk/rechiseled-1.2.5a-neoforge-mc26.2.jar"
+      ],
+      "fileSize": 11889496
+    },
+    {
+      "path": "mods/BuildingWands_3.2.2_release_neoforge_26.2.jar",
+      "hashes": {
+        "sha1": "6e54d1d32aec94136ee8891bf9e62694b3239a12",
+        "sha512": "e90394dbbbc3a1c2d4f3e463e3291e5eed83b1190bd69105a90ff607a758b5682723bc3fcd176c8e6ff4ff81ecfa575c98e5528bb1554546a9bd8c4e06718079"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XkisZUfp/versions/UHDeS0C0/BuildingWands_3.2.2_release_neoforge_26.2.jar"
+      ],
+      "fileSize": 464960
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
@@ -94,6 +139,66 @@
         "https://cdn.modrinth.com/data/s3dmwKy5/versions/POAebwFo/GlitchCore-neoforge-26.2-26.2.0.0.0.jar"
       ],
       "fileSize": 97831
+    },
+    {
+      "path": "mods/fusion-1.3.15a-neoforge-mc26.2.jar",
+      "hashes": {
+        "sha1": "83a73dfc59b32140966b802ad345e03409dc70d1",
+        "sha512": "e77944edd15418678a18087118cb130b171717db23e3c9a792f7016748df00820767f2f10a62b7619d98e2cf448d6422d41e4d5909649523e29fbb78493d7939"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/p19vrgc2/versions/AQoJqg7N/fusion-1.3.15a-neoforge-mc26.2.jar"
+      ],
+      "fileSize": 939134
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.24b-neoforge-mc26.2.jar",
+      "hashes": {
+        "sha1": "beca5020ae28e26e1d3ea30ba7518bc3a731a1f9",
+        "sha512": "923521f88c6d342d8af2606a85a527d4f53a1e58d03d2157aad8609e2972200228e8d8ee1da242b864c62d77ff01c6152e568dc28b7457821cc235bfa91614d3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/rOUBggPv/versions/HXpClO7i/supermartijn642corelib-1.1.24b-neoforge-mc26.2.jar"
+      ],
+      "fileSize": 594648
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8a-neoforge-mc26.2.jar",
+      "hashes": {
+        "sha1": "dcc8397332449e62a89a427a60d8b481bafc8ad9",
+        "sha512": "66bb048db8c035651f16b3427f9b9e82a57734fb2aaae1c42e4022c75859c658f5912028eecf382c2fd86643f69cf23157fe4c4e4983ccbaf5cf3449ff365018"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/LN9BxssP/versions/WAXoeL90/supermartijn642configlib-1.1.8a-neoforge-mc26.2.jar"
+      ],
+      "fileSize": 206426
+    },
+    {
+      "path": "mods/cloth-config-26.2.155.jar",
+      "hashes": {
+        "sha1": "6ea13f34b0fcdcc9299b766efa199dcc7cb73878",
+        "sha512": "3f7ea8108d8c0463764e419f3fe7d4d7f586b6fb7d2578de85f709b70d59587060a07c0fe02d5b79ed37e74850dd088caace40f8baefb4402df8139d076dc662"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/zErG1kOw/cloth-config-26.2.155.jar"
+      ],
+      "fileSize": 1135847
     },
     {
       "path": "servers.dat",
