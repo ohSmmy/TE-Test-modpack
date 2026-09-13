@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.0914**
+Minecraft **26.2** · **neoforge** · версия **20260913.0957**
 
-## Моды (88)
+## Моды (89)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -72,12 +72,13 @@ Minecraft **26.2** · **neoforge** · версия **20260913.0914**
 | [Euphoria Patches](https://modrinth.com/mod/euphoria-patches) | 1.10.1-r5.9.1-neoforge | client |
 | [Double Doors](https://modrinth.com/mod/double-doors) | 26.2.0-7.2-fabric+forge+neo | server |
 | [Controlling](https://modrinth.com/mod/controlling) | 26.2.2 | client |
-| [Solas Shader](https://modrinth.com/mod/solas-shader) | 3.7b | client |
-| [SPBR](https://modrinth.com/mod/spbr) | 21.2 | client |
+| [Lithium](https://modrinth.com/mod/lithium) | mc26.2-0.25.3-neoforge | client, server |
+| [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
+| [Distant Horizons](https://modrinth.com/mod/distanthorizons) | 3.2.0-b-26.2 | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
-| [fusion-connected-textures](https://modrinth.com/mod/fusion-connected-textures) | — | client |
 | [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
+| [fusion-connected-textures](https://modrinth.com/mod/fusion-connected-textures) | — | client |
 | [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |
 | [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |

@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.0914",
+  "versionId": "20260913.0957",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -996,34 +996,49 @@
       "fileSize": 78488
     },
     {
-      "path": "shaderpacks/Solas Shader V3.7b.zip",
+      "path": "mods/lithium-neoforge-0.25.3+mc26.2.jar",
       "hashes": {
-        "sha1": "abf2e33feae040cc91894aea11e6d30750d50ee9",
-        "sha512": "5c184091c2d9b1d8ee0f4f7eb720fdcd9e2f4aea5a0d7a425927f205ee6d1a3577ad1411176d3705b5945e1f39d81a50cac479ed6f2054d49d90a6002f2878d9"
+        "sha1": "e834dc970751b97605e2d06565b8998e22dd543a",
+        "sha512": "56f5299bc84084f2112abf61ea58bad101a7495cc8a1db3df0963494bce096e474c0bde0975831c30ec15c5c977451a31f82de90a09b769c94df91dbcb9b9286"
       },
       "env": {
         "client": "required",
-        "server": "unsupported"
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/EpQFjzrQ/versions/KcfQaN5J/Solas%20Shader%20V3.7b.zip"
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/J9CowDXK/lithium-neoforge-0.25.3%2Bmc26.2.jar"
       ],
-      "fileSize": 1252311
+      "fileSize": 904073
     },
     {
-      "path": "resourcepacks/SPBR-21_2.zip",
+      "path": "mods/ScalableLux-neoforge-0.3.0-alpha.0.16-all.jar",
       "hashes": {
-        "sha1": "746465f9c6b7baaa1f3931c7fff06a257fbd9dd0",
-        "sha512": "626ea8d795f331a07050c45dcbea6a4194d2c26da3576fb7238e9af39667840aa5bf2bbe5ffe6f3ae6e1f276216143921a65e1756346cb84d614762b283db7f9"
+        "sha1": "2985bbadd5e74bdbcb646d6cdb6053fa0b0766e7",
+        "sha512": "43eec805b97129dba07e48cc8bc92d62fa7d56956675b96bf3cba43fd73194388466805bddde32831df01461db3e8c221cc500d817ca7684bec4b02f237b07c6"
       },
       "env": {
         "client": "required",
-        "server": "unsupported"
+        "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/aNcOVoD7/versions/3s2tJ0xX/SPBR-21_2.zip"
+        "https://cdn.modrinth.com/data/Ps1zyz6x/versions/sj4ujwsT/ScalableLux-neoforge-0.3.0-alpha.0.16-all.jar"
       ],
-      "fileSize": 25856712
+      "fileSize": 195373
+    },
+    {
+      "path": "mods/DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar",
+      "hashes": {
+        "sha1": "3646a34691c0857a64614bb7ecd344d8b22b117a",
+        "sha512": "c1b8857776a002c2232887d891bd49195f3c3127a7abe1242376ad20371e31554d8ba6c7c92a195b70782cad94fe970941487f2af530988d9b8819455c859e72"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uCdwusMi/versions/gBf0SaV1/DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar"
+      ],
+      "fileSize": 29705395
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
@@ -1056,21 +1071,6 @@
       "fileSize": 97831
     },
     {
-      "path": "mods/fusion-1.3.15a-neoforge-mc26.2.jar",
-      "hashes": {
-        "sha1": "83a73dfc59b32140966b802ad345e03409dc70d1",
-        "sha512": "e77944edd15418678a18087118cb130b171717db23e3c9a792f7016748df00820767f2f10a62b7619d98e2cf448d6422d41e4d5909649523e29fbb78493d7939"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/p19vrgc2/versions/AQoJqg7N/fusion-1.3.15a-neoforge-mc26.2.jar"
-      ],
-      "fileSize": 939134
-    },
-    {
       "path": "mods/supermartijn642corelib-1.1.24b-neoforge-mc26.2.jar",
       "hashes": {
         "sha1": "beca5020ae28e26e1d3ea30ba7518bc3a731a1f9",
@@ -1084,6 +1084,21 @@
         "https://cdn.modrinth.com/data/rOUBggPv/versions/HXpClO7i/supermartijn642corelib-1.1.24b-neoforge-mc26.2.jar"
       ],
       "fileSize": 594648
+    },
+    {
+      "path": "mods/fusion-1.3.15a-neoforge-mc26.2.jar",
+      "hashes": {
+        "sha1": "83a73dfc59b32140966b802ad345e03409dc70d1",
+        "sha512": "e77944edd15418678a18087118cb130b171717db23e3c9a792f7016748df00820767f2f10a62b7619d98e2cf448d6422d41e4d5909649523e29fbb78493d7939"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/p19vrgc2/versions/AQoJqg7N/fusion-1.3.15a-neoforge-mc26.2.jar"
+      ],
+      "fileSize": 939134
     },
     {
       "path": "mods/supermartijn642configlib-1.1.8a-neoforge-mc26.2.jar",
