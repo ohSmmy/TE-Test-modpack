@@ -1,15 +1,15 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.1103**
+Minecraft **26.2** · **neoforge** · версия **20260913.1114**
 
-## Моды (90)
+## Моды (89)
 
 | Мод | Версия | Сторона |
 |---|---|---|
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | neoforge-2.6.23+26.2 | client, server |
 | [Complementary Shaders - Unbound](https://modrinth.com/mod/complementary-unbound) | r5.9.1 | client |
 | [Sodium](https://modrinth.com/mod/sodium) | mc26.2-0.9.1-neoforge | client |
-| [Iris Shaders](https://modrinth.com/mod/iris) | 1.11.4+26.2-neoforge | client |
+| [Iris Shaders](https://modrinth.com/mod/iris) | 1.11.2+26.2-neoforge | client |
 | [Connected Glass](https://modrinth.com/mod/connected-glass) | 1.1.14a-neoforge-mc26.2 | client, server |
 | [Rechiseled](https://modrinth.com/mod/rechiseled) | 1.2.5a-neoforge-mc26.2 | client, server |
 | [Building Wands](https://modrinth.com/mod/building-wands) | 3.2.2 | client, server |
@@ -74,7 +74,6 @@ Minecraft **26.2** · **neoforge** · версия **20260913.1103**
 | [Controlling](https://modrinth.com/mod/controlling) | 26.2.2 | client |
 | [Lithium](https://modrinth.com/mod/lithium) | mc26.2-0.25.3-neoforge | client, server |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
-| [Distant Horizons](https://modrinth.com/mod/distanthorizons) | 3.2.0-b-26.2 | client, server |
 | [Faithful 64x](https://modrinth.com/mod/faithful-64x) | Release-14-Chaos-Cubed | client |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |

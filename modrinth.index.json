@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.1103",
+  "versionId": "20260913.1114",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -51,19 +51,19 @@
       "fileSize": 1128681
     },
     {
-      "path": "mods/iris-neoforge-1.11.4+mc26.2.jar",
+      "path": "mods/iris-neoforge-1.11.2+mc26.2.jar",
       "hashes": {
-        "sha1": "decfbe06505849620da8f1381c88af1e122ecdd3",
-        "sha512": "d163ae2b7ece209d4b56dc4e95dc7873c076a20c851bf625ec6e27909a07f2a73838a4336311afcfa8701d7a3bc28108aee3a27d4b926f48ab903e2582bd7e6a"
+        "sha1": "65330433644a0706156b63d02a44855d2b80dd15",
+        "sha512": "4f50647ba9644fd47feb7f1a46c74a34c7ef4a03e06d589243eed0863b8f08f5bc0ebf1e53a7c5e3ed55806204d3d22d50f9ec66d494e352375080e790096fdc"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/YL57xq9U/versions/k55HdONq/iris-neoforge-1.11.4%2Bmc26.2.jar"
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/bXt6zsZT/iris-neoforge-1.11.2%2Bmc26.2.jar"
       ],
-      "fileSize": 2775477
+      "fileSize": 2751198
     },
     {
       "path": "mods/connectedglass-1.1.14a-neoforge-mc26.2.jar",
@@ -1024,21 +1024,6 @@
         "https://cdn.modrinth.com/data/Ps1zyz6x/versions/sj4ujwsT/ScalableLux-neoforge-0.3.0-alpha.0.16-all.jar"
       ],
       "fileSize": 195373
-    },
-    {
-      "path": "mods/DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar",
-      "hashes": {
-        "sha1": "3646a34691c0857a64614bb7ecd344d8b22b117a",
-        "sha512": "c1b8857776a002c2232887d891bd49195f3c3127a7abe1242376ad20371e31554d8ba6c7c92a195b70782cad94fe970941487f2af530988d9b8819455c859e72"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/uCdwusMi/versions/gBf0SaV1/DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar"
-      ],
-      "fileSize": 29705395
     },
     {
       "path": "resourcepacks/Faithful 64x - Release 14.zip",
