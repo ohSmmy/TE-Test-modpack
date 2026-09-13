@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.0849",
+  "versionId": "20260913.0854",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -994,6 +994,21 @@
         "https://cdn.modrinth.com/data/xv94TkTM/versions/sZjwQvip/Controlling-neoforge-26.2-26.2.2.jar"
       ],
       "fileSize": 78488
+    },
+    {
+      "path": "mods/eg_particle_interactions-0.10.2+26.2-neoforge.jar",
+      "hashes": {
+        "sha1": "1c7a09f33e11890fbe2a1c68c5655a7e17a409bc",
+        "sha512": "14712f4836ecfe9684771c6c08d2312bf4f1a717e3204f57769a70cae8898180d8e03f2d7b4f53bb3d97fc55ce05d6c80949735dda9eb4ef698fb342e78a5c54"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/xFCYuAs8/versions/ZcRyDX6w/eg_particle_interactions-0.10.2%2B26.2-neoforge.jar"
+      ],
+      "fileSize": 959095
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",

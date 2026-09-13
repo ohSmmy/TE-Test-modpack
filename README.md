@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.0849**
+Minecraft **26.2** · **neoforge** · версия **20260913.0854**
 
-## Моды (86)
+## Моды (87)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -72,6 +72,7 @@ Minecraft **26.2** · **neoforge** · версия **20260913.0849**
 | [Euphoria Patches](https://modrinth.com/mod/euphoria-patches) | 1.10.1-r5.9.1-neoforge | client |
 | [Double Doors](https://modrinth.com/mod/double-doors) | 26.2.0-7.2-fabric+forge+neo | server |
 | [Controlling](https://modrinth.com/mod/controlling) | 26.2.2 | client |
+| [Particle Interactions](https://modrinth.com/mod/particle-interactions) | 0.10.2+26.2-neoforge | client |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [fusion-connected-textures](https://modrinth.com/mod/fusion-connected-textures) | — | client |
