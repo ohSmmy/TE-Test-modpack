@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.1114**
+Minecraft **26.2** · **neoforge** · версия **20260913.1118**
 
 ## Моды (89)
 
@@ -8,8 +8,8 @@ Minecraft **26.2** · **neoforge** · версия **20260913.1114**
 |---|---|---|
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | neoforge-2.6.23+26.2 | client, server |
 | [Complementary Shaders - Unbound](https://modrinth.com/mod/complementary-unbound) | r5.9.1 | client |
-| [Sodium](https://modrinth.com/mod/sodium) | mc26.2-0.9.1-neoforge | client |
-| [Iris Shaders](https://modrinth.com/mod/iris) | 1.11.2+26.2-neoforge | client |
+| [Sodium](https://modrinth.com/mod/sodium) | mc26.2-0.9.2-neoforge | client |
+| [Iris Shaders](https://modrinth.com/mod/iris) | 1.11.4+26.2-neoforge | client |
 | [Connected Glass](https://modrinth.com/mod/connected-glass) | 1.1.14a-neoforge-mc26.2 | client, server |
 | [Rechiseled](https://modrinth.com/mod/rechiseled) | 1.2.5a-neoforge-mc26.2 | client, server |
 | [Building Wands](https://modrinth.com/mod/building-wands) | 3.2.2 | client, server |
