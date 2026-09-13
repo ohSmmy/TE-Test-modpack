@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.0544",
+  "versionId": "20260913.0548",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -981,6 +981,21 @@
       "fileSize": 78268
     },
     {
+      "path": "mods/Controlling-neoforge-26.2-26.2.2.jar",
+      "hashes": {
+        "sha1": "1d75f7c5988b8acf35d36e23f640a71359a6a511",
+        "sha512": "d18d63ebf8d79c38444907044f01e9e2ff16d8898e25291009bd6424f54b44b55315dd57e1321b999fa4686f3daf07f270bb604e7a202e76a88974736518d3e6"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/xv94TkTM/versions/sZjwQvip/Controlling-neoforge-26.2-26.2.2.jar"
+      ],
+      "fileSize": 78488
+    },
+    {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
       "hashes": {
         "sha1": "82ab30bc5cf0177e4ca1a0e5aad14d0e79e2aa13",
@@ -1264,6 +1279,21 @@
         "https://cdn.modrinth.com/data/e0M1UDsY/versions/M75JwjyS/collective-26.2.0-8.39.jar"
       ],
       "fileSize": 1084412
+    },
+    {
+      "path": "mods/Searchables-neoforge-26.2-1.0.1.jar",
+      "hashes": {
+        "sha1": "e7acd95200df601123c74e408ca08fd1c2f0ef22",
+        "sha512": "85c2388343c6fa33e1adb889e42df9136c6d105a89af7934ee60eb56a93ae7859c448dc3b2d015c4320a9b73df8a8ad038190fcf648739a8ecb1dc8f00f4dc75"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fuuu3xnx/versions/AUn6wxKQ/Searchables-neoforge-26.2-1.0.1.jar"
+      ],
+      "fileSize": 78160
     },
     {
       "path": "servers.dat",
