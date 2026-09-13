@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260913.0431**
+Minecraft **26.2** · **neoforge** · версия **20260913.0525**
 
-## Моды (82)
+## Моды (84)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -70,6 +70,7 @@ Minecraft **26.2** · **neoforge** · версия **20260913.0431**
 | [Packet Fixer](https://modrinth.com/mod/packet-fixer) | 3.3.6 | client, server |
 | [More Culling](https://modrinth.com/mod/moreculling) | 1.8.1 | client |
 | [Euphoria Patches](https://modrinth.com/mod/euphoria-patches) | 1.10.1-r5.9.1-neoforge | client |
+| [Double Doors](https://modrinth.com/mod/double-doors) | 26.2.0-7.2-fabric+forge+neo | server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [fusion-connected-textures](https://modrinth.com/mod/fusion-connected-textures) | — | client |
@@ -78,7 +79,7 @@ Minecraft **26.2** · **neoforge** · версия **20260913.0431**
 | [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |
 | [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
-| [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
+| [lithostitched](https://modrinth.com/mod/lithostitched) | — | server |
 | [cristel-lib](https://modrinth.com/mod/cristel-lib) | — | client, server |
 | [cyclops-core](https://modrinth.com/mod/cyclops-core) | — | client, server |
 | [common-capabilities](https://modrinth.com/mod/common-capabilities) | — | client, server |
@@ -88,3 +89,4 @@ Minecraft **26.2** · **neoforge** · версия **20260913.0431**
 | [player-animation-library](https://modrinth.com/mod/player-animation-library) | — | client, server |
 | [libipn](https://modrinth.com/mod/libipn) | — | client |
 | [almanac](https://modrinth.com/mod/almanac) | — | server |
+| [collective](https://modrinth.com/mod/collective) | — | client, server |
