@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.1401",
+  "versionId": "20260913.1422",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1159,6 +1159,111 @@
         "https://cdn.modrinth.com/data/TtuOyRmz/versions/37RjRnCL/%C2%A75Respirited%20Coven.zip"
       ],
       "fileSize": 87530
+    },
+    {
+      "path": "resourcepacks/Pixlli V57 26.3-1.13 128x.zip",
+      "hashes": {
+        "sha1": "3561d746c605979ba67ec4b17ee3aeaa6c77b4a7",
+        "sha512": "2d9be848c68b15083edf8f1a5e64066a2b970a43e622e66e82c4e5971dc29a3a263351f38bdb111dacdd154134352f17ff7dda0a953ab2eedf5723c63ed563d9"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/E8fGzGhh/versions/w9CkPND8/Pixlli%20V57%2026.3-1.13%20128x.zip"
+      ],
+      "fileSize": 154662941
+    },
+    {
+      "path": "resourcepacks/Clayful 512x Demo 1.4.2.6.zip",
+      "hashes": {
+        "sha1": "96b26df5eb7fa081831fbc6b089628a4dd35d3e7",
+        "sha512": "0f7e3609c0658885e48e6ae7e13670134a78ec36edd0181812c9a933d2da42eb5b8fffcebd7eb4a206c52a70bd07d7d15812dab51b11ffefca345c088e4c088d"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uCy5P8TZ/versions/lS2G2sje/Clayful%20512x%20Demo%201.4.2.6.zip"
+      ],
+      "fileSize": 31570567
+    },
+    {
+      "path": "resourcepacks/Default HD 128x Demo 1.8.2.6.zip",
+      "hashes": {
+        "sha1": "031dfb246fc96605ab1c489af3f1344d897129f5",
+        "sha512": "ef561935094562d8750d7009340b62832ba0ca09fe9957463262e38956e2359968280eaea4c3d36f1d47293cd9ecef49cad4bc53daca7a6b6168960a3e8d88da"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/orfTV6nk/versions/RjVfks9j/Default%20HD%20128x%20Demo%201.8.2.6.zip"
+      ],
+      "fileSize": 16876419
+    },
+    {
+      "path": "resourcepacks/rotrBLOCKS V87 [3D Foliage] 128x 26.2-1.13.zip",
+      "hashes": {
+        "sha1": "fe2259f8796ff136dba4f8e05a45ebe529f06c08",
+        "sha512": "37c0cbac4252044fe3cbdad8d1675926d2b8969e45aacc18ba6796f89ecf34ebd4d692bbce91b24046cf51055a2aca03fedbff793ead1f24379012cbd608037d"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/A8aBf1Xa/versions/mPNFFuBE/rotrBLOCKS%20V87%20%5B3D%20Foliage%5D%20128x%2026.2-1.13.zip"
+      ],
+      "fileSize": 187966788
+    },
+    {
+      "path": "resourcepacks/Default HD 512x Demo 1.5.2.6.zip",
+      "hashes": {
+        "sha1": "d8ec0ed7c8741d332eb83e15b83dfdf289c7d07f",
+        "sha512": "f611bcf245d522c433acaf7218d2d128888fb13c5e9aa62a514e7fc70ecbea8653d09c48dfd91aeab8b26acc4ebfb85356cfe4fab2e5d519f19896225e32ebba"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Vo7pxueF/versions/cgBpli3Z/Default%20HD%20512x%20Demo%201.5.2.6.zip"
+      ],
+      "fileSize": 21020616
+    },
+    {
+      "path": "resourcepacks/ModernArch v3.2.2 [26.2] [128x].zip",
+      "hashes": {
+        "sha1": "153dffe853e201f56e0972c047d919f59444baf7",
+        "sha512": "aa9531d4784f92dae0de4bca3a9aa5edf6c32050d6c60d95b7c3d65300594214b8613183faf325c3d948ecc8883801d2eedc51a807ecca446f261edb88a4abc1"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/J4cajZTT/versions/DOiaT3xO/ModernArch%20v3.2.2%20%5B26.2%5D%20%5B128x%5D.zip"
+      ],
+      "fileSize": 261289091
+    },
+    {
+      "path": "resourcepacks/Roundista 128x R32.zip",
+      "hashes": {
+        "sha1": "8f2cf4e6f3211686a767951b357966eb7fd71533",
+        "sha512": "98560f3b010b59f08952828268bf9691393c5022c4b19fbb5ea4d48fd0dc3cf83b4934b5bc6755d173c4d0bd11a050ee386971c7a015904e54422918dfd998d6"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/R4g9Nf07/versions/k9qKuU9l/Roundista%20128x%20R32.zip"
+      ],
+      "fileSize": 12511089
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
