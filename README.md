@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.0359**
+Minecraft **26.2** · **neoforge** · версия **20260914.0430**
 
 ## Моды (91)
 
@@ -12,7 +12,6 @@ Minecraft **26.2** · **neoforge** · версия **20260914.0359**
 | [Iris Shaders](https://modrinth.com/mod/iris) | 1.11.4+26.2-neoforge | client |
 | [Connected Glass](https://modrinth.com/mod/connected-glass) | 1.1.14a-neoforge-mc26.2 | client, server |
 | [Rechiseled](https://modrinth.com/mod/rechiseled) | 1.2.5a-neoforge-mc26.2 | client, server |
-| [Building Wands](https://modrinth.com/mod/building-wands) | 3.2.2 | client, server |
 | [Pufferfish's Skills](https://modrinth.com/mod/skills) | 0.19.0 | client, server |
 | [Pufferfish's Attributes](https://modrinth.com/mod/attributes) | 0.8.2 | client, server |
 | [Default Skill Trees](https://modrinth.com/mod/default-skill-trees) | 1.1 | client, server |
@@ -78,11 +77,11 @@ Minecraft **26.2** · **neoforge** · версия **20260914.0359**
 | [Fusion Connected Blocks](https://modrinth.com/mod/fusion-connected-blocks) | 1.1.0-mc1.20-26.2 | client |
 | [Fusion Block Transitions](https://modrinth.com/mod/fusion-block-transitions) | 1.0.3-mc1.20-26.2 | client |
 | [RE:Constructed Wands](https://modrinth.com/mod/reconstructed-wands) | 1.1.5+neoforge-26.2 | client, server |
+| [BuildPaste - Instant Structures](https://modrinth.com/mod/buildpaste) | 3.0.2 | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
 | [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |
-| [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |
 | [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
 | [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
@@ -93,6 +92,7 @@ Minecraft **26.2** · **neoforge** · версия **20260914.0359**
 | [balm](https://modrinth.com/mod/balm) | — | client, server |
 | [architectury-api](https://modrinth.com/mod/architectury-api) | — | client, server |
 | [player-animation-library](https://modrinth.com/mod/player-animation-library) | — | client, server |
+| [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [libipn](https://modrinth.com/mod/libipn) | — | client |
 | [almanac](https://modrinth.com/mod/almanac) | — | server |
 | [collective](https://modrinth.com/mod/collective) | — | client, server |

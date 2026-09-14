@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260914.0359",
+  "versionId": "20260914.0430",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -94,21 +94,6 @@
         "https://cdn.modrinth.com/data/B0g2vT6l/versions/aZH7p1sk/rechiseled-1.2.5a-neoforge-mc26.2.jar"
       ],
       "fileSize": 11889496
-    },
-    {
-      "path": "mods/BuildingWands_3.2.2_release_neoforge_26.2.jar",
-      "hashes": {
-        "sha1": "6e54d1d32aec94136ee8891bf9e62694b3239a12",
-        "sha512": "e90394dbbbc3a1c2d4f3e463e3291e5eed83b1190bd69105a90ff607a758b5682723bc3fcd176c8e6ff4ff81ecfa575c98e5528bb1554546a9bd8c4e06718079"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/XkisZUfp/versions/UHDeS0C0/BuildingWands_3.2.2_release_neoforge_26.2.jar"
-      ],
-      "fileSize": 464960
     },
     {
       "path": "mods/puffish_skills-0.19.0-26.2-neoforge.jar",
@@ -1086,6 +1071,21 @@
       "fileSize": 183330
     },
     {
+      "path": "mods/BuildPaste_NeoForge-26.2v3.0.2.jar",
+      "hashes": {
+        "sha1": "9b2e30de41c04af4eb0818134e6e05333ffbdcab",
+        "sha512": "07b71cd32c3cb3e80a5685cf9f26956b714380ab57291a638a586e3980a770b7f09fb2ab8d7651b9afd3d2f53024457b79a97140dd120d853efd5f65a82ce90b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9kNC5Mrh/versions/LqvH5V8x/BuildPaste_NeoForge-26.2v3.0.2.jar"
+      ],
+      "fileSize": 312043
+    },
+    {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
       "hashes": {
         "sha1": "82ab30bc5cf0177e4ca1a0e5aad14d0e79e2aa13",
@@ -1144,21 +1144,6 @@
         "https://cdn.modrinth.com/data/LN9BxssP/versions/WAXoeL90/supermartijn642configlib-1.1.8a-neoforge-mc26.2.jar"
       ],
       "fileSize": 206426
-    },
-    {
-      "path": "mods/cloth-config-26.2.155.jar",
-      "hashes": {
-        "sha1": "6ea13f34b0fcdcc9299b766efa199dcc7cb73878",
-        "sha512": "3f7ea8108d8c0463764e419f3fe7d4d7f586b6fb7d2578de85f709b70d59587060a07c0fe02d5b79ed37e74850dd088caace40f8baefb4402df8139d076dc662"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/9s6osm5g/versions/zErG1kOw/cloth-config-26.2.155.jar"
-      ],
-      "fileSize": 1135847
     },
     {
       "path": "mods/PuzzlesLib-v26.2.3-mc26.2.x-NeoForge.jar",
@@ -1309,6 +1294,21 @@
         "https://cdn.modrinth.com/data/ha1mEyJS/versions/Hq1CwB9w/PlayerAnimationLibMerged-1.2.6%2Bmc.26.2.jar"
       ],
       "fileSize": 419757
+    },
+    {
+      "path": "mods/cloth-config-26.2.155.jar",
+      "hashes": {
+        "sha1": "6ea13f34b0fcdcc9299b766efa199dcc7cb73878",
+        "sha512": "3f7ea8108d8c0463764e419f3fe7d4d7f586b6fb7d2578de85f709b70d59587060a07c0fe02d5b79ed37e74850dd088caace40f8baefb4402df8139d076dc662"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/zErG1kOw/cloth-config-26.2.155.jar"
+      ],
+      "fileSize": 1135847
     },
     {
       "path": "mods/libIPN-neoforge-26.2-6.8.3.jar",
