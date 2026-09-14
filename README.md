@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.1313**
+Minecraft **26.2** · **neoforge** · версия **20260914.1346**
 
-## Моды (120)
+## Моды (130)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -108,21 +108,31 @@ Minecraft **26.2** · **neoforge** · версия **20260914.1313**
 | [Sword Blocking Mechanics](https://modrinth.com/mod/sword-blocking-mechanics) | 26.2.0 | client, server |
 | [Melee Weapons Extended](https://modrinth.com/mod/melee-weapons-extended) | 1.4.0+mod | client, server |
 | [Too Many Bows](https://modrinth.com/mod/too-many-bows) | 1.0.1-26.2 | client, server |
+| [Searchables](https://modrinth.com/mod/searchables) | 1.0.1 | client |
+| [Bundle API](https://modrinth.com/mod/bundle-api) | 4.0.0+26.2-neoforge | client, server |
+| [Runes](https://modrinth.com/mod/runes) | 1.3.2+26.2-neoforge | client, server |
+| [Ranged Weapon API](https://modrinth.com/mod/ranged-weapon-api) | 4.0.0+26.2-neoforge | client, server |
+| [Armor Model API](https://modrinth.com/mod/armor-model-api) | 1.1.0+26.2-neoforge | client, server |
+| [Fzzy Config](https://modrinth.com/mod/fzzy-config) | 0.7.6+26.2+neoforge | client, server |
+| [Structure Pool API](https://modrinth.com/mod/structure-pool-api) | 1.3.0+26.2-neoforge | server |
+| [mixson](https://modrinth.com/mod/mixson) | 2.2.0 | client, server |
+| [Cristel Lib](https://modrinth.com/mod/cristel-lib) | neoforge-26.2-3.1.11 | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [spell-power](https://modrinth.com/mod/spell-power) | — | client, server |
 | [player-animation-library](https://modrinth.com/mod/player-animation-library) | — | client, server |
 | [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [collective](https://modrinth.com/mod/collective) | — | client, server |
-| [structure-pool-api](https://modrinth.com/mod/structure-pool-api) | — | server |
 | [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |
 | [balm](https://modrinth.com/mod/balm) | — | client, server |
 | [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |
 | [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
-| [almanac](https://modrinth.com/mod/almanac) | — | client, server |
+| [almanac](https://modrinth.com/mod/almanac) | — | server |
 | [architectury-api](https://modrinth.com/mod/architectury-api) | — | client, server |
 | [sophisticated-core](https://modrinth.com/mod/sophisticated-core) | — | client, server |
 | [cyclops-core](https://modrinth.com/mod/cyclops-core) | — | client, server |
 | [common-capabilities](https://modrinth.com/mod/common-capabilities) | — | client, server |
 | [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
 | [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
+| [critical-strike](https://modrinth.com/mod/critical-strike) | — | client, server |
+| [kotlin-lang-forge](https://modrinth.com/mod/kotlin-lang-forge) | — | client, server |

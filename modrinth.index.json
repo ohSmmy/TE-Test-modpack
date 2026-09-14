@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260914.1313",
+  "versionId": "20260914.1346",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1536,6 +1536,141 @@
       "fileSize": 1352477
     },
     {
+      "path": "mods/Searchables-neoforge-26.2-1.0.1.jar",
+      "hashes": {
+        "sha1": "e7acd95200df601123c74e408ca08fd1c2f0ef22",
+        "sha512": "85c2388343c6fa33e1adb889e42df9136c6d105a89af7934ee60eb56a93ae7859c448dc3b2d015c4320a9b73df8a8ad038190fcf648739a8ecb1dc8f00f4dc75"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fuuu3xnx/versions/AUn6wxKQ/Searchables-neoforge-26.2-1.0.1.jar"
+      ],
+      "fileSize": 78160
+    },
+    {
+      "path": "mods/bundle-api-neoforge-4.0.0+26.2.jar",
+      "hashes": {
+        "sha1": "b862cfd46b9d091d431ba7d88199058b8e958c6f",
+        "sha512": "3cad3a15ae694f407819fbdbaf5b4a998549f6c849c50c5b5c713d65b969e942adcbb692544275283a5e9f3508aa62752f6d824fa14316e88853f0b5d611dbe7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/n8QN6Z1a/versions/NtsAkuKY/bundle-api-neoforge-4.0.0%2B26.2.jar"
+      ],
+      "fileSize": 110066
+    },
+    {
+      "path": "mods/runes-neoforge-1.3.2+26.2.jar",
+      "hashes": {
+        "sha1": "c7d68803a564591db177415054c4d0b8e5ac1d05",
+        "sha512": "46344821358bc9ca8e1f99249a52365b61241ee1bb296b9312bf5904102947683d92b01996d85b148908397b9c2fc1cbd949ca7a0d4f11ae9a03c0445e5fa788"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lP9Yrr1E/versions/8VuD1vlH/runes-neoforge-1.3.2%2B26.2.jar"
+      ],
+      "fileSize": 389095
+    },
+    {
+      "path": "mods/ranged_weapon_api-neoforge-4.0.0+26.2.jar",
+      "hashes": {
+        "sha1": "432201d8930d1d79d7353a48ea92c4f02329576c",
+        "sha512": "47af97629296d6be71c8aa1a63dff51893403ba3d7250a6c19296f6447d8b16b70da894417d352c78c4b9acff4fe446cf8c34bcde527ebcbbc7b83a6141ecc8b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AqaIIO6D/versions/oXBMPShc/ranged_weapon_api-neoforge-4.0.0%2B26.2.jar"
+      ],
+      "fileSize": 159888
+    },
+    {
+      "path": "mods/armor_model_api-neoforge-1.1.0+26.2.jar",
+      "hashes": {
+        "sha1": "69a37cc54c764c59c2f2c2e01af792e8f99874ea",
+        "sha512": "0329d729424b51fbf47e4e555efe82f55a171051cfc6141a211c7daf98f4da3bcf5d54d22a7c4e19c399481e71d42df1c172c8621a465af7e90ad2c48615c34c"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/onz2NN2n/versions/kUSvVTaI/armor_model_api-neoforge-1.1.0%2B26.2.jar"
+      ],
+      "fileSize": 94407
+    },
+    {
+      "path": "mods/fzzy_config-0.7.6+26.2+neoforge.jar",
+      "hashes": {
+        "sha1": "1149c7faf96028f7be9b7aae3bdb843f13230631",
+        "sha512": "416edac97458a1acfc09757c060ef8950326c78add0922f4e94945e3f8e2f641cb8894fe5ab7f78a5d1cc50253cd5c1e1d09b2ce897982eadaff7f0811082818"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hYykXjDp/versions/lGlPvgBc/fzzy_config-0.7.6%2B26.2%2Bneoforge.jar"
+      ],
+      "fileSize": 2326995
+    },
+    {
+      "path": "mods/structure_pool_api-neoforge-1.3.0+26.2.jar",
+      "hashes": {
+        "sha1": "bffc020f986e18c3c08af4edbb014999193da276",
+        "sha512": "ebefe0177535e5b1546dd0d83e959d3702cbefe5ac52d59ce9be4157c181ae5d1d240ea4379228fc7958a2d03e20acbd17ebb19e9e74be96bf1df0102d4d3002"
+      },
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/LrYZi08Q/versions/LcCJkFaB/structure_pool_api-neoforge-1.3.0%2B26.2.jar"
+      ],
+      "fileSize": 126655
+    },
+    {
+      "path": "mods/mixson-2.2.0-multiloader.jar",
+      "hashes": {
+        "sha1": "d21e738c6e0d462b74053272773762e92e90054d",
+        "sha512": "0add1efe32cc073e822e4069afd4b2d2cd9e7175362519da4f954e36ba2012acf46aae681582da9e905df240f8f2e26ae23cc1b13da3107e5bf1c31c86ea6381"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/EgugIDm8/versions/76WpeR5z/mixson-2.2.0-multiloader.jar"
+      ],
+      "fileSize": 62343
+    },
+    {
+      "path": "mods/cristellib-neoforge-26.2-3.1.11.jar",
+      "hashes": {
+        "sha1": "6a75fc8067d50c2910a0b4b4cb4c6c0f668daa80",
+        "sha512": "06fa0508533b70fe912fd06b2b8860617ffd5d0203f54015a0c4df0f47c38fc602402e1697909da38044d667f3377c894b88fd47087c164ae022b020a64a0e08"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/cl223EMc/versions/rVwhMA5a/cristellib-neoforge-26.2-3.1.11.jar"
+      ],
+      "fileSize": 581404
+    },
+    {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
       "hashes": {
         "sha1": "82ab30bc5cf0177e4ca1a0e5aad14d0e79e2aa13",
@@ -1626,21 +1761,6 @@
       "fileSize": 1084412
     },
     {
-      "path": "mods/structure_pool_api-neoforge-1.3.0+26.2.jar",
-      "hashes": {
-        "sha1": "bffc020f986e18c3c08af4edbb014999193da276",
-        "sha512": "ebefe0177535e5b1546dd0d83e959d3702cbefe5ac52d59ce9be4157c181ae5d1d240ea4379228fc7958a2d03e20acbd17ebb19e9e74be96bf1df0102d4d3002"
-      },
-      "env": {
-        "client": "unsupported",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/LrYZi08Q/versions/LcCJkFaB/structure_pool_api-neoforge-1.3.0%2B26.2.jar"
-      ],
-      "fileSize": 126655
-    },
-    {
       "path": "mods/PuzzlesLib-v26.2.4-mc26.2.x-NeoForge.jar",
       "hashes": {
         "sha1": "fdc239aec7e3600f7d50541a9df041d41d107d18",
@@ -1707,7 +1827,7 @@
         "sha512": "e7bf6df95a9c6029d26a44a30362c221604e7612f17bbe5985b8c33aa606dec1755f7600b80e798b135bc69386796ce64d1beb15ac84c654caffc7d537d3e781"
       },
       "env": {
-        "client": "required",
+        "client": "unsupported",
         "server": "required"
       },
       "downloads": [
@@ -1804,6 +1924,36 @@
         "https://cdn.modrinth.com/data/XaDC71GB/versions/I3wYsfr2/lithostitched-1.8.0%2Bbeta6-neoforge-26.2.jar"
       ],
       "fileSize": 1019379
+    },
+    {
+      "path": "mods/critical_strike-neoforge-1.0.6+26.2.jar",
+      "hashes": {
+        "sha1": "763b7d9e6af7a9d91fed5436ab8b30a369506a10",
+        "sha512": "b5cbdb22be78ce68ca6e5390e0db2049617ace4b59cacdad39a2823343382f1f6ff7ca6daba939c03bd060b6f57c150d8a2bf39673a54f0092f10d0b3a2a3494"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ilvNBzFn/versions/jY9sJYUU/critical_strike-neoforge-1.0.6%2B26.2.jar"
+      ],
+      "fileSize": 132314
+    },
+    {
+      "path": "mods/KotlinLangForge-2.13.0-k2.4.20-3.1+neoforge.jar",
+      "hashes": {
+        "sha1": "1e93782c53157c66c8f557c0ff6727a7864bcc32",
+        "sha512": "8b4887312914ea297a9540411f2a5bf992af7b5e8b8b5686c4bea29e642513aca231d86b272844c5b9f8e8fee94a1772f146ecda8369fff91214f88c42f3dbf3"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1vrSzlao/versions/z7VDhg1n/KotlinLangForge-2.13.0-k2.4.20-3.1%2Bneoforge.jar"
+      ],
+      "fileSize": 8056700
     },
     {
       "path": "servers.dat",
