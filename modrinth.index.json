@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "test-auto-deps",
+  "versionId": "20260914.1622",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1536,6 +1536,21 @@
       "fileSize": 266593
     },
     {
+      "path": "mods/jegn-1.8.0+neoforge26.2.jar",
+      "hashes": {
+        "sha1": "d19611ce8184befe6fc7bcda12f9ba0363ad92a5",
+        "sha512": "6f9bf01fb2c220dc859ce0b76c51fc20066ab5475e9c0ccac0abd7569191f9391b5a38a56ef4631b44c976f6d1ce45c16750c8881d0fe8c9901e508f3b99cbbf"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/dxTydNDF/versions/ETKFS0De/jegn-1.8.0%2Bneoforge26.2.jar"
+      ],
+      "fileSize": 15874891
+    },
+    {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
       "hashes": {
         "sha1": "82ab30bc5cf0177e4ca1a0e5aad14d0e79e2aa13",
@@ -1941,6 +1956,21 @@
       "fileSize": 2326995
     },
     {
+      "path": "mods/geckolib-neoforge-26.2-5.5.5.jar",
+      "hashes": {
+        "sha1": "4f6dbaa46a44a6f5edfefce10b07c981159c5626",
+        "sha512": "833392a4e8a25d17e853e34e80e5b241c8233b27fb2c76484d35e5ac05216852cf52aa4b58b25a58e5af8b0bf976f479f2a8abb423b9f0cfe0e331744a15e6c9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/fTK5ltWI/geckolib-neoforge-26.2-5.5.5.jar"
+      ],
+      "fileSize": 1153705
+    },
+    {
       "path": "mods/KotlinLangForge-2.13.0-k2.4.20-3.1+neoforge.jar",
       "hashes": {
         "sha1": "1e93782c53157c66c8f557c0ff6727a7864bcc32",
@@ -1984,21 +2014,6 @@
         "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/pack-files/config/iris.properties"
       ],
       "fileSize": 312
-    },
-    {
-      "path": "options.txt",
-      "hashes": {
-        "sha1": "492273b2fe4e826fb7a56fe1e047e24bb175bff3",
-        "sha512": "2855c20d76eb8264224efa4de58fd05b6395a3fea26089a4558c73dc89ad89fa37ea581bc1f6f8a0e3f6974b5f43654c9d9abd98ddcf39852a52c7f33a994139"
-      },
-      "env": {
-        "client": "required",
-        "server": "optional"
-      },
-      "downloads": [
-        "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/pack-files/options.txt"
-      ],
-      "fileSize": 5886
     },
     {
       "path": "shaderpacks/ComplementaryUnbound_r5.9.1.zip.txt",

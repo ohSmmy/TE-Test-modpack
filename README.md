@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **test-auto-deps**
+Minecraft **26.2** · **neoforge** · версия **20260914.1622**
 
-## Моды (130)
+## Моды (132)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -108,6 +108,7 @@ Minecraft **26.2** · **neoforge** · версия **test-auto-deps**
 | [Armory (RPG Series)](https://modrinth.com/mod/armory-rpg-series) | 1.5.2+26.2-neoforge | client, server |
 | [Skill Tree (RPG Series)](https://modrinth.com/mod/skill-tree) | 1.6.1+26.2-neoforge | client, server |
 | [ReArm: Combat Overhaul](https://modrinth.com/mod/rearm) | 2.5.6+26.2 | client, server |
+| [Just Enough Guns New(unofficial port)](https://modrinth.com/mod/just-enough-guns-neoforge) | 1.8.0 | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [spell-power](https://modrinth.com/mod/spell-power) | — | client, server |
@@ -135,4 +136,5 @@ Minecraft **26.2** · **neoforge** · версия **test-auto-deps**
 | [critical-strike](https://modrinth.com/mod/critical-strike) | — | client, server |
 | [mixson](https://modrinth.com/mod/mixson) | — | client, server |
 | [fzzy-config](https://modrinth.com/mod/fzzy-config) | — | client, server |
+| [geckolib](https://modrinth.com/mod/geckolib) | — | client, server |
 | [kotlin-lang-forge](https://modrinth.com/mod/kotlin-lang-forge) | — | client, server |
