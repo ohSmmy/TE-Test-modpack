@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260914.1622",
+  "versionId": "20260914.1624",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1536,19 +1536,19 @@
       "fileSize": 266593
     },
     {
-      "path": "mods/jegn-1.8.0+neoforge26.2.jar",
+      "path": "mods/jegn-1.7.4+neoforge26.2.jar",
       "hashes": {
-        "sha1": "d19611ce8184befe6fc7bcda12f9ba0363ad92a5",
-        "sha512": "6f9bf01fb2c220dc859ce0b76c51fc20066ab5475e9c0ccac0abd7569191f9391b5a38a56ef4631b44c976f6d1ce45c16750c8881d0fe8c9901e508f3b99cbbf"
+        "sha1": "3d26755e789a18c8fc0c9df87989eae522403432",
+        "sha512": "1eb7e23ff29538c3d39e08686d8ecafbee0bc2aa5587ef5c1312ae019e02aa1a4b450e3bc5a6c085d6c2eaf774304dcae662ad3b08273907ee9f3c6405ec0c30"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/dxTydNDF/versions/ETKFS0De/jegn-1.8.0%2Bneoforge26.2.jar"
+        "https://cdn.modrinth.com/data/dxTydNDF/versions/DSRl1pA1/jegn-1.7.4%2Bneoforge26.2.jar"
       ],
-      "fileSize": 15874891
+      "fileSize": 14889604
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
