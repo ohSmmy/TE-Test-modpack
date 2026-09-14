@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.0931**
+Minecraft **26.2** · **neoforge** · версия **20260914.1155**
 
-## Моды (87)
+## Моды (102)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -37,6 +37,7 @@ Minecraft **26.2** · **neoforge** · версия **20260914.0931**
 | [Better Days](https://modrinth.com/mod/betterdays) | 26.2-4.1.1.7-NEOFORGE | client, server |
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | neoforge-2.6.23+26.2 | client, server |
 | [NetherPortalFix](https://modrinth.com/mod/netherportalfix) | 26.2.0.1+neoforge-26.2 | server |
+| [SelectiveBounds](https://modrinth.com/mod/selectivebounds) | 0.0.4+26.2 | client |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | neoforge-26.2-1.46.0 | client, server |
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | neoforge-26.2-26.5.0 | client, server |
 | [Immersive Armors](https://modrinth.com/mod/immersive-armors) | 1.8.2+26.2 | client, server |
@@ -74,22 +75,36 @@ Minecraft **26.2** · **neoforge** · версия **20260914.0931**
 | [Tectonic](https://modrinth.com/mod/tectonic) | 3.0.28-neoforge-26.2 | client, server |
 | [Curios API](https://modrinth.com/mod/curios) | 16.0.0+26.2 | client, server |
 | [Pufferfish's Attributes](https://modrinth.com/mod/attributes) | 0.8.2 | client, server |
-| [SelectiveBounds](https://modrinth.com/mod/selectivebounds) | 0.0.4+26.2 | client |
+| [Immersive Pillagers](https://modrinth.com/mod/immersive-pillagers) | 0.1.4+26.2 | client, server |
+| [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | 3.1.2 | client, server |
+| [Macaw's Windows](https://modrinth.com/mod/macaws-windows) | 2.4.2 | client, server |
+| [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) | 1.2.1 | client, server |
+| [Macaw's Doors](https://modrinth.com/mod/macaws-doors) | 1.1.5 | client, server |
+| [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs) | 2.3.2 | client, server |
+| [Macaw's Stairs](https://modrinth.com/mod/macaws-stairs) | 1.0.2 | client, server |
+| [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) | 3.4.2 | client, server |
+| [Just Enough Guns New(unofficial port)](https://modrinth.com/mod/just-enough-guns-neoforge) | 1.8.0 | client, server |
+| [Cooking for Blockheads](https://modrinth.com/mod/cooking-for-blockheads) | 26.2.0.4+neoforge-26.2 | client, server |
+| [Food TXF](https://modrinth.com/mod/food-txf) | 26.2-1.8.8-neoforge | client, server |
+| [Visual Workbench](https://modrinth.com/mod/visual-workbench) | 26.2.1 | client, server |
+| [Building Wands](https://modrinth.com/mod/building-wands) | 3.2.2 | client, server |
+| [Gazebos (RPG Series)](https://modrinth.com/mod/gazebos) | 2.2.0+26.2-neoforge | server |
+| [Sit](https://modrinth.com/mod/bl4cks-sit) | v1.5.2 | client, server |
+| [Ecologics](https://modrinth.com/mod/ecologics) | 2.6.0-NeoFab | client, server |
+| [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) | 5.4.0+26.2-neoforge | client, server |
+| [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) | 2.1.1-neoforge+mc.26.1-plus | client |
+| [Lootr](https://modrinth.com/mod/lootr) | 1.24.39.121 | client, server |
+| [Realistic Bees](https://modrinth.com/mod/realistic-bees) | 26.2.0-4.3-fabric+forge+neo | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |
 | [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
 | [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [almanac](https://modrinth.com/mod/almanac) | — | server |
-| [searchables](https://modrinth.com/mod/searchables) | — | client |
 | [collective](https://modrinth.com/mod/collective) | — | client, server |
-| [balm](https://modrinth.com/mod/balm) | — | client, server |
 | [player-animation-library](https://modrinth.com/mod/player-animation-library) | — | client, server |
 | [architectury-api](https://modrinth.com/mod/architectury-api) | — | client, server |
-| [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |
-| [sophisticated-core](https://modrinth.com/mod/sophisticated-core) | — | client, server |
 | [cyclops-core](https://modrinth.com/mod/cyclops-core) | — | client, server |
 | [common-capabilities](https://modrinth.com/mod/common-capabilities) | — | client, server |
 | [cristel-lib](https://modrinth.com/mod/cristel-lib) | — | client, server |
-| [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
 | [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
