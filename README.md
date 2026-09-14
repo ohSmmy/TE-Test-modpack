@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.1155**
+Minecraft **26.2** · **neoforge** · версия **20260914.1200**
 
-## Моды (102)
+## Моды (111)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -95,16 +95,25 @@ Minecraft **26.2** · **neoforge** · версия **20260914.1155**
 | [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) | 2.1.1-neoforge+mc.26.1-plus | client |
 | [Lootr](https://modrinth.com/mod/lootr) | 1.24.39.121 | client, server |
 | [Realistic Bees](https://modrinth.com/mod/realistic-bees) | 26.2.0-4.3-fabric+forge+neo | client, server |
+| [Spell Engine](https://modrinth.com/mod/spell-engine) | 1.10.5+26.2-neoforge | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |
 | [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
 | [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [almanac](https://modrinth.com/mod/almanac) | — | server |
+| [searchables](https://modrinth.com/mod/searchables) | — | client |
 | [collective](https://modrinth.com/mod/collective) | — | client, server |
+| [balm](https://modrinth.com/mod/balm) | — | client, server |
 | [player-animation-library](https://modrinth.com/mod/player-animation-library) | — | client, server |
 | [architectury-api](https://modrinth.com/mod/architectury-api) | — | client, server |
+| [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |
+| [sophisticated-core](https://modrinth.com/mod/sophisticated-core) | — | client, server |
 | [cyclops-core](https://modrinth.com/mod/cyclops-core) | — | client, server |
 | [common-capabilities](https://modrinth.com/mod/common-capabilities) | — | client, server |
 | [cristel-lib](https://modrinth.com/mod/cristel-lib) | — | client, server |
+| [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
 | [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
+| [geckolib](https://modrinth.com/mod/geckolib) | — | client, server |
+| [structure-pool-api](https://modrinth.com/mod/structure-pool-api) | — | server |
+| [spell-power](https://modrinth.com/mod/spell-power) | — | client, server |

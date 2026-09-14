@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260914.1155",
+  "versionId": "20260914.1200",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1341,6 +1341,21 @@
       "fileSize": 67294
     },
     {
+      "path": "mods/spell_engine-neoforge-1.10.5+26.2.jar",
+      "hashes": {
+        "sha1": "8df89a9202cadc71d9cf78425e9054399564b424",
+        "sha512": "7225684a748ee9d25208a6ec8cf82cfeb9153015c9a7c63ac96bfe983679107682c59e56d3f8ab5421d52ff0e9a65c48152ad66e21da33aa90f096d550372c23"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XvoWJaA2/versions/hP8KzYyC/spell_engine-neoforge-1.10.5%2B26.2.jar"
+      ],
+      "fileSize": 4638324
+    },
+    {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
       "hashes": {
         "sha1": "82ab30bc5cf0177e4ca1a0e5aad14d0e79e2aa13",
@@ -1431,6 +1446,21 @@
       "fileSize": 34836
     },
     {
+      "path": "mods/Searchables-neoforge-26.2-1.0.1.jar",
+      "hashes": {
+        "sha1": "e7acd95200df601123c74e408ca08fd1c2f0ef22",
+        "sha512": "85c2388343c6fa33e1adb889e42df9136c6d105a89af7934ee60eb56a93ae7859c448dc3b2d015c4320a9b73df8a8ad038190fcf648739a8ecb1dc8f00f4dc75"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/fuuu3xnx/versions/AUn6wxKQ/Searchables-neoforge-26.2-1.0.1.jar"
+      ],
+      "fileSize": 78160
+    },
+    {
       "path": "mods/collective-26.2.0-8.39.jar",
       "hashes": {
         "sha1": "f051fdc1037548a00eea700d0df9d777edf19cd7",
@@ -1444,6 +1474,21 @@
         "https://cdn.modrinth.com/data/e0M1UDsY/versions/M75JwjyS/collective-26.2.0-8.39.jar"
       ],
       "fileSize": 1084412
+    },
+    {
+      "path": "mods/balm-neoforge-26.2-26.2.0.8.jar",
+      "hashes": {
+        "sha1": "51b0f2839e1fb3ac118e19bb4914229b75f55c78",
+        "sha512": "e31831a8fb94c559a8e50e123b27f7e10d8f196a053cac82e78ea2cadea776033bf9b351e2db7d21f02dba0cdd8f05c60d6724bfd270f110f74cef605ca5ccc6"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/lGba52SO/balm-neoforge-26.2-26.2.0.8.jar"
+      ],
+      "fileSize": 1177422
     },
     {
       "path": "mods/PlayerAnimationLibMerged-1.2.6+mc.26.2.jar",
@@ -1474,6 +1519,36 @@
         "https://cdn.modrinth.com/data/lhGA9TYQ/versions/t6H9g0ug/architectury-neoforge-21.1.9.jar"
       ],
       "fileSize": 621834
+    },
+    {
+      "path": "mods/PuzzlesLib-v26.2.4-mc26.2.x-NeoForge.jar",
+      "hashes": {
+        "sha1": "fdc239aec7e3600f7d50541a9df041d41d107d18",
+        "sha512": "f81c3b2c091de5b3a6bad352f1cff22d8e032d7405eb81012b7a1b19a0ebbf60e7cf7b7b9629e0c2ca40a6ecdf25a7efe2b58c5112e77c64d4010fd334cde2cb"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/QAGBst4M/versions/7Y7PIhiq/PuzzlesLib-v26.2.4-mc26.2.x-NeoForge.jar"
+      ],
+      "fileSize": 1080323
+    },
+    {
+      "path": "mods/sophisticatedcore-26.2-1.5.0.2337.jar",
+      "hashes": {
+        "sha1": "971b2b22a7417639bd5ef2d10c3f91da3110c5a0",
+        "sha512": "c89cf0d9df75e9a97ad0a1ef638d240b10859b273baccaaef56a4a429712906a2bba4a8604624aa21b46ccbf2d4276274c3b682e099a4f8802bf68a0afbe2cec"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nmoqTijg/versions/HJLJBWYT/sophisticatedcore-26.2-1.5.0.2337.jar"
+      ],
+      "fileSize": 1834409
     },
     {
       "path": "mods/cyclopscore-26.2-neoforge-1.30.0-1142.jar",
@@ -1521,6 +1596,21 @@
       "fileSize": 581404
     },
     {
+      "path": "mods/ResourcefulLib-5.0.4.jar",
+      "hashes": {
+        "sha1": "71f3c46d72c472dd3232a02d4cbf217e36888ac7",
+        "sha512": "53aa77dd9875b0a9a42d8c84293eeb0b9169f7940aadff4571ea8c3022243869fc99e780bd4c94cd0c82ecdc210053c5a102a80bd074fbb9125a1068c83047dc"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/G1hIVOrD/versions/clkeiC1C/ResourcefulLib-5.0.4.jar"
+      ],
+      "fileSize": 448585
+    },
+    {
       "path": "mods/lithostitched-1.8.0+beta6-neoforge-26.2.jar",
       "hashes": {
         "sha1": "5c63b139ebbc4934e75faa664ff9bf4ec7190168",
@@ -1534,6 +1624,51 @@
         "https://cdn.modrinth.com/data/XaDC71GB/versions/I3wYsfr2/lithostitched-1.8.0%2Bbeta6-neoforge-26.2.jar"
       ],
       "fileSize": 1019379
+    },
+    {
+      "path": "mods/geckolib-neoforge-26.2-5.5.5.jar",
+      "hashes": {
+        "sha1": "4f6dbaa46a44a6f5edfefce10b07c981159c5626",
+        "sha512": "833392a4e8a25d17e853e34e80e5b241c8233b27fb2c76484d35e5ac05216852cf52aa4b58b25a58e5af8b0bf976f479f2a8abb423b9f0cfe0e331744a15e6c9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/fTK5ltWI/geckolib-neoforge-26.2-5.5.5.jar"
+      ],
+      "fileSize": 1153705
+    },
+    {
+      "path": "mods/structure_pool_api-neoforge-1.3.0+26.2.jar",
+      "hashes": {
+        "sha1": "bffc020f986e18c3c08af4edbb014999193da276",
+        "sha512": "ebefe0177535e5b1546dd0d83e959d3702cbefe5ac52d59ce9be4157c181ae5d1d240ea4379228fc7958a2d03e20acbd17ebb19e9e74be96bf1df0102d4d3002"
+      },
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/LrYZi08Q/versions/LcCJkFaB/structure_pool_api-neoforge-1.3.0%2B26.2.jar"
+      ],
+      "fileSize": 126655
+    },
+    {
+      "path": "mods/spell_power-neoforge-1.6.2+26.2.jar",
+      "hashes": {
+        "sha1": "d37f64c06c4a691683977b5844f8e3f9897cfaa7",
+        "sha512": "204e10234decbf6ca43dc14fc016cacf24ca32dd7f38b6a5a2063cf80124b5a2f207126ef651ef815c60924a966bb3e724153289fb4eb64456ff124c14fe0627"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8ooWzSQP/versions/JlBYCif9/spell_power-neoforge-1.6.2%2B26.2.jar"
+      ],
+      "fileSize": 221717
     },
     {
       "path": "servers.dat",
