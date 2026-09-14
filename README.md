@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.0533**
+Minecraft **26.2** · **neoforge** · версия **20260914.0547**
 
 ## Моды (91)
 
@@ -66,18 +66,18 @@ Minecraft **26.2** · **neoforge** · версия **20260914.0533**
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | 1.16.4+26.2-neoforge | client |
 | [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/mod/c2me-neoforge) | 0.4.2-alpha.0.96+26.2 | client, server |
 | [Let Me Despawn](https://modrinth.com/mod/lmd) | 1.26.9.1 | server |
-| [Packet Fixer](https://modrinth.com/mod/packet-fixer) | 3.3.6 | client, server |
-| [More Culling](https://modrinth.com/mod/moreculling) | 1.8.1 | client |
 | [Euphoria Patches](https://modrinth.com/mod/euphoria-patches) | 1.10.1-r5.9.1-neoforge | client |
-| [Double Doors](https://modrinth.com/mod/double-doors) | 26.2.0-7.2-fabric+forge+neo | server |
-| [Controlling](https://modrinth.com/mod/controlling) | 26.2.2 | client |
-| [Lithium](https://modrinth.com/mod/lithium) | mc26.2-0.25.3-neoforge | client, server |
-| [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
-| [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.3.15a-neoforge-mc26.2 | client |
-| [Fusion Connected Blocks](https://modrinth.com/mod/fusion-connected-blocks) | 1.1.0-mc1.20-26.2 | client |
-| [Fusion Block Transitions](https://modrinth.com/mod/fusion-block-transitions) | 1.0.3-mc1.20-26.2 | client |
-| [RE:Constructed Wands](https://modrinth.com/mod/reconstructed-wands) | 1.1.5+neoforge-26.2 | client, server |
 | [BuildPaste - Instant Structures](https://modrinth.com/mod/buildpaste) | 3.0.2 | client, server |
+| [RE:Constructed Wands](https://modrinth.com/mod/reconstructed-wands) | 1.1.5+neoforge-26.2 | client, server |
+| [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
+| [Lithium](https://modrinth.com/mod/lithium) | mc26.2-0.25.3-neoforge | client, server |
+| [More Culling](https://modrinth.com/mod/moreculling) | 1.8.1 | client |
+| [Packet Fixer](https://modrinth.com/mod/packet-fixer) | 3.3.6 | client, server |
+| [Fusion Block Transitions](https://modrinth.com/mod/fusion-block-transitions) | 1.0.3-mc1.20-26.2 | client |
+| [Fusion Connected Blocks](https://modrinth.com/mod/fusion-connected-blocks) | 1.1.0-mc1.20-26.2 | client |
+| [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.3.15a-neoforge-mc26.2 | client |
+| [Controlling](https://modrinth.com/mod/controlling) | 26.2.2 | client |
+| [Double Doors](https://modrinth.com/mod/double-doors) | 26.2.0-7.2-fabric+forge+neo | server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |

@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260914.0533",
+  "versionId": "20260914.0547",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -906,36 +906,6 @@
       "fileSize": 23014
     },
     {
-      "path": "mods/PacketFixer-neoforge-3.3.6.jar",
-      "hashes": {
-        "sha1": "83ace196cb55b167f4f17aec415df066c94effca",
-        "sha512": "ed515e9b909ec3f3098703d3008cdc5de251cf0e9d6272688b53d6c1af90eddca6302bd384ec4da64d99ffa9d72f503c652def631073f8f2e0688f0b09f3f2d2"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/c7m1mi73/versions/p904LRVx/PacketFixer-neoforge-3.3.6.jar"
-      ],
-      "fileSize": 30165
-    },
-    {
-      "path": "mods/moreculling-neoforge-26.2-1.8.1.jar",
-      "hashes": {
-        "sha1": "2efd4033809fdb70e6cbb9bf9ef61efcbd02d99d",
-        "sha512": "1665b3836929f6dd7c127b3e252bfc252175de248fda50c973da2ffd942c72731422c3168151afef9a22f555a24af12997e2f8324d75b4e144343abde99ded2c"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/51shyZVL/versions/dKLDGs8Q/moreculling-neoforge-26.2-1.8.1.jar"
-      ],
-      "fileSize": 349733
-    },
-    {
       "path": "mods/EuphoriaPatcher-1.10.1-r5.9.1-neoforge.jar",
       "hashes": {
         "sha1": "177c951ab0adf657cedeef3990212f8cee3cfa46",
@@ -951,109 +921,19 @@
       "fileSize": 4484557
     },
     {
-      "path": "mods/doubledoors-26.2.0-7.2.jar",
+      "path": "mods/BuildPaste_NeoForge-26.2v3.0.2.jar",
       "hashes": {
-        "sha1": "53cf464a2e7734851dd6f86568562865857469e7",
-        "sha512": "8d63de32bd7558812c78d67e5fe4e620bbb2aaa9f2f6b7af56020844aa5f7dcf9f7313db287bada2483073f04dfe05822c00a86eca83c597821543f85e22f024"
-      },
-      "env": {
-        "client": "unsupported",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/JrvR9OHr/versions/uiANFlUz/doubledoors-26.2.0-7.2.jar"
-      ],
-      "fileSize": 78268
-    },
-    {
-      "path": "mods/Controlling-neoforge-26.2-26.2.2.jar",
-      "hashes": {
-        "sha1": "1d75f7c5988b8acf35d36e23f640a71359a6a511",
-        "sha512": "d18d63ebf8d79c38444907044f01e9e2ff16d8898e25291009bd6424f54b44b55315dd57e1321b999fa4686f3daf07f270bb604e7a202e76a88974736518d3e6"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/xv94TkTM/versions/sZjwQvip/Controlling-neoforge-26.2-26.2.2.jar"
-      ],
-      "fileSize": 78488
-    },
-    {
-      "path": "mods/lithium-neoforge-0.25.3+mc26.2.jar",
-      "hashes": {
-        "sha1": "e834dc970751b97605e2d06565b8998e22dd543a",
-        "sha512": "56f5299bc84084f2112abf61ea58bad101a7495cc8a1db3df0963494bce096e474c0bde0975831c30ec15c5c977451a31f82de90a09b769c94df91dbcb9b9286"
+        "sha1": "9b2e30de41c04af4eb0818134e6e05333ffbdcab",
+        "sha512": "07b71cd32c3cb3e80a5685cf9f26956b714380ab57291a638a586e3980a770b7f09fb2ab8d7651b9afd3d2f53024457b79a97140dd120d853efd5f65a82ce90b"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/J9CowDXK/lithium-neoforge-0.25.3%2Bmc26.2.jar"
+        "https://cdn.modrinth.com/data/9kNC5Mrh/versions/LqvH5V8x/BuildPaste_NeoForge-26.2v3.0.2.jar"
       ],
-      "fileSize": 904073
-    },
-    {
-      "path": "mods/ScalableLux-neoforge-0.3.0-alpha.0.16-all.jar",
-      "hashes": {
-        "sha1": "2985bbadd5e74bdbcb646d6cdb6053fa0b0766e7",
-        "sha512": "43eec805b97129dba07e48cc8bc92d62fa7d56956675b96bf3cba43fd73194388466805bddde32831df01461db3e8c221cc500d817ca7684bec4b02f237b07c6"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Ps1zyz6x/versions/sj4ujwsT/ScalableLux-neoforge-0.3.0-alpha.0.16-all.jar"
-      ],
-      "fileSize": 195373
-    },
-    {
-      "path": "mods/fusion-1.3.15a-neoforge-mc26.2.jar",
-      "hashes": {
-        "sha1": "83a73dfc59b32140966b802ad345e03409dc70d1",
-        "sha512": "e77944edd15418678a18087118cb130b171717db23e3c9a792f7016748df00820767f2f10a62b7619d98e2cf448d6422d41e4d5909649523e29fbb78493d7939"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/p19vrgc2/versions/AQoJqg7N/fusion-1.3.15a-neoforge-mc26.2.jar"
-      ],
-      "fileSize": 939134
-    },
-    {
-      "path": "resourcepacks/Fusion Connected Blocks v1.1.0 for Minecraft 1.20-26.2.zip",
-      "hashes": {
-        "sha1": "e5dda814f0e371e18d97cdd222cbebd7a7278c5e",
-        "sha512": "874bfa2868c7f8be99ad0239f74f4b6df2bb94be175adde3e4c605833828995c20bf90b1b7bea07f4951534f33917cb8d014fdcf6ee8087f6d6fed95500f102b"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/2w5wDdfQ/versions/qiGWgBad/Fusion%20Connected%20Blocks%20v1.1.0%20for%20Minecraft%201.20-26.2.zip"
-      ],
-      "fileSize": 271587
-    },
-    {
-      "path": "resourcepacks/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip",
-      "hashes": {
-        "sha1": "e2dc1252f80b2ff5897621008ddbb10c2c8765ee",
-        "sha512": "f6901eb70ac14868dc2a151c5df6ed673e43fe2fee1b4929314fe17a1ec4ff864bc39d2b303923b701a3eb1a4bc2bdb311f2f3f6ec44e98f1285ad072d62773a"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/ajcwQmG4/versions/Mtnn67U3/Fusion%20Block%20Transitions%20v1.0.3%20for%20Minecraft%201.20-1.21.8.zip"
-      ],
-      "fileSize": 36152
+      "fileSize": 312043
     },
     {
       "path": "mods/reconstructedwands-neoforge-26.2-1.1.5.jar",
@@ -1071,19 +951,139 @@
       "fileSize": 183330
     },
     {
-      "path": "mods/BuildPaste_NeoForge-26.2v3.0.2.jar",
+      "path": "mods/ScalableLux-neoforge-0.3.0-alpha.0.16-all.jar",
       "hashes": {
-        "sha1": "9b2e30de41c04af4eb0818134e6e05333ffbdcab",
-        "sha512": "07b71cd32c3cb3e80a5685cf9f26956b714380ab57291a638a586e3980a770b7f09fb2ab8d7651b9afd3d2f53024457b79a97140dd120d853efd5f65a82ce90b"
+        "sha1": "2985bbadd5e74bdbcb646d6cdb6053fa0b0766e7",
+        "sha512": "43eec805b97129dba07e48cc8bc92d62fa7d56956675b96bf3cba43fd73194388466805bddde32831df01461db3e8c221cc500d817ca7684bec4b02f237b07c6"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/9kNC5Mrh/versions/LqvH5V8x/BuildPaste_NeoForge-26.2v3.0.2.jar"
+        "https://cdn.modrinth.com/data/Ps1zyz6x/versions/sj4ujwsT/ScalableLux-neoforge-0.3.0-alpha.0.16-all.jar"
       ],
-      "fileSize": 312043
+      "fileSize": 195373
+    },
+    {
+      "path": "mods/lithium-neoforge-0.25.3+mc26.2.jar",
+      "hashes": {
+        "sha1": "e834dc970751b97605e2d06565b8998e22dd543a",
+        "sha512": "56f5299bc84084f2112abf61ea58bad101a7495cc8a1db3df0963494bce096e474c0bde0975831c30ec15c5c977451a31f82de90a09b769c94df91dbcb9b9286"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/J9CowDXK/lithium-neoforge-0.25.3%2Bmc26.2.jar"
+      ],
+      "fileSize": 904073
+    },
+    {
+      "path": "mods/moreculling-neoforge-26.2-1.8.1.jar",
+      "hashes": {
+        "sha1": "2efd4033809fdb70e6cbb9bf9ef61efcbd02d99d",
+        "sha512": "1665b3836929f6dd7c127b3e252bfc252175de248fda50c973da2ffd942c72731422c3168151afef9a22f555a24af12997e2f8324d75b4e144343abde99ded2c"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/51shyZVL/versions/dKLDGs8Q/moreculling-neoforge-26.2-1.8.1.jar"
+      ],
+      "fileSize": 349733
+    },
+    {
+      "path": "mods/PacketFixer-neoforge-3.3.6.jar",
+      "hashes": {
+        "sha1": "83ace196cb55b167f4f17aec415df066c94effca",
+        "sha512": "ed515e9b909ec3f3098703d3008cdc5de251cf0e9d6272688b53d6c1af90eddca6302bd384ec4da64d99ffa9d72f503c652def631073f8f2e0688f0b09f3f2d2"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/c7m1mi73/versions/p904LRVx/PacketFixer-neoforge-3.3.6.jar"
+      ],
+      "fileSize": 30165
+    },
+    {
+      "path": "resourcepacks/Fusion Block Transitions v1.0.3 for Minecraft 1.20-1.21.8.zip",
+      "hashes": {
+        "sha1": "e2dc1252f80b2ff5897621008ddbb10c2c8765ee",
+        "sha512": "f6901eb70ac14868dc2a151c5df6ed673e43fe2fee1b4929314fe17a1ec4ff864bc39d2b303923b701a3eb1a4bc2bdb311f2f3f6ec44e98f1285ad072d62773a"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ajcwQmG4/versions/Mtnn67U3/Fusion%20Block%20Transitions%20v1.0.3%20for%20Minecraft%201.20-1.21.8.zip"
+      ],
+      "fileSize": 36152
+    },
+    {
+      "path": "resourcepacks/Fusion Connected Blocks v1.1.0 for Minecraft 1.20-26.2.zip",
+      "hashes": {
+        "sha1": "e5dda814f0e371e18d97cdd222cbebd7a7278c5e",
+        "sha512": "874bfa2868c7f8be99ad0239f74f4b6df2bb94be175adde3e4c605833828995c20bf90b1b7bea07f4951534f33917cb8d014fdcf6ee8087f6d6fed95500f102b"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2w5wDdfQ/versions/qiGWgBad/Fusion%20Connected%20Blocks%20v1.1.0%20for%20Minecraft%201.20-26.2.zip"
+      ],
+      "fileSize": 271587
+    },
+    {
+      "path": "mods/fusion-1.3.15a-neoforge-mc26.2.jar",
+      "hashes": {
+        "sha1": "83a73dfc59b32140966b802ad345e03409dc70d1",
+        "sha512": "e77944edd15418678a18087118cb130b171717db23e3c9a792f7016748df00820767f2f10a62b7619d98e2cf448d6422d41e4d5909649523e29fbb78493d7939"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/p19vrgc2/versions/AQoJqg7N/fusion-1.3.15a-neoforge-mc26.2.jar"
+      ],
+      "fileSize": 939134
+    },
+    {
+      "path": "mods/Controlling-neoforge-26.2-26.2.2.jar",
+      "hashes": {
+        "sha1": "1d75f7c5988b8acf35d36e23f640a71359a6a511",
+        "sha512": "d18d63ebf8d79c38444907044f01e9e2ff16d8898e25291009bd6424f54b44b55315dd57e1321b999fa4686f3daf07f270bb604e7a202e76a88974736518d3e6"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/xv94TkTM/versions/sZjwQvip/Controlling-neoforge-26.2-26.2.2.jar"
+      ],
+      "fileSize": 78488
+    },
+    {
+      "path": "mods/doubledoors-26.2.0-7.2.jar",
+      "hashes": {
+        "sha1": "53cf464a2e7734851dd6f86568562865857469e7",
+        "sha512": "8d63de32bd7558812c78d67e5fe4e620bbb2aaa9f2f6b7af56020844aa5f7dcf9f7313db287bada2483073f04dfe05822c00a86eca83c597821543f85e22f024"
+      },
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/JrvR9OHr/versions/uiANFlUz/doubledoors-26.2.0-7.2.jar"
+      ],
+      "fileSize": 78268
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
