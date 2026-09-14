@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.2350**
+Minecraft **26.2** · **neoforge** · версия **20260914.2353**
 
 ## Моды (132)
 
@@ -131,8 +131,8 @@ Minecraft **26.2** · **neoforge** · версия **20260914.2350**
 | [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
 | [armor-model-api](https://modrinth.com/mod/armor-model-api) | — | client, server |
 | [runes](https://modrinth.com/mod/runes) | — | client, server |
-| [bundle-api](https://modrinth.com/mod/bundle-api) | — | client, server |
 | [ranged-weapon-api](https://modrinth.com/mod/ranged-weapon-api) | — | client, server |
+| [bundle-api](https://modrinth.com/mod/bundle-api) | — | client, server |
 | [critical-strike](https://modrinth.com/mod/critical-strike) | — | client, server |
 | [mixson](https://modrinth.com/mod/mixson) | — | client, server |
 | [fzzy-config](https://modrinth.com/mod/fzzy-config) | — | client, server |
