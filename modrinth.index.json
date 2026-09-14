@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260914.0908",
+  "versionId": "20260914.0922",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1026,34 +1026,19 @@
       "fileSize": 191578
     },
     {
-      "path": "mods/eureka-262-fixed.jar",
+      "path": "mods/immersive_aircraft-neoforge-1.5.0+26.2.jar",
       "hashes": {
-        "sha1": "6fcb3327a07bbfdbc4436eec5d75368b574e2713",
-        "sha512": "798c5e47540ffc478bf090d52147846771205ac10b732701a6b70d92c478c0faacd9981c099d7d03d8adec0aabdfc8e3d0b0baabf1fd1386cf578eb5244c175b"
-      },
-      "env": {
-        "client": "unsupported",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/VNJb8F7l/versions/AMGaMnAX/eureka-262-fixed.jar"
-      ],
-      "fileSize": 1316486
-    },
-    {
-      "path": "mods/valkyrienskies-26-2-fixed.jar",
-      "hashes": {
-        "sha1": "571a9dfc144cf3a82585796dbdaaa8e4ded5ca44",
-        "sha512": "7a99589234464dc078e28d618ba3e44e79a549062b60b6dda944afe668474bfe841fb60822b86cc6fe9b3a4af7a6df64707b2d591c3f54a7870a71566de9e95b"
+        "sha1": "96495190df072227a187a804dd6828df5c8ec7dc",
+        "sha512": "7054b3c234c9d45d01e402de615524114e53260ca9109c3241c90a177780eb3ed13fcd5d10c4b087837928ec441711f1d234aea434bc10d9b0a1a1c56aaa8d11"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/GE25t0ct/versions/om5Avdbc/valkyrienskies-26-2-fixed.jar"
+        "https://cdn.modrinth.com/data/x3HZvrj6/versions/jtyNiqMx/immersive_aircraft-neoforge-1.5.0%2B26.2.jar"
       ],
-      "fileSize": 26699274
+      "fileSize": 2062521
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
@@ -1324,21 +1309,6 @@
         "https://cdn.modrinth.com/data/XaDC71GB/versions/I3wYsfr2/lithostitched-1.8.0%2Bbeta6-neoforge-26.2.jar"
       ],
       "fileSize": 1019379
-    },
-    {
-      "path": "mods/kotlinforforge-6.3.0-all.jar",
-      "hashes": {
-        "sha1": "62098bba4a4dba3354ede43a62fe5e012e5e667a",
-        "sha512": "0092fc7b4db1e35e53e7ddb5e7b4fa1dc5654c9100cdb298ad1b802308a470e75da21019d25774e643ff43bb79e9fb11d03170321504e0e471b4c36c00fad339"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/ordsPcFz/versions/WSKgpZoB/kotlinforforge-6.3.0-all.jar"
-      ],
-      "fileSize": 7279413
     },
     {
       "path": "servers.dat",

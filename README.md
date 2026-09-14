@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.0908**
+Minecraft **26.2** · **neoforge** · версия **20260914.0922**
 
-## Моды (89)
+## Моды (87)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -74,8 +74,7 @@ Minecraft **26.2** · **neoforge** · версия **20260914.0908**
 | [Curios API](https://modrinth.com/mod/curios) | 16.0.0+26.2 | client, server |
 | [Pufferfish's Attributes](https://modrinth.com/mod/attributes) | 0.8.2 | client, server |
 | [Fusion Connected Glass](https://modrinth.com/mod/fusion-connected-glass) | 1.0.1-mc1.20-26.2 | client |
-| [Eureka! [UNOFFICIAL PORT]](https://modrinth.com/mod/eureka!-(unofficial-port)) | 1.6.3 | server |
-| [Valkyrien Skies [UNOFFICIAL]  Port](https://modrinth.com/mod/valkyrien-skies-unnof-port) | 2.5.0-26.2 | client, server |
+| [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft) | 1.5.0+26.2 | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |
@@ -94,4 +93,3 @@ Minecraft **26.2** · **neoforge** · версия **20260914.0908**
 | [cristel-lib](https://modrinth.com/mod/cristel-lib) | — | client, server |
 | [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
 | [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
-| [kotlin-for-forge](https://modrinth.com/mod/kotlin-for-forge) | — | client, server |
