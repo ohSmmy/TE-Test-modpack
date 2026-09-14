@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.0922**
+Minecraft **26.2** · **neoforge** · версия **20260914.0931**
 
 ## Моды (87)
 
@@ -24,6 +24,7 @@ Minecraft **26.2** · **neoforge** · версия **20260914.0922**
 | [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.3.15a-neoforge-mc26.2 | client |
 | [Iris Shaders](https://modrinth.com/mod/iris) | 1.11.4+26.2-neoforge | client |
 | [Complementary Shaders - Unbound](https://modrinth.com/mod/complementary-unbound) | r5.9.1 | client |
+| [Fusion Connected Glass](https://modrinth.com/mod/fusion-connected-glass) | 1.0.1-mc1.20-26.2 | client |
 | [Controlling](https://modrinth.com/mod/controlling) | 26.2.2 | client |
 | [Double Doors](https://modrinth.com/mod/double-doors) | 26.2.0-7.2-fabric+forge+neo | server |
 | [FallingTree](https://modrinth.com/mod/fallingtree) | 26.2-26.2.0.3 | client, server |
@@ -73,8 +74,7 @@ Minecraft **26.2** · **neoforge** · версия **20260914.0922**
 | [Tectonic](https://modrinth.com/mod/tectonic) | 3.0.28-neoforge-26.2 | client, server |
 | [Curios API](https://modrinth.com/mod/curios) | 16.0.0+26.2 | client, server |
 | [Pufferfish's Attributes](https://modrinth.com/mod/attributes) | 0.8.2 | client, server |
-| [Fusion Connected Glass](https://modrinth.com/mod/fusion-connected-glass) | 1.0.1-mc1.20-26.2 | client |
-| [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft) | 1.5.0+26.2 | client, server |
+| [SelectiveBounds](https://modrinth.com/mod/selectivebounds) | 0.0.4+26.2 | client |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |

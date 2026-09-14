@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260914.0922",
+  "versionId": "20260914.0931",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -274,6 +274,21 @@
         "https://cdn.modrinth.com/data/R6NEzAwj/versions/UhZjVKiD/ComplementaryUnbound_r5.9.1.zip"
       ],
       "fileSize": 552949
+    },
+    {
+      "path": "resourcepacks/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
+      "hashes": {
+        "sha1": "48210e165b4df035509c2cdaba654afdb0ad27b3",
+        "sha512": "52eb4da683dffa4cf25d26b79e420d5488509128567ca6ec447859ae9e6bd855ad0cc722b45731f151b0a919283514d2f449e655e273ac86e9ab937e048e889b"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/xuN3KzPl/versions/oYKivjVk/Fusion%20Connected%20Glass%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip"
+      ],
+      "fileSize": 191578
     },
     {
       "path": "mods/Controlling-neoforge-26.2-26.2.2.jar",
@@ -1011,34 +1026,19 @@
       "fileSize": 45367
     },
     {
-      "path": "resourcepacks/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
+      "path": "mods/selectivebounds-neoforge-26.2-0.0.4.jar",
       "hashes": {
-        "sha1": "48210e165b4df035509c2cdaba654afdb0ad27b3",
-        "sha512": "52eb4da683dffa4cf25d26b79e420d5488509128567ca6ec447859ae9e6bd855ad0cc722b45731f151b0a919283514d2f449e655e273ac86e9ab937e048e889b"
+        "sha1": "fd32a1f4a1ab9d69340b95e487f6e31c89a0dbf7",
+        "sha512": "3e75486e2c4f9ea4302847a83b7a95e40a8845071ea7bf9eb1976a5d353d90b415d344d8ff369a430097f7a9984fade5f3978a4fe55c414f8bed3cb3065babe3"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/xuN3KzPl/versions/oYKivjVk/Fusion%20Connected%20Glass%20v1.0.1%20for%20Minecraft%201.20-1.21.8.zip"
+        "https://cdn.modrinth.com/data/rnTvRqwF/versions/Lx6Sl39a/selectivebounds-neoforge-26.2-0.0.4.jar"
       ],
-      "fileSize": 191578
-    },
-    {
-      "path": "mods/immersive_aircraft-neoforge-1.5.0+26.2.jar",
-      "hashes": {
-        "sha1": "96495190df072227a187a804dd6828df5c8ec7dc",
-        "sha512": "7054b3c234c9d45d01e402de615524114e53260ca9109c3241c90a177780eb3ed13fcd5d10c4b087837928ec441711f1d234aea434bc10d9b0a1a1c56aaa8d11"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/x3HZvrj6/versions/jtyNiqMx/immersive_aircraft-neoforge-1.5.0%2B26.2.jar"
-      ],
-      "fileSize": 2062521
+      "fileSize": 186151
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
