@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260913.1522",
+  "versionId": "20260914.0359",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1069,6 +1069,21 @@
         "https://cdn.modrinth.com/data/ajcwQmG4/versions/Mtnn67U3/Fusion%20Block%20Transitions%20v1.0.3%20for%20Minecraft%201.20-1.21.8.zip"
       ],
       "fileSize": 36152
+    },
+    {
+      "path": "mods/reconstructedwands-neoforge-26.2-1.1.5.jar",
+      "hashes": {
+        "sha1": "dc50e88d28d7cdc2e1d7a7146420102f47ee5921",
+        "sha512": "25e930bff9fa7cd70be6d0a76c2566bdce0adcb83d3bd82569668f3d49d2db7315cd7215fb4016a61efe1f404cb1832416a1d8c1d1b73f0c8be14b91378c8331"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/zj6ZBpmY/versions/ArxcjK0Q/reconstructedwands-neoforge-26.2-1.1.5.jar"
+      ],
+      "fileSize": 183330
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
