@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260915.0021**
+Minecraft **26.2** · **neoforge** · версия **20260915.0032**
 
 ## Моды (132)
 
@@ -108,7 +108,7 @@ Minecraft **26.2** · **neoforge** · версия **20260915.0021**
 | [Armory (RPG Series)](https://modrinth.com/mod/armory-rpg-series) | 1.5.2+26.2-neoforge | client, server |
 | [Skill Tree (RPG Series)](https://modrinth.com/mod/skill-tree) | 1.6.1+26.2-neoforge | client, server |
 | [ReArm: Combat Overhaul](https://modrinth.com/mod/rearm) | 2.5.6+26.2 | client, server |
-| [Just Enough Guns New(unofficial port)](https://modrinth.com/mod/just-enough-guns-neoforge) | 1.7.1 | client, server |
+| [Just Enough Guns New(unofficial port)](https://modrinth.com/mod/just-enough-guns-neoforge) | 1.7.4 | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [spell-power](https://modrinth.com/mod/spell-power) | — | client, server |
