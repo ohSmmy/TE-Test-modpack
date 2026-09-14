@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260915.0032",
+  "versionId": "20260915.0040",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1956,19 +1956,19 @@
       "fileSize": 2326995
     },
     {
-      "path": "mods/geckolib-neoforge-26.2-5.5.1.jar",
+      "path": "mods/geckolib-neoforge-26.2-5.5.5.jar",
       "hashes": {
-        "sha1": "878153315f3968ca9433c50bb61c24e46e5dd6c6",
-        "sha512": "f40e821a0965ebd6aef3711e93adae9f333f9b8d17cad524bedd01d3cb4c943e74903c48696f730036504c44f444ea36e2c4d7b5e105d47331a86aeb6520b804"
+        "sha1": "4f6dbaa46a44a6f5edfefce10b07c981159c5626",
+        "sha512": "833392a4e8a25d17e853e34e80e5b241c8233b27fb2c76484d35e5ac05216852cf52aa4b58b25a58e5af8b0bf976f479f2a8abb423b9f0cfe0e331744a15e6c9"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/IrgXoAwE/geckolib-neoforge-26.2-5.5.1.jar"
+        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/fTK5ltWI/geckolib-neoforge-26.2-5.5.5.jar"
       ],
-      "fileSize": 660795
+      "fileSize": 1153705
     },
     {
       "path": "mods/KotlinLangForge-2.14.0-k2.4.20-3.1+neoforge.jar",
