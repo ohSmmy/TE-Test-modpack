@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260914.1309",
+  "versionId": "20260914.1313",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1519,21 +1519,6 @@
         "https://cdn.modrinth.com/data/XZKVuqU3/versions/TWq0r6Ke/melee-weapons-extended-1.4.0.jar"
       ],
       "fileSize": 977444
-    },
-    {
-      "path": "mods/big_swords-1.1.0.jar",
-      "hashes": {
-        "sha1": "ee19a4eace941c541adf5810fe19eff907167522",
-        "sha512": "5fde066438ad8fe29929d17f6e044aed72940e3011bd6f8175be6e8fae6e31ed307ce7c21283944e74d25fecf07ed6dfc9faf45feedaa3623dc29ca6e9f638d4"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/edrOLdWE/versions/I6cDdraR/big_swords-1.1.0.jar"
-      ],
-      "fileSize": 606932
     },
     {
       "path": "mods/Too_Many_Bows-neoforge-1.0.1-26.2.jar",

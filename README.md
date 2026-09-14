@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.1309**
+Minecraft **26.2** · **neoforge** · версия **20260914.1313**
 
-## Моды (121)
+## Моды (120)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -107,7 +107,6 @@ Minecraft **26.2** · **neoforge** · версия **20260914.1309**
 | [ReArm: Combat Overhaul](https://modrinth.com/mod/rearm) | 2.5.6+26.2 | client, server |
 | [Sword Blocking Mechanics](https://modrinth.com/mod/sword-blocking-mechanics) | 26.2.0 | client, server |
 | [Melee Weapons Extended](https://modrinth.com/mod/melee-weapons-extended) | 1.4.0+mod | client, server |
-| [Big Swords R](https://modrinth.com/mod/big-swords-r) | 1.1.0 | client, server |
 | [Too Many Bows](https://modrinth.com/mod/too-many-bows) | 1.0.1-26.2 | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
