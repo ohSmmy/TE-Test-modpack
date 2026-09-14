@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.1944**
+Minecraft **26.2** · **neoforge** · версия **20260914.1950**
 
 ## Моды (132)
 
@@ -57,7 +57,7 @@ Minecraft **26.2** · **neoforge** · версия **20260914.1944**
 | [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) | 26.2-2.31-neoforge | client |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | 3.0.10+mc26.2 | client, server |
 | [Jade 🔍](https://modrinth.com/mod/jade) | 26.2.10+neoforge | client, server |
-| [Just Enough Items (JEI)](https://modrinth.com/mod/jei) | 30.32.0.216 | client, server |
+| [Just Enough Items (JEI)](https://modrinth.com/mod/jei) | 30.32.0.221 | client, server |
 | [Ping Wheel](https://modrinth.com/mod/ping-wheel) | 1.12.1 | client, server |
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | neoforge-1.0.40+26.2 | client, server |
 | [Better Days](https://modrinth.com/mod/betterdays) | 26.2-4.1.1.7-NEOFORGE | client, server |
@@ -108,7 +108,7 @@ Minecraft **26.2** · **neoforge** · версия **20260914.1944**
 | [Armory (RPG Series)](https://modrinth.com/mod/armory-rpg-series) | 1.5.2+26.2-neoforge | client, server |
 | [Skill Tree (RPG Series)](https://modrinth.com/mod/skill-tree) | 1.6.1+26.2-neoforge | client, server |
 | [ReArm: Combat Overhaul](https://modrinth.com/mod/rearm) | 2.5.6+26.2 | client, server |
-| [Just Enough Guns New(unofficial port)](https://modrinth.com/mod/just-enough-guns-neoforge) | 1.7.4 | client, server |
+| [Just Enough Guns New(unofficial port)](https://modrinth.com/mod/just-enough-guns-neoforge) | 1.8.0 | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [spell-power](https://modrinth.com/mod/spell-power) | — | client, server |
@@ -131,8 +131,8 @@ Minecraft **26.2** · **neoforge** · версия **20260914.1944**
 | [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
 | [armor-model-api](https://modrinth.com/mod/armor-model-api) | — | client, server |
 | [runes](https://modrinth.com/mod/runes) | — | client, server |
-| [ranged-weapon-api](https://modrinth.com/mod/ranged-weapon-api) | — | client, server |
 | [bundle-api](https://modrinth.com/mod/bundle-api) | — | client, server |
+| [ranged-weapon-api](https://modrinth.com/mod/ranged-weapon-api) | — | client, server |
 | [critical-strike](https://modrinth.com/mod/critical-strike) | — | client, server |
 | [mixson](https://modrinth.com/mod/mixson) | — | client, server |
 | [fzzy-config](https://modrinth.com/mod/fzzy-config) | — | client, server |

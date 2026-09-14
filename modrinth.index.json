@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260914.1944",
+  "versionId": "20260914.1950",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -771,19 +771,19 @@
       "fileSize": 1016197
     },
     {
-      "path": "mods/jei-26.2-neoforge-30.32.0.216.jar",
+      "path": "mods/jei-26.2-neoforge-30.32.0.221.jar",
       "hashes": {
-        "sha1": "f2661781bdf09e046dc1639376fb913d75647768",
-        "sha512": "e4657a0f1b07f10fcc1bd17d048bcfd4d540ce46fd33186b67501f6bca08fff78ef0c935328fecbac0a942b569bbdf2dc6f2b7c1a01544d397031fde12409024"
+        "sha1": "5a0cae16ea6e8bc4cef10e91efd71922bc8adf37",
+        "sha512": "19cef018e21bc3e354103b726c8134d137c1a874ae5c12f9845a798a05c0a440ff47da8c00fd45e7d6d7992649a7d97e7300badd4b987c23c6ce4b89007b3f22"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/u6dRKJwZ/versions/y97oxMLX/jei-26.2-neoforge-30.32.0.216.jar"
+        "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Yu5n9yOM/jei-26.2-neoforge-30.32.0.221.jar"
       ],
-      "fileSize": 1909433
+      "fileSize": 1909540
     },
     {
       "path": "mods/Ping-Wheel-1.12.1-neoforge-26.2.jar",
@@ -1536,19 +1536,19 @@
       "fileSize": 266593
     },
     {
-      "path": "mods/jegn-1.7.4+neoforge26.2.jar",
+      "path": "mods/jegn-1.8.0+neoforge26.2.jar",
       "hashes": {
-        "sha1": "3d26755e789a18c8fc0c9df87989eae522403432",
-        "sha512": "1eb7e23ff29538c3d39e08686d8ecafbee0bc2aa5587ef5c1312ae019e02aa1a4b450e3bc5a6c085d6c2eaf774304dcae662ad3b08273907ee9f3c6405ec0c30"
+        "sha1": "d19611ce8184befe6fc7bcda12f9ba0363ad92a5",
+        "sha512": "6f9bf01fb2c220dc859ce0b76c51fc20066ab5475e9c0ccac0abd7569191f9391b5a38a56ef4631b44c976f6d1ce45c16750c8881d0fe8c9901e508f3b99cbbf"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/dxTydNDF/versions/DSRl1pA1/jegn-1.7.4%2Bneoforge26.2.jar"
+        "https://cdn.modrinth.com/data/dxTydNDF/versions/ETKFS0De/jegn-1.8.0%2Bneoforge26.2.jar"
       ],
-      "fileSize": 14889604
+      "fileSize": 15874891
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
@@ -1881,21 +1881,6 @@
       "fileSize": 389095
     },
     {
-      "path": "mods/ranged_weapon_api-neoforge-4.0.0+26.2.jar",
-      "hashes": {
-        "sha1": "432201d8930d1d79d7353a48ea92c4f02329576c",
-        "sha512": "47af97629296d6be71c8aa1a63dff51893403ba3d7250a6c19296f6447d8b16b70da894417d352c78c4b9acff4fe446cf8c34bcde527ebcbbc7b83a6141ecc8b"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/AqaIIO6D/versions/oXBMPShc/ranged_weapon_api-neoforge-4.0.0%2B26.2.jar"
-      ],
-      "fileSize": 159888
-    },
-    {
       "path": "mods/bundle-api-neoforge-4.0.0+26.2.jar",
       "hashes": {
         "sha1": "b862cfd46b9d091d431ba7d88199058b8e958c6f",
@@ -1909,6 +1894,21 @@
         "https://cdn.modrinth.com/data/n8QN6Z1a/versions/NtsAkuKY/bundle-api-neoforge-4.0.0%2B26.2.jar"
       ],
       "fileSize": 110066
+    },
+    {
+      "path": "mods/ranged_weapon_api-neoforge-4.0.0+26.2.jar",
+      "hashes": {
+        "sha1": "432201d8930d1d79d7353a48ea92c4f02329576c",
+        "sha512": "47af97629296d6be71c8aa1a63dff51893403ba3d7250a6c19296f6447d8b16b70da894417d352c78c4b9acff4fe446cf8c34bcde527ebcbbc7b83a6141ecc8b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AqaIIO6D/versions/oXBMPShc/ranged_weapon_api-neoforge-4.0.0%2B26.2.jar"
+      ],
+      "fileSize": 159888
     },
     {
       "path": "mods/critical_strike-neoforge-1.0.6+26.2.jar",
@@ -1971,19 +1971,19 @@
       "fileSize": 1153705
     },
     {
-      "path": "mods/KotlinLangForge-2.13.0-k2.4.20-3.1+neoforge.jar",
+      "path": "mods/KotlinLangForge-2.14.0-k2.4.20-3.1+neoforge.jar",
       "hashes": {
-        "sha1": "1e93782c53157c66c8f557c0ff6727a7864bcc32",
-        "sha512": "8b4887312914ea297a9540411f2a5bf992af7b5e8b8b5686c4bea29e642513aca231d86b272844c5b9f8e8fee94a1772f146ecda8369fff91214f88c42f3dbf3"
+        "sha1": "cbcb93aa855ef6db6a387c336eff0aa091a0ae48",
+        "sha512": "0a554fa23292f88567d611ac1258eab471b5dae978dfb20195fb8c9fa4dceffa1cba7afe65953242042ab4301a174b8139c42ce6e7b68be9bdb13d2672317bc1"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/1vrSzlao/versions/z7VDhg1n/KotlinLangForge-2.13.0-k2.4.20-3.1%2Bneoforge.jar"
+        "https://cdn.modrinth.com/data/1vrSzlao/versions/6aLT01Dx/KotlinLangForge-2.14.0-k2.4.20-3.1%2Bneoforge.jar"
       ],
-      "fileSize": 8056700
+      "fileSize": 8214984
     },
     {
       "path": "servers.dat",
