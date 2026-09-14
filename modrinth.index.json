@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260914.1950",
+  "versionId": "20260914.2350",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -2014,6 +2014,21 @@
         "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/pack-files/config/iris.properties"
       ],
       "fileSize": 312
+    },
+    {
+      "path": "options.txt",
+      "hashes": {
+        "sha1": "492273b2fe4e826fb7a56fe1e047e24bb175bff3",
+        "sha512": "2855c20d76eb8264224efa4de58fd05b6395a3fea26089a4558c73dc89ad89fa37ea581bc1f6f8a0e3f6974b5f43654c9d9abd98ddcf39852a52c7f33a994139"
+      },
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/pack-files/options.txt"
+      ],
+      "fileSize": 5886
     },
     {
       "path": "shaderpacks/ComplementaryUnbound_r5.9.1.zip.txt",
