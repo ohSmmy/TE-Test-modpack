@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.1354**
+Minecraft **26.2** · **neoforge** · версия **20260914.1409**
 
 ## Моды (130)
 
@@ -28,7 +28,7 @@ Minecraft **26.2** · **neoforge** · версия **20260914.1354**
 | [Immersive Pillagers](https://modrinth.com/mod/immersive-pillagers) | 0.1.4+26.2 | client, server |
 | [BuildPaste - Instant Structures](https://modrinth.com/mod/buildpaste) | 3.0.2 | client, server |
 | [RE:Constructed Wands](https://modrinth.com/mod/reconstructed-wands) | 1.1.5+neoforge-26.2 | client, server |
-| [Rechiseled](https://modrinth.com/mod/rechiseled) | 1.2.5a-neoforge-mc26.2 | client, server |
+| [Rechiseled](https://modrinth.com/mod/rechiseled) | 1.2.6-neoforge-mc26.2 | client, server |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
 | [Lithium](https://modrinth.com/mod/lithium) | mc26.2-0.25.3-neoforge | client, server |
 | [More Culling](https://modrinth.com/mod/moreculling) | 1.8.1 | client |
@@ -80,7 +80,7 @@ Minecraft **26.2** · **neoforge** · версия **20260914.1354**
 | [GrowableOres](https://modrinth.com/mod/growableores) | 3.8.0-26.2-NeoForge | client, server |
 | [ Integrated Crafting](https://modrinth.com/mod/integrated-crafting) | 26.2-1.4.7-768 | client, server |
 | [Integrated Tunnels](https://modrinth.com/mod/integrated-tunnels) | 26.2-1.9.6-775 | client, server |
-| [Integrated Dynamics](https://modrinth.com/mod/integrated-dynamics) | 26.2-1.33.4-2125 | client, server |
+| [Integrated Dynamics](https://modrinth.com/mod/integrated-dynamics) | 26.2-1.33.4-2130 | client, server |
 | [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) | 1.120.2 | client, server |
 | [Serene Seasons](https://modrinth.com/mod/serene-seasons) | 26.1.2.0.5 | client, server |
 | [Towns and Towers](https://modrinth.com/mod/towns-and-towers) | 1.13.11 | client, server |
@@ -125,8 +125,8 @@ Minecraft **26.2** · **neoforge** · версия **20260914.1354**
 | [collective](https://modrinth.com/mod/collective) | — | client, server |
 | [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |
 | [balm](https://modrinth.com/mod/balm) | — | client, server |
-| [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |
 | [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
+| [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |
 | [almanac](https://modrinth.com/mod/almanac) | — | server |
 | [architectury-api](https://modrinth.com/mod/architectury-api) | — | client, server |
 | [sophisticated-core](https://modrinth.com/mod/sophisticated-core) | — | client, server |

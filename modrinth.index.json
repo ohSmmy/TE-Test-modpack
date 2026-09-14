@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260914.1354",
+  "versionId": "20260914.1409",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -336,19 +336,19 @@
       "fileSize": 183330
     },
     {
-      "path": "mods/rechiseled-1.2.5a-neoforge-mc26.2.jar",
+      "path": "mods/rechiseled-1.2.6-neoforge-mc26.2.jar",
       "hashes": {
-        "sha1": "3e1f3a86b67ca2f7668d0b731560a2890dc74137",
-        "sha512": "f4228372d45881467de748b132e37101a177d17ea805da47fc5e46b9c81ca613a31466cebf486bdcdffb54cba55c32c0b42d7d557cc6d098963483c322f56d32"
+        "sha1": "5b38a2970653475b2e165584fc91c2f0340bac67",
+        "sha512": "60d7a9fc6d13ec3056507188c1e2eaf7755b91ff198382bbfc07d725f855acb5142790a975339bcbb65c38d2b6c7c7b84413a77ef479184e75fdab671b7ad616"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/B0g2vT6l/versions/aZH7p1sk/rechiseled-1.2.5a-neoforge-mc26.2.jar"
+        "https://cdn.modrinth.com/data/B0g2vT6l/versions/1skiNH4v/rechiseled-1.2.6-neoforge-mc26.2.jar"
       ],
-      "fileSize": 11889496
+      "fileSize": 11916898
     },
     {
       "path": "mods/ScalableLux-neoforge-0.3.0-alpha.0.16-all.jar",
@@ -1116,19 +1116,19 @@
       "fileSize": 774945
     },
     {
-      "path": "mods/integrateddynamics-26.2-neoforge-1.33.4-2125.jar",
+      "path": "mods/integrateddynamics-26.2-neoforge-1.33.4-2130.jar",
       "hashes": {
-        "sha1": "6144959a9c8f7f52b09dcbe34af11cb3ce0816b9",
-        "sha512": "ec5f6e08156cb3c444ebe5cae24ea4a595ac601c7594d5badcf7dc3ab0208c8e62124851f3517f60b5aa6537e05504d1b7a3c91ee9b8590884ea0e6a9250392c"
+        "sha1": "92e590bf1adf60d01d107db57bb15e875adaa95d",
+        "sha512": "2254bd3b6bdc52d17346863a2c7230c8f28529eec0e7952b0f78edfd0c39388a41f1388c57b197018c41149a3afc19486f61a2a0edbaba01f974a341f22cfca1"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/yYzdQHJI/versions/Y0wo89au/integrateddynamics-26.2-neoforge-1.33.4-2125.jar"
+        "https://cdn.modrinth.com/data/yYzdQHJI/versions/MzqMCwC8/integrateddynamics-26.2-neoforge-1.33.4-2130.jar"
       ],
-      "fileSize": 4887207
+      "fileSize": 4898366
     },
     {
       "path": "mods/cc-tweaked-26.2-forge-1.120.2.jar",
@@ -1791,21 +1791,6 @@
       "fileSize": 1177422
     },
     {
-      "path": "mods/supermartijn642configlib-1.1.8a-neoforge-mc26.2.jar",
-      "hashes": {
-        "sha1": "dcc8397332449e62a89a427a60d8b481bafc8ad9",
-        "sha512": "66bb048db8c035651f16b3427f9b9e82a57734fb2aaae1c42e4022c75859c658f5912028eecf382c2fd86643f69cf23157fe4c4e4983ccbaf5cf3449ff365018"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/LN9BxssP/versions/WAXoeL90/supermartijn642configlib-1.1.8a-neoforge-mc26.2.jar"
-      ],
-      "fileSize": 206426
-    },
-    {
       "path": "mods/supermartijn642corelib-1.1.24b-neoforge-mc26.2.jar",
       "hashes": {
         "sha1": "beca5020ae28e26e1d3ea30ba7518bc3a731a1f9",
@@ -1819,6 +1804,21 @@
         "https://cdn.modrinth.com/data/rOUBggPv/versions/HXpClO7i/supermartijn642corelib-1.1.24b-neoforge-mc26.2.jar"
       ],
       "fileSize": 594648
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8a-neoforge-mc26.2.jar",
+      "hashes": {
+        "sha1": "dcc8397332449e62a89a427a60d8b481bafc8ad9",
+        "sha512": "66bb048db8c035651f16b3427f9b9e82a57734fb2aaae1c42e4022c75859c658f5912028eecf382c2fd86643f69cf23157fe4c4e4983ccbaf5cf3449ff365018"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/LN9BxssP/versions/WAXoeL90/supermartijn642configlib-1.1.8a-neoforge-mc26.2.jar"
+      ],
+      "fileSize": 206426
     },
     {
       "path": "mods/almanac-neoforge-26.2-1.26.9.1.jar",
