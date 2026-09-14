@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260915.0015**
+Minecraft **26.2** · **neoforge** · версия **20260915.0021**
 
 ## Моды (132)
 
@@ -49,7 +49,7 @@ Minecraft **26.2** · **neoforge** · версия **20260915.0015**
 | [Fusion Connected Blocks](https://modrinth.com/mod/fusion-connected-blocks) | 1.1.0-mc1.20-26.2 | client |
 | [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.3.15a-neoforge-mc26.2 | client |
 | [Iris Shaders](https://modrinth.com/mod/iris) | 1.11.4+26.2-neoforge | client |
-| [Complementary Shaders - Unbound](https://modrinth.com/mod/complementary-unbound) | r5.9.1 | client |
+| [Complementary Shaders - Unbound](https://modrinth.com/mod/complementary-unbound) | r5.9.2 | client |
 | [Fusion Connected Glass](https://modrinth.com/mod/fusion-connected-glass) | 1.0.1-mc1.20-26.2 | client |
 | [Controlling](https://modrinth.com/mod/controlling) | 26.2.2 | client |
 | [Double Doors](https://modrinth.com/mod/double-doors) | 26.2.0-7.2-fabric+forge+neo | server |
