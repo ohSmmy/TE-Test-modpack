@@ -1,11 +1,31 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.1200**
+Minecraft **26.2** · **neoforge** · версия **20260914.1246**
 
-## Моды (111)
+## Моды (110)
 
 | Мод | Версия | Сторона |
 |---|---|---|
+| [Spell Engine](https://modrinth.com/mod/spell-engine) | 1.10.5+26.2-neoforge | client, server |
+| [Realistic Bees](https://modrinth.com/mod/realistic-bees) | 26.2.0-4.3-fabric+forge+neo | client, server |
+| [Lootr](https://modrinth.com/mod/lootr) | 1.24.39.121 | client, server |
+| [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) | 2.1.1-neoforge+mc.26.1-plus | client |
+| [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) | 5.4.0+26.2-neoforge | client, server |
+| [Ecologics](https://modrinth.com/mod/ecologics) | 2.6.0-NeoFab | client, server |
+| [Sit](https://modrinth.com/mod/bl4cks-sit) | v1.5.2 | client, server |
+| [Gazebos (RPG Series)](https://modrinth.com/mod/gazebos) | 2.2.0+26.2-neoforge | server |
+| [Building Wands](https://modrinth.com/mod/building-wands) | 3.2.2 | client, server |
+| [Visual Workbench](https://modrinth.com/mod/visual-workbench) | 26.2.1 | client, server |
+| [Food TXF](https://modrinth.com/mod/food-txf) | 26.2-1.8.8-neoforge | client, server |
+| [Cooking for Blockheads](https://modrinth.com/mod/cooking-for-blockheads) | 26.2.0.4+neoforge-26.2 | client, server |
+| [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) | 3.4.2 | client, server |
+| [Macaw's Stairs](https://modrinth.com/mod/macaws-stairs) | 1.0.2 | client, server |
+| [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs) | 2.3.2 | client, server |
+| [Macaw's Doors](https://modrinth.com/mod/macaws-doors) | 1.1.5 | client, server |
+| [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) | 1.2.1 | client, server |
+| [Macaw's Windows](https://modrinth.com/mod/macaws-windows) | 2.4.2 | client, server |
+| [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | 3.1.2 | client, server |
+| [Immersive Pillagers](https://modrinth.com/mod/immersive-pillagers) | 0.1.4+26.2 | client, server |
 | [BuildPaste - Instant Structures](https://modrinth.com/mod/buildpaste) | 3.0.2 | client, server |
 | [RE:Constructed Wands](https://modrinth.com/mod/reconstructed-wands) | 1.1.5+neoforge-26.2 | client, server |
 | [Rechiseled](https://modrinth.com/mod/rechiseled) | 1.2.5a-neoforge-mc26.2 | client, server |
@@ -75,27 +95,6 @@ Minecraft **26.2** · **neoforge** · версия **20260914.1200**
 | [Tectonic](https://modrinth.com/mod/tectonic) | 3.0.28-neoforge-26.2 | client, server |
 | [Curios API](https://modrinth.com/mod/curios) | 16.0.0+26.2 | client, server |
 | [Pufferfish's Attributes](https://modrinth.com/mod/attributes) | 0.8.2 | client, server |
-| [Immersive Pillagers](https://modrinth.com/mod/immersive-pillagers) | 0.1.4+26.2 | client, server |
-| [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | 3.1.2 | client, server |
-| [Macaw's Windows](https://modrinth.com/mod/macaws-windows) | 2.4.2 | client, server |
-| [Macaw's Fences and Walls](https://modrinth.com/mod/macaws-fences-and-walls) | 1.2.1 | client, server |
-| [Macaw's Doors](https://modrinth.com/mod/macaws-doors) | 1.1.5 | client, server |
-| [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs) | 2.3.2 | client, server |
-| [Macaw's Stairs](https://modrinth.com/mod/macaws-stairs) | 1.0.2 | client, server |
-| [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) | 3.4.2 | client, server |
-| [Just Enough Guns New(unofficial port)](https://modrinth.com/mod/just-enough-guns-neoforge) | 1.8.0 | client, server |
-| [Cooking for Blockheads](https://modrinth.com/mod/cooking-for-blockheads) | 26.2.0.4+neoforge-26.2 | client, server |
-| [Food TXF](https://modrinth.com/mod/food-txf) | 26.2-1.8.8-neoforge | client, server |
-| [Visual Workbench](https://modrinth.com/mod/visual-workbench) | 26.2.1 | client, server |
-| [Building Wands](https://modrinth.com/mod/building-wands) | 3.2.2 | client, server |
-| [Gazebos (RPG Series)](https://modrinth.com/mod/gazebos) | 2.2.0+26.2-neoforge | server |
-| [Sit](https://modrinth.com/mod/bl4cks-sit) | v1.5.2 | client, server |
-| [Ecologics](https://modrinth.com/mod/ecologics) | 2.6.0-NeoFab | client, server |
-| [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) | 5.4.0+26.2-neoforge | client, server |
-| [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) | 2.1.1-neoforge+mc.26.1-plus | client |
-| [Lootr](https://modrinth.com/mod/lootr) | 1.24.39.121 | client, server |
-| [Realistic Bees](https://modrinth.com/mod/realistic-bees) | 26.2.0-4.3-fabric+forge+neo | client, server |
-| [Spell Engine](https://modrinth.com/mod/spell-engine) | 1.10.5+26.2-neoforge | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
 | [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |

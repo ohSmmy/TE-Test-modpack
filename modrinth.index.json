@@ -1,10 +1,310 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260914.1200",
+  "versionId": "20260914.1246",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
+    {
+      "path": "mods/spell_engine-neoforge-1.10.5+26.2.jar",
+      "hashes": {
+        "sha1": "8df89a9202cadc71d9cf78425e9054399564b424",
+        "sha512": "7225684a748ee9d25208a6ec8cf82cfeb9153015c9a7c63ac96bfe983679107682c59e56d3f8ab5421d52ff0e9a65c48152ad66e21da33aa90f096d550372c23"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XvoWJaA2/versions/hP8KzYyC/spell_engine-neoforge-1.10.5%2B26.2.jar"
+      ],
+      "fileSize": 4638324
+    },
+    {
+      "path": "mods/realisticbees-26.2.0-4.3.jar",
+      "hashes": {
+        "sha1": "612a49dc56521e33b9b02c10b52b5c31d61966f3",
+        "sha512": "63ceaa33322a16801b659dc0bf1456ace6b982f90602b376b499f1d0e4b13633a923d3a1e44c968ce7502409f0171bb02e1c8ac403f51865a390144c4e32f8cf"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/tG6HkcWx/versions/jjBdZPat/realisticbees-26.2.0-4.3.jar"
+      ],
+      "fileSize": 67294
+    },
+    {
+      "path": "mods/lootr-neoforge-26.2-1.24.39.121.jar",
+      "hashes": {
+        "sha1": "d797de96918530a73bcc9dbdcd9df8c975678e53",
+        "sha512": "54a8124a2b7cc50902e2c90d1f65c3ba4a644ce06b68043a946da09126a6ff6b6a260143c780a4568484d4eaba9251d837841e589c30d4e4e3f7f38b0967a7de"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/EltpO5cN/versions/mWjELssH/lootr-neoforge-26.2-1.24.39.121.jar"
+      ],
+      "fileSize": 1433492
+    },
+    {
+      "path": "mods/CameraOverhaul-v2.1.1-neoforge+mc[26.1-plus]-downgrade.jar",
+      "hashes": {
+        "sha1": "1e0d0a27cf98b3a3037b70b7f6ba85444b40d4bb",
+        "sha512": "a95d13b5ccbda10de6bbe6020fc1020b7d14dd8f0ef5f974019670f3ea4b7a7253ec7f3c0ac3b0a2ba65f20ebfd38044acc14082b820f403b287fe6fc090c0f2"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/m0oRwcZx/versions/r4Tt2qWT/CameraOverhaul-v2.1.1-neoforge%2Bmc%5B26.1-plus%5D-downgrade.jar"
+      ],
+      "fileSize": 136906
+    },
+    {
+      "path": "mods/shulkerboxtooltip-neoforge-5.4.0+26.2.jar",
+      "hashes": {
+        "sha1": "d7c59c5394b811d6c42bd62609e46764277d413c",
+        "sha512": "7c6ffd55042f2517a13ea8138b21b45563ec474d46f42566d503ce354ef15e0f2900f8a5e15f4d67f26dd9706034f9c374ecf2fc7432a4fd4f7fe6c2a9b28be7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/2M01OLQq/versions/dKpv8u25/shulkerboxtooltip-neoforge-5.4.0%2B26.2.jar"
+      ],
+      "fileSize": 418270
+    },
+    {
+      "path": "mods/Ecologics-NeoFab-26.2-2.6.0.jar",
+      "hashes": {
+        "sha1": "695bc3dddf2600d8bf230bad2d98cf2eaa0d7911",
+        "sha512": "5963b3d4aef9a96082a849047205042f75099212e8beb5a3588980d280d93239ca1f6f8a69c9415f363f33bc9a449f13ff9784c48d9559043b3a59bdb09c434f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NCKpPR0Z/versions/pHuIWHyx/Ecologics-NeoFab-26.2-2.6.0.jar"
+      ],
+      "fileSize": 2952774
+    },
+    {
+      "path": "mods/sit-neoforge-26.1.2-1.5.2.jar",
+      "hashes": {
+        "sha1": "a06b8ca43e311e1ab57dfc38a5ab07a30bba6262",
+        "sha512": "eecb96b49cfeff632aaad2cddd61466e572ac5564de1eadbc5f48bbd953296075e2d240ada6dd529eca1850c254001b00985c954974e1a8a2547c5ca36549c92"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/VKXzIykF/versions/eZTSuFZ9/sit-neoforge-26.1.2-1.5.2.jar"
+      ],
+      "fileSize": 69952
+    },
+    {
+      "path": "mods/gazebo-neoforge-2.2.0+26.2.jar",
+      "hashes": {
+        "sha1": "136e174b7b4b218c2e84c5d1fead3e550e9b36bb",
+        "sha512": "3a9978f114aab720fed1c960babf64f9d9eb56156501293028fbbd8a0e5de14bf8a032558dda9358815d297221ccde81aae148974eaa2d6249d5e4d9a9f799b5"
+      },
+      "env": {
+        "client": "unsupported",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XIpMGI6r/versions/T52pRR4I/gazebo-neoforge-2.2.0%2B26.2.jar"
+      ],
+      "fileSize": 112319
+    },
+    {
+      "path": "mods/BuildingWands_3.2.2_release_neoforge_26.2.jar",
+      "hashes": {
+        "sha1": "6e54d1d32aec94136ee8891bf9e62694b3239a12",
+        "sha512": "e90394dbbbc3a1c2d4f3e463e3291e5eed83b1190bd69105a90ff607a758b5682723bc3fcd176c8e6ff4ff81ecfa575c98e5528bb1554546a9bd8c4e06718079"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/XkisZUfp/versions/UHDeS0C0/BuildingWands_3.2.2_release_neoforge_26.2.jar"
+      ],
+      "fileSize": 464960
+    },
+    {
+      "path": "mods/VisualWorkbench-v26.2.1-mc26.2.x-NeoForge.jar",
+      "hashes": {
+        "sha1": "d8a192deeb8d10d02f69c5c878cfc0c94ae8170c",
+        "sha512": "ec40407e6b6c9025ba5bb66c03be2d86ae3d15b3c5e4e8d25eb1275bf45d9ec4ea0d8c85f834354857de4b87f81a0ec10bad51dd2932d14fa1a47268b1acc973"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kfqD1JRw/versions/zoLCpqp3/VisualWorkbench-v26.2.1-mc26.2.x-NeoForge.jar"
+      ],
+      "fileSize": 67090
+    },
+    {
+      "path": "mods/foodtxf-26.2-1.8.8-neoforge.jar",
+      "hashes": {
+        "sha1": "dccbe07a1905db5f325ae57e3ccf8208fec5aba6",
+        "sha512": "1d47420d880dadbb5297b162564917c3a05422b744896aac860715a20c10daf3ec88e7d4c55d3e973e499e1e728814208d3f177bdae133a4ea05a3a8c63d7064"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/gHfCZDqf/versions/uT2qrry7/foodtxf-26.2-1.8.8-neoforge.jar"
+      ],
+      "fileSize": 513942
+    },
+    {
+      "path": "mods/cookingforblockheads-neoforge-26.2-26.2.0.4.jar",
+      "hashes": {
+        "sha1": "abbb3ff780d039832267a19c92d129cb5ad43b7c",
+        "sha512": "cca2e313b8ba583f155429c6061053b398d12208562f34f159a2ff0be6dbdac91e7c33adda52799939a717bd63afa97ac7997378260f1bd71919ecc09a96f911"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/vJnhuDde/versions/cpldiHDH/cookingforblockheads-neoforge-26.2-26.2.0.4.jar"
+      ],
+      "fileSize": 1685718
+    },
+    {
+      "path": "mods/mcw-furniture-3.4.2-mc26.2neoforge.jar",
+      "hashes": {
+        "sha1": "b86d697f3cd0e7f0491156a898f0e7e1e6ebb1e7",
+        "sha512": "3dc8ad41b7c294486a01c7fde924c4b546d82990615aaedd5cc5a436ad226124cd0a63bc7a412b702dd4f1ddd80afb3182f5700cfb55d3492de1fc834fedec3b"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/dtWC90iB/versions/4F7cXrbM/mcw-furniture-3.4.2-mc26.2neoforge.jar"
+      ],
+      "fileSize": 2271288
+    },
+    {
+      "path": "mods/mcw-stairs-1.0.2-mc26.2neoforge.jar",
+      "hashes": {
+        "sha1": "a538a83baf72e845a30cee846e281a8d83f98e27",
+        "sha512": "5ff35c40b104f4f7ef0b2ba492e3218b916aac8beb41b380d738948b5f3c0bf379cb0556b6830b60d78170b1ff7e4e379ca1daf7a3195cded416ac8216e2445e"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iP3wH1ha/versions/gBbSYp0S/mcw-stairs-1.0.2-mc26.2neoforge.jar"
+      ],
+      "fileSize": 548824
+    },
+    {
+      "path": "mods/mcw-roofs-2.3.3-mc26.2neoforge.jar",
+      "hashes": {
+        "sha1": "49b106d9dd3a904c6b37e88a3e451ba91103293a",
+        "sha512": "7f61d05be7eb15caa40fbb4b9380f49800b55588e8289fa6aa7962a3df729ca1bb9be939abf3883c9d0832bcb432d985976007389d223de13ad92c70378fbc86"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/B8jaH3P1/versions/8LrM6fk1/mcw-roofs-2.3.3-mc26.2neoforge.jar"
+      ],
+      "fileSize": 1829796
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc26.2neoforge.jar",
+      "hashes": {
+        "sha1": "12ff356576c49cdbb2f3aa8ef9e2b63caf3012ab",
+        "sha512": "bfabca88b2909de352e3b84d5684a2902ba6dd5fd8b7d65965b1b062618f10304b299e3baff431520bd40195282843b644147402ffe9417c57aab8919e5ce49d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/kNxa8z3e/versions/vg0ghjvB/mcw-doors-1.1.5-mc26.2neoforge.jar"
+      ],
+      "fileSize": 1349249
+    },
+    {
+      "path": "mods/mcw-fences-1.2.1-mc26.2neoforge.jar",
+      "hashes": {
+        "sha1": "3f4a0af673d0fe68d3355adbc787d94ab8ebf001",
+        "sha512": "c84b214c5cc324d1812fa1b69a9e01231a4352dc3159eb5e77158084385f6e78462d6ca385a4ef8058580acd0fe6ee18285ff483004f208d76ef86a96fe277d1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GmwLse2I/versions/j11V8ma4/mcw-fences-1.2.1-mc26.2neoforge.jar"
+      ],
+      "fileSize": 697795
+    },
+    {
+      "path": "mods/mcw-windows-2.4.2-mc26.2neoforge.jar",
+      "hashes": {
+        "sha1": "39bbdbf424c784be8392d608744a947f49742ebb",
+        "sha512": "58cd6cf62ec5f3bacd56fc64b8197e282129a0d1b4e207e6d93c52368610edd7324ad301624bdab6a0d48ae8a41bce445b4513228b5d65022489cff1b008fb83"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/C7I0BCni/versions/miNdJSEk/mcw-windows-2.4.2-mc26.2neoforge.jar"
+      ],
+      "fileSize": 1324783
+    },
+    {
+      "path": "mods/mcw-bridges-3.1.2-mc26.2neoforge.jar",
+      "hashes": {
+        "sha1": "1c9622a8f740adc2d8e47b17ba6a4bb2355fa887",
+        "sha512": "5cdebb8a36e991d04e46df6cbd447fe3301b8b0da96cf5260058488a831704442106c7e4e007601f757310ac44389fffb9925743a21f8d77eb5059bd2f76fce1"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GURcjz8O/versions/VA1Q4KvP/mcw-bridges-3.1.2-mc26.2neoforge.jar"
+      ],
+      "fileSize": 677014
+    },
+    {
+      "path": "mods/immersive_pillagers-neoforge-0.1.4+26.2.jar",
+      "hashes": {
+        "sha1": "74964c53e0e6b4b312cea92d6b4504ab72aecdd3",
+        "sha512": "0a3f4e0d6ea87d0be514046a5a2beb83b2d00756e98d5084ce56854bdbd62cc66a8b8bacae3e45a762796e8fccfa026a3e439bbd3c3b69da05909b22cf7d7db9"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/oFiblXl3/versions/2e7ht6TZ/immersive_pillagers-neoforge-0.1.4%2B26.2.jar"
+      ],
+      "fileSize": 764385
+    },
     {
       "path": "mods/BuildPaste_NeoForge-26.2v3.0.2.jar",
       "hashes": {
@@ -1039,321 +1339,6 @@
         "https://cdn.modrinth.com/data/FCFcFw09/versions/gyoJ3TXS/puffish_attributes-0.8.2-26.1-neoforge.jar"
       ],
       "fileSize": 45367
-    },
-    {
-      "path": "mods/immersive_pillagers-neoforge-0.1.4+26.2.jar",
-      "hashes": {
-        "sha1": "74964c53e0e6b4b312cea92d6b4504ab72aecdd3",
-        "sha512": "0a3f4e0d6ea87d0be514046a5a2beb83b2d00756e98d5084ce56854bdbd62cc66a8b8bacae3e45a762796e8fccfa026a3e439bbd3c3b69da05909b22cf7d7db9"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/oFiblXl3/versions/2e7ht6TZ/immersive_pillagers-neoforge-0.1.4%2B26.2.jar"
-      ],
-      "fileSize": 764385
-    },
-    {
-      "path": "mods/mcw-bridges-3.1.2-mc26.2neoforge.jar",
-      "hashes": {
-        "sha1": "1c9622a8f740adc2d8e47b17ba6a4bb2355fa887",
-        "sha512": "5cdebb8a36e991d04e46df6cbd447fe3301b8b0da96cf5260058488a831704442106c7e4e007601f757310ac44389fffb9925743a21f8d77eb5059bd2f76fce1"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/GURcjz8O/versions/VA1Q4KvP/mcw-bridges-3.1.2-mc26.2neoforge.jar"
-      ],
-      "fileSize": 677014
-    },
-    {
-      "path": "mods/mcw-windows-2.4.2-mc26.2neoforge.jar",
-      "hashes": {
-        "sha1": "39bbdbf424c784be8392d608744a947f49742ebb",
-        "sha512": "58cd6cf62ec5f3bacd56fc64b8197e282129a0d1b4e207e6d93c52368610edd7324ad301624bdab6a0d48ae8a41bce445b4513228b5d65022489cff1b008fb83"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/C7I0BCni/versions/miNdJSEk/mcw-windows-2.4.2-mc26.2neoforge.jar"
-      ],
-      "fileSize": 1324783
-    },
-    {
-      "path": "mods/mcw-fences-1.2.1-mc26.2neoforge.jar",
-      "hashes": {
-        "sha1": "3f4a0af673d0fe68d3355adbc787d94ab8ebf001",
-        "sha512": "c84b214c5cc324d1812fa1b69a9e01231a4352dc3159eb5e77158084385f6e78462d6ca385a4ef8058580acd0fe6ee18285ff483004f208d76ef86a96fe277d1"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/GmwLse2I/versions/j11V8ma4/mcw-fences-1.2.1-mc26.2neoforge.jar"
-      ],
-      "fileSize": 697795
-    },
-    {
-      "path": "mods/mcw-doors-1.1.5-mc26.2neoforge.jar",
-      "hashes": {
-        "sha1": "12ff356576c49cdbb2f3aa8ef9e2b63caf3012ab",
-        "sha512": "bfabca88b2909de352e3b84d5684a2902ba6dd5fd8b7d65965b1b062618f10304b299e3baff431520bd40195282843b644147402ffe9417c57aab8919e5ce49d"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/kNxa8z3e/versions/vg0ghjvB/mcw-doors-1.1.5-mc26.2neoforge.jar"
-      ],
-      "fileSize": 1349249
-    },
-    {
-      "path": "mods/mcw-roofs-2.3.3-mc26.2neoforge.jar",
-      "hashes": {
-        "sha1": "49b106d9dd3a904c6b37e88a3e451ba91103293a",
-        "sha512": "7f61d05be7eb15caa40fbb4b9380f49800b55588e8289fa6aa7962a3df729ca1bb9be939abf3883c9d0832bcb432d985976007389d223de13ad92c70378fbc86"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/B8jaH3P1/versions/8LrM6fk1/mcw-roofs-2.3.3-mc26.2neoforge.jar"
-      ],
-      "fileSize": 1829796
-    },
-    {
-      "path": "mods/mcw-stairs-1.0.2-mc26.2neoforge.jar",
-      "hashes": {
-        "sha1": "a538a83baf72e845a30cee846e281a8d83f98e27",
-        "sha512": "5ff35c40b104f4f7ef0b2ba492e3218b916aac8beb41b380d738948b5f3c0bf379cb0556b6830b60d78170b1ff7e4e379ca1daf7a3195cded416ac8216e2445e"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/iP3wH1ha/versions/gBbSYp0S/mcw-stairs-1.0.2-mc26.2neoforge.jar"
-      ],
-      "fileSize": 548824
-    },
-    {
-      "path": "mods/mcw-furniture-3.4.2-mc26.2neoforge.jar",
-      "hashes": {
-        "sha1": "b86d697f3cd0e7f0491156a898f0e7e1e6ebb1e7",
-        "sha512": "3dc8ad41b7c294486a01c7fde924c4b546d82990615aaedd5cc5a436ad226124cd0a63bc7a412b702dd4f1ddd80afb3182f5700cfb55d3492de1fc834fedec3b"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/dtWC90iB/versions/4F7cXrbM/mcw-furniture-3.4.2-mc26.2neoforge.jar"
-      ],
-      "fileSize": 2271288
-    },
-    {
-      "path": "mods/jegn-1.8.0+neoforge26.2.jar",
-      "hashes": {
-        "sha1": "d19611ce8184befe6fc7bcda12f9ba0363ad92a5",
-        "sha512": "6f9bf01fb2c220dc859ce0b76c51fc20066ab5475e9c0ccac0abd7569191f9391b5a38a56ef4631b44c976f6d1ce45c16750c8881d0fe8c9901e508f3b99cbbf"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/dxTydNDF/versions/ETKFS0De/jegn-1.8.0%2Bneoforge26.2.jar"
-      ],
-      "fileSize": 15874891
-    },
-    {
-      "path": "mods/cookingforblockheads-neoforge-26.2-26.2.0.4.jar",
-      "hashes": {
-        "sha1": "abbb3ff780d039832267a19c92d129cb5ad43b7c",
-        "sha512": "cca2e313b8ba583f155429c6061053b398d12208562f34f159a2ff0be6dbdac91e7c33adda52799939a717bd63afa97ac7997378260f1bd71919ecc09a96f911"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/vJnhuDde/versions/cpldiHDH/cookingforblockheads-neoforge-26.2-26.2.0.4.jar"
-      ],
-      "fileSize": 1685718
-    },
-    {
-      "path": "mods/foodtxf-26.2-1.8.8-neoforge.jar",
-      "hashes": {
-        "sha1": "dccbe07a1905db5f325ae57e3ccf8208fec5aba6",
-        "sha512": "1d47420d880dadbb5297b162564917c3a05422b744896aac860715a20c10daf3ec88e7d4c55d3e973e499e1e728814208d3f177bdae133a4ea05a3a8c63d7064"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/gHfCZDqf/versions/uT2qrry7/foodtxf-26.2-1.8.8-neoforge.jar"
-      ],
-      "fileSize": 513942
-    },
-    {
-      "path": "mods/VisualWorkbench-v26.2.1-mc26.2.x-NeoForge.jar",
-      "hashes": {
-        "sha1": "d8a192deeb8d10d02f69c5c878cfc0c94ae8170c",
-        "sha512": "ec40407e6b6c9025ba5bb66c03be2d86ae3d15b3c5e4e8d25eb1275bf45d9ec4ea0d8c85f834354857de4b87f81a0ec10bad51dd2932d14fa1a47268b1acc973"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/kfqD1JRw/versions/zoLCpqp3/VisualWorkbench-v26.2.1-mc26.2.x-NeoForge.jar"
-      ],
-      "fileSize": 67090
-    },
-    {
-      "path": "mods/BuildingWands_3.2.2_release_neoforge_26.2.jar",
-      "hashes": {
-        "sha1": "6e54d1d32aec94136ee8891bf9e62694b3239a12",
-        "sha512": "e90394dbbbc3a1c2d4f3e463e3291e5eed83b1190bd69105a90ff607a758b5682723bc3fcd176c8e6ff4ff81ecfa575c98e5528bb1554546a9bd8c4e06718079"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/XkisZUfp/versions/UHDeS0C0/BuildingWands_3.2.2_release_neoforge_26.2.jar"
-      ],
-      "fileSize": 464960
-    },
-    {
-      "path": "mods/gazebo-neoforge-2.2.0+26.2.jar",
-      "hashes": {
-        "sha1": "136e174b7b4b218c2e84c5d1fead3e550e9b36bb",
-        "sha512": "3a9978f114aab720fed1c960babf64f9d9eb56156501293028fbbd8a0e5de14bf8a032558dda9358815d297221ccde81aae148974eaa2d6249d5e4d9a9f799b5"
-      },
-      "env": {
-        "client": "unsupported",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/XIpMGI6r/versions/T52pRR4I/gazebo-neoforge-2.2.0%2B26.2.jar"
-      ],
-      "fileSize": 112319
-    },
-    {
-      "path": "mods/sit-neoforge-26.1.2-1.5.2.jar",
-      "hashes": {
-        "sha1": "a06b8ca43e311e1ab57dfc38a5ab07a30bba6262",
-        "sha512": "eecb96b49cfeff632aaad2cddd61466e572ac5564de1eadbc5f48bbd953296075e2d240ada6dd529eca1850c254001b00985c954974e1a8a2547c5ca36549c92"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/VKXzIykF/versions/eZTSuFZ9/sit-neoforge-26.1.2-1.5.2.jar"
-      ],
-      "fileSize": 69952
-    },
-    {
-      "path": "mods/Ecologics-NeoFab-26.2-2.6.0.jar",
-      "hashes": {
-        "sha1": "695bc3dddf2600d8bf230bad2d98cf2eaa0d7911",
-        "sha512": "5963b3d4aef9a96082a849047205042f75099212e8beb5a3588980d280d93239ca1f6f8a69c9415f363f33bc9a449f13ff9784c48d9559043b3a59bdb09c434f"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/NCKpPR0Z/versions/pHuIWHyx/Ecologics-NeoFab-26.2-2.6.0.jar"
-      ],
-      "fileSize": 2952774
-    },
-    {
-      "path": "mods/shulkerboxtooltip-neoforge-5.4.0+26.2.jar",
-      "hashes": {
-        "sha1": "d7c59c5394b811d6c42bd62609e46764277d413c",
-        "sha512": "7c6ffd55042f2517a13ea8138b21b45563ec474d46f42566d503ce354ef15e0f2900f8a5e15f4d67f26dd9706034f9c374ecf2fc7432a4fd4f7fe6c2a9b28be7"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/2M01OLQq/versions/dKpv8u25/shulkerboxtooltip-neoforge-5.4.0%2B26.2.jar"
-      ],
-      "fileSize": 418270
-    },
-    {
-      "path": "mods/CameraOverhaul-v2.1.1-neoforge+mc[26.1-plus]-downgrade.jar",
-      "hashes": {
-        "sha1": "1e0d0a27cf98b3a3037b70b7f6ba85444b40d4bb",
-        "sha512": "a95d13b5ccbda10de6bbe6020fc1020b7d14dd8f0ef5f974019670f3ea4b7a7253ec7f3c0ac3b0a2ba65f20ebfd38044acc14082b820f403b287fe6fc090c0f2"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/m0oRwcZx/versions/r4Tt2qWT/CameraOverhaul-v2.1.1-neoforge%2Bmc%5B26.1-plus%5D-downgrade.jar"
-      ],
-      "fileSize": 136906
-    },
-    {
-      "path": "mods/lootr-neoforge-26.2-1.24.39.121.jar",
-      "hashes": {
-        "sha1": "d797de96918530a73bcc9dbdcd9df8c975678e53",
-        "sha512": "54a8124a2b7cc50902e2c90d1f65c3ba4a644ce06b68043a946da09126a6ff6b6a260143c780a4568484d4eaba9251d837841e589c30d4e4e3f7f38b0967a7de"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/EltpO5cN/versions/mWjELssH/lootr-neoforge-26.2-1.24.39.121.jar"
-      ],
-      "fileSize": 1433492
-    },
-    {
-      "path": "mods/realisticbees-26.2.0-4.3.jar",
-      "hashes": {
-        "sha1": "612a49dc56521e33b9b02c10b52b5c31d61966f3",
-        "sha512": "63ceaa33322a16801b659dc0bf1456ace6b982f90602b376b499f1d0e4b13633a923d3a1e44c968ce7502409f0171bb02e1c8ac403f51865a390144c4e32f8cf"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/tG6HkcWx/versions/jjBdZPat/realisticbees-26.2.0-4.3.jar"
-      ],
-      "fileSize": 67294
-    },
-    {
-      "path": "mods/spell_engine-neoforge-1.10.5+26.2.jar",
-      "hashes": {
-        "sha1": "8df89a9202cadc71d9cf78425e9054399564b424",
-        "sha512": "7225684a748ee9d25208a6ec8cf82cfeb9153015c9a7c63ac96bfe983679107682c59e56d3f8ab5421d52ff0e9a65c48152ad66e21da33aa90f096d550372c23"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/XvoWJaA2/versions/hP8KzYyC/spell_engine-neoforge-1.10.5%2B26.2.jar"
-      ],
-      "fileSize": 4638324
     },
     {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
