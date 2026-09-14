@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260914.1246**
+Minecraft **26.2** · **neoforge** · версия **20260914.1309**
 
-## Моды (110)
+## Моды (121)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -95,24 +95,35 @@ Minecraft **26.2** · **neoforge** · версия **20260914.1246**
 | [Tectonic](https://modrinth.com/mod/tectonic) | 3.0.28-neoforge-26.2 | client, server |
 | [Curios API](https://modrinth.com/mod/curios) | 16.0.0+26.2 | client, server |
 | [Pufferfish's Attributes](https://modrinth.com/mod/attributes) | 0.8.2 | client, server |
+| [Armory (RPG Series)](https://modrinth.com/mod/armory-rpg-series) | 1.5.2+26.2-neoforge | client, server |
+| [Arsenal (RPG Series)](https://modrinth.com/mod/arsenal-rpg-series) | 1.5.1+26.2-neoforge | client, server |
+| [Skill Tree (RPG Series)](https://modrinth.com/mod/skill-tree) | 1.6.1+26.2-neoforge | client, server |
+| [Combat Roll](https://modrinth.com/mod/combat-roll) | 3.0.1+26.2-neoforge | client, server |
+| [Wizards (RPG Series)](https://modrinth.com/mod/wizards) | 3.1.2+26.2-neoforge | client, server |
+| [Paladins & Priests (RPG Series)](https://modrinth.com/mod/paladins-and-priests) | 3.1.2+26.2-neoforge | client, server |
+| [Archers (RPG Series)](https://modrinth.com/mod/archers) | 3.1.2+26.2-neoforge | client, server |
+| [Rogues & Warriors (RPG Series)](https://modrinth.com/mod/rogues-and-warriors) | 3.1.2+26.2-neoforge | client, server |
+| [Guns ++](https://modrinth.com/mod/guns++) | 5.9.5+mod | client, server |
+| [ReArm: Combat Overhaul](https://modrinth.com/mod/rearm) | 2.5.6+26.2 | client, server |
+| [Sword Blocking Mechanics](https://modrinth.com/mod/sword-blocking-mechanics) | 26.2.0 | client, server |
+| [Melee Weapons Extended](https://modrinth.com/mod/melee-weapons-extended) | 1.4.0+mod | client, server |
+| [Big Swords R](https://modrinth.com/mod/big-swords-r) | 1.1.0 | client, server |
+| [Too Many Bows](https://modrinth.com/mod/too-many-bows) | 1.0.1-26.2 | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
+| [spell-power](https://modrinth.com/mod/spell-power) | — | client, server |
+| [player-animation-library](https://modrinth.com/mod/player-animation-library) | — | client, server |
+| [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
+| [collective](https://modrinth.com/mod/collective) | — | client, server |
+| [structure-pool-api](https://modrinth.com/mod/structure-pool-api) | — | server |
+| [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |
+| [balm](https://modrinth.com/mod/balm) | — | client, server |
 | [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |
 | [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
-| [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
-| [almanac](https://modrinth.com/mod/almanac) | — | server |
-| [searchables](https://modrinth.com/mod/searchables) | — | client |
-| [collective](https://modrinth.com/mod/collective) | — | client, server |
-| [balm](https://modrinth.com/mod/balm) | — | client, server |
-| [player-animation-library](https://modrinth.com/mod/player-animation-library) | — | client, server |
+| [almanac](https://modrinth.com/mod/almanac) | — | client, server |
 | [architectury-api](https://modrinth.com/mod/architectury-api) | — | client, server |
-| [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |
 | [sophisticated-core](https://modrinth.com/mod/sophisticated-core) | — | client, server |
 | [cyclops-core](https://modrinth.com/mod/cyclops-core) | — | client, server |
 | [common-capabilities](https://modrinth.com/mod/common-capabilities) | — | client, server |
-| [cristel-lib](https://modrinth.com/mod/cristel-lib) | — | client, server |
 | [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
 | [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
-| [geckolib](https://modrinth.com/mod/geckolib) | — | client, server |
-| [structure-pool-api](https://modrinth.com/mod/structure-pool-api) | — | server |
-| [spell-power](https://modrinth.com/mod/spell-power) | — | client, server |
