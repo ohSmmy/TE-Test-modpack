@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260915.0744**
+Minecraft **26.2** · **neoforge** · версия **20260915.0850**
 
 ## Моды (132)
 
@@ -137,4 +137,4 @@ Minecraft **26.2** · **neoforge** · версия **20260915.0744**
 | [mixson](https://modrinth.com/mod/mixson) | — | client, server |
 | [fzzy-config](https://modrinth.com/mod/fzzy-config) | — | client, server |
 | [geckolib](https://modrinth.com/mod/geckolib) | — | client, server |
-| [kotlin-lang-forge](https://modrinth.com/mod/kotlin-lang-forge) | — | client, server |
+| [kotlin-for-forge](https://modrinth.com/mod/kotlin-for-forge) | — | client, server |
