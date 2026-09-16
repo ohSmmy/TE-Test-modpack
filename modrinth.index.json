@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260916.1631",
+  "versionId": "20260916.2006",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -409,6 +409,36 @@
         "https://cdn.modrinth.com/data/9eGKb6K1/versions/7nOrYJRU/voicechat-neoforge-2.6.23%2B26.2.jar"
       ],
       "fileSize": 4924697
+    },
+    {
+      "path": "mods/tacz-1.1.8+neoforge.26.2.R3-hotfix2.jar",
+      "hashes": {
+        "sha1": "",
+        "sha512": ""
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/cf-mods/tacz-1.1.8+neoforge.26.2.R3-hotfix2.jar"
+      ],
+      "fileSize": 0
+    },
+    {
+      "path": "mods/tacztweaks-2.14.2+neoforge.26.2.Beta-1.jar",
+      "hashes": {
+        "sha1": "",
+        "sha512": ""
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/cf-mods/tacztweaks-2.14.2+neoforge.26.2.Beta-1.jar"
+      ],
+      "fileSize": 0
     },
     {
       "path": "mods/BuildPaste_NeoForge-26.2v3.0.2.jar",
