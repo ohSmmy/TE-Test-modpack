@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260916.1039**
+Minecraft **26.2** · **neoforge** · версия **20260916.1418**
 
-## Моды (131)
+## Моды (132)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -32,6 +32,7 @@ Minecraft **26.2** · **neoforge** · версия **20260916.1039**
 | [Guns ++](https://modrinth.com/mod/guns++) | 5.9.5+mod | client, server |
 | [Combat Roll](https://modrinth.com/mod/combat-roll) | 3.0.1+26.2-neoforge | client, server |
 | [Pufferfish's Attributes](https://modrinth.com/mod/attributes) | 0.8.2 | client, server |
+| [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | neoforge-2.6.23+26.2 | client, server |
 | [BuildPaste - Instant Structures](https://modrinth.com/mod/buildpaste) | 3.0.2 | client, server |
 | [RE:Constructed Wands](https://modrinth.com/mod/reconstructed-wands) | 1.1.5+neoforge-26.2 | client, server |
 | [Rechiseled](https://modrinth.com/mod/rechiseled) | 1.2.6-neoforge-mc26.2 | client, server |
