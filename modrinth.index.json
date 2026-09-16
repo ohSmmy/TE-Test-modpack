@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260916.0836",
+  "versionId": "20260916.1014",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -394,6 +394,36 @@
         "https://cdn.modrinth.com/data/FCFcFw09/versions/gyoJ3TXS/puffish_attributes-0.8.2-26.1-neoforge.jar"
       ],
       "fileSize": 45367
+    },
+    {
+      "path": "mods/voicechat-neoforge-2.6.23+26.2.jar",
+      "hashes": {
+        "sha1": "975f860c9e9148cc8b1bb99d35a62e2abfd492e9",
+        "sha512": "c4ee6d8d1a1d9836c0ea0219c2007da221e60db1b4348f5568c7a0037651e7ad1389f812075bdea0ddc2952e6fd16f33eb904bbeb074a4e5272afe97902417e6"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/7nOrYJRU/voicechat-neoforge-2.6.23%2B26.2.jar"
+      ],
+      "fileSize": 4924697
+    },
+    {
+      "path": "mods/tacz-1.1.8+neoforge.26.2.R3-hotfix2.jar",
+      "hashes": {
+        "sha1": "",
+        "sha512": ""
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/cf-mods/tacz-1.1.8+neoforge.26.2.R3-hotfix2.jar"
+      ],
+      "fileSize": 0
     },
     {
       "path": "mods/BuildPaste_NeoForge-26.2v3.0.2.jar",
@@ -1941,19 +1971,19 @@
       "fileSize": 2348925
     },
     {
-      "path": "mods/geckolib-neoforge-26.2-5.5.5.jar",
+      "path": "mods/geckolib-neoforge-26.2-5.5.6.jar",
       "hashes": {
-        "sha1": "4f6dbaa46a44a6f5edfefce10b07c981159c5626",
-        "sha512": "833392a4e8a25d17e853e34e80e5b241c8233b27fb2c76484d35e5ac05216852cf52aa4b58b25a58e5af8b0bf976f479f2a8abb423b9f0cfe0e331744a15e6c9"
+        "sha1": "980aba8415e4d9593c03403e955e96a8b11117c6",
+        "sha512": "0717d360e0bba26dedd77eb42450a327eae6f3931692c353ebe3ac622c8556b442f3ece22e5eaf699ac9702a6edd6e02d1cfba96d3f1a52aba98cce0bd0bae55"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/fTK5ltWI/geckolib-neoforge-26.2-5.5.5.jar"
+        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/IEGPh4CJ/geckolib-neoforge-26.2-5.5.6.jar"
       ],
-      "fileSize": 1153705
+      "fileSize": 1154336
     },
     {
       "path": "mods/kotlinforforge-6.3.0-all.jar",
