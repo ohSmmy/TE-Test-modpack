@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260915.0850",
+  "versionId": "20260916.0644",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1881,21 +1881,6 @@
       "fileSize": 389095
     },
     {
-      "path": "mods/bundle-api-neoforge-4.0.0+26.2.jar",
-      "hashes": {
-        "sha1": "b862cfd46b9d091d431ba7d88199058b8e958c6f",
-        "sha512": "3cad3a15ae694f407819fbdbaf5b4a998549f6c849c50c5b5c713d65b969e942adcbb692544275283a5e9f3508aa62752f6d824fa14316e88853f0b5d611dbe7"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/n8QN6Z1a/versions/NtsAkuKY/bundle-api-neoforge-4.0.0%2B26.2.jar"
-      ],
-      "fileSize": 110066
-    },
-    {
       "path": "mods/ranged_weapon_api-neoforge-4.0.0+26.2.jar",
       "hashes": {
         "sha1": "432201d8930d1d79d7353a48ea92c4f02329576c",
@@ -1909,6 +1894,21 @@
         "https://cdn.modrinth.com/data/AqaIIO6D/versions/oXBMPShc/ranged_weapon_api-neoforge-4.0.0%2B26.2.jar"
       ],
       "fileSize": 159888
+    },
+    {
+      "path": "mods/bundle-api-neoforge-4.0.0+26.2.jar",
+      "hashes": {
+        "sha1": "b862cfd46b9d091d431ba7d88199058b8e958c6f",
+        "sha512": "3cad3a15ae694f407819fbdbaf5b4a998549f6c849c50c5b5c713d65b969e942adcbb692544275283a5e9f3508aa62752f6d824fa14316e88853f0b5d611dbe7"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/n8QN6Z1a/versions/NtsAkuKY/bundle-api-neoforge-4.0.0%2B26.2.jar"
+      ],
+      "fileSize": 110066
     },
     {
       "path": "mods/critical_strike-neoforge-1.0.6+26.2.jar",
