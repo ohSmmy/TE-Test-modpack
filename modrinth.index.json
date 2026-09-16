@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260916.0644",
+  "versionId": "20260916.0836",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -829,21 +829,6 @@
         "https://cdn.modrinth.com/data/tPLE214j/versions/r7bWdaRP/betterdays-26.2-neoforge-4.1.1.7-NEOFORGE.jar"
       ],
       "fileSize": 580254
-    },
-    {
-      "path": "mods/voicechat-neoforge-2.6.23+26.2.jar",
-      "hashes": {
-        "sha1": "975f860c9e9148cc8b1bb99d35a62e2abfd492e9",
-        "sha512": "c4ee6d8d1a1d9836c0ea0219c2007da221e60db1b4348f5568c7a0037651e7ad1389f812075bdea0ddc2952e6fd16f33eb904bbeb074a4e5272afe97902417e6"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/9eGKb6K1/versions/7nOrYJRU/voicechat-neoforge-2.6.23%2B26.2.jar"
-      ],
-      "fileSize": 4924697
     },
     {
       "path": "mods/netherportalfix-neoforge-26.2-26.2.0.1.jar",

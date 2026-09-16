@@ -1,8 +1,8 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260916.0644**
+Minecraft **26.2** · **neoforge** · версия **20260916.0836**
 
-## Моды (132)
+## Моды (131)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -61,7 +61,6 @@ Minecraft **26.2** · **neoforge** · версия **20260916.0644**
 | [Ping Wheel](https://modrinth.com/mod/ping-wheel) | 1.12.1 | client, server |
 | [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) | neoforge-1.0.40+26.2 | client, server |
 | [Better Days](https://modrinth.com/mod/betterdays) | 26.2-4.1.1.7-NEOFORGE | client, server |
-| [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | neoforge-2.6.23+26.2 | client, server |
 | [NetherPortalFix](https://modrinth.com/mod/netherportalfix) | 26.2.0.1+neoforge-26.2 | server |
 | [SelectiveBounds](https://modrinth.com/mod/selectivebounds) | 0.0.4+26.2 | client |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | neoforge-26.2-1.46.0 | client, server |
