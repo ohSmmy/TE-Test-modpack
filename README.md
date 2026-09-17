@@ -1,10 +1,10 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260917.0649**
+Minecraft **26.2** · **neoforge** · версия **20260917.0856**
 
 [latest release](https://github.com/ohSmmy/TE-Test-modpack/releases/latest) · [Modrinth](https://modrinth.com/modpack/IKSUSyg1)
 
-## Моды (131)
+## Моды (129)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -28,7 +28,6 @@ Minecraft **26.2** · **neoforge** · версия **20260917.0649**
 | [Macaw's Windows](https://modrinth.com/mod/macaws-windows) | 2.4.2 | client, server |
 | [Macaw's Bridges](https://modrinth.com/mod/macaws-bridges) | 3.1.2 | client, server |
 | [Immersive Pillagers](https://modrinth.com/mod/immersive-pillagers) | 0.1.4+26.2 | client, server |
-| [Too Many Bows](https://modrinth.com/mod/too-many-bows) | 1.0.1-26.2 | client, server |
 | [Melee Weapons Extended](https://modrinth.com/mod/melee-weapons-extended) | 1.4.0+mod | client, server |
 | [Sword Blocking Mechanics](https://modrinth.com/mod/sword-blocking-mechanics) | 26.2.0 | client, server |
 | [Combat Roll](https://modrinth.com/mod/combat-roll) | 3.0.1+26.2-neoforge | client, server |
@@ -74,7 +73,6 @@ Minecraft **26.2** · **neoforge** · версия **20260917.0649**
 | [Mythic Upgrades](https://modrinth.com/mod/mythic-upgrades) | 5.1.0 | client, server |
 | [Enderite Mod](https://modrinth.com/mod/enderite-mod) | 1.9.1 | client, server |
 | [Advanced Netherite](https://modrinth.com/mod/advanced-netherite) | neoforge-2.4.2-mc26.2 | client, server |
-| [Default Skill Trees](https://modrinth.com/mod/default-skill-trees) | 1.1 | client, server |
 | [Pufferfish's Skills](https://modrinth.com/mod/skills) | 0.19.0 | client, server |
 | [SecurityCraft](https://modrinth.com/mod/security-craft) | v1.10.2.1 | client, server |
 | [Guard Villagers](https://modrinth.com/mod/guard-villagers) | 4.0.4 | client, server |
@@ -120,11 +118,11 @@ Minecraft **26.2** · **neoforge** · версия **20260917.0649**
 | [structure-pool-api](https://modrinth.com/mod/structure-pool-api) | — | client, server |
 | [puzzles-lib](https://modrinth.com/mod/puzzles-lib) | — | client, server |
 | [balm](https://modrinth.com/mod/balm) | — | client, server |
-| [architectury-api](https://modrinth.com/mod/architectury-api) | — | client, server |
 | [supermartijn642s-core-lib](https://modrinth.com/mod/supermartijn642s-core-lib) | — | client, server |
 | [supermartijn642s-config-lib](https://modrinth.com/mod/supermartijn642s-config-lib) | — | client, server |
 | [almanac](https://modrinth.com/mod/almanac) | — | server |
 | [searchables](https://modrinth.com/mod/searchables) | — | client |
+| [architectury-api](https://modrinth.com/mod/architectury-api) | — | client, server |
 | [sophisticated-core](https://modrinth.com/mod/sophisticated-core) | — | client, server |
 | [cyclops-core](https://modrinth.com/mod/cyclops-core) | — | client, server |
 | [common-capabilities](https://modrinth.com/mod/common-capabilities) | — | client, server |
