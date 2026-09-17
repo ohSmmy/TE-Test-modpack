@@ -1,10 +1,10 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260917.2036**
+Minecraft **26.2** · **neoforge** · версия **20260917.2100**
 
 [latest release](https://github.com/ohSmmy/TE-Test-modpack/releases/latest) · [Modrinth](https://modrinth.com/modpack/IKSUSyg1)
 
-## Моды (126)
+## Моды (123)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -17,7 +17,6 @@ Minecraft **26.2** · **neoforge** · версия **20260917.2036**
 | [Gazebos (RPG Series)](https://modrinth.com/mod/gazebos) | 2.2.0+26.2-neoforge | server |
 | [Building Wands](https://modrinth.com/mod/building-wands) | 3.2.2 | client, server |
 | [Visual Workbench](https://modrinth.com/mod/visual-workbench) | 26.2.1 | client, server |
-| [Food TXF](https://modrinth.com/mod/food-txf) | 26.2-1.8.8-neoforge | client, server |
 | [Cooking for Blockheads](https://modrinth.com/mod/cooking-for-blockheads) | 26.2.0.4+neoforge-26.2 | client, server |
 | [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture) | 3.4.2 | client, server |
 | [Macaw's Stairs](https://modrinth.com/mod/macaws-stairs) | 1.0.2 | client, server |
@@ -34,8 +33,6 @@ Minecraft **26.2** · **neoforge** · версия **20260917.2036**
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | neoforge-2.6.23+26.2 | client, server |
 | [[UNOFFICIAL]TaCZ Renovated](https://modrinth.com/mod/unofficial-tacz-renovated) | — | client, server |
 | [TaCZ Tweaks (Refabricated)](https://modrinth.com/mod/tacz-tweaks-refabricated) | — | client, server |
-| [IngotCraft](https://modrinth.com/mod/ingotcraft) | 26.2-2.4.11-neoforge | client, server |
-| [Kuro Materials](https://modrinth.com/mod/kuro-materials) | 26.2-1.0.5-neoforge | client, server |
 | [BuildPaste - Instant Structures](https://modrinth.com/mod/buildpaste) | 3.0.2 | client, server |
 | [Rechiseled](https://modrinth.com/mod/rechiseled) | 1.2.6-neoforge-mc26.2 | client, server |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
@@ -108,8 +105,8 @@ Minecraft **26.2** · **neoforge** · версия **20260917.2036**
 | [ReArm: Combat Overhaul](https://modrinth.com/mod/rearm) | 2.5.6+26.2 | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
-| [player-animation-library](https://modrinth.com/mod/player-animation-library) | — | client, server |
 | [spell-power](https://modrinth.com/mod/spell-power) | — | client, server |
+| [player-animation-library](https://modrinth.com/mod/player-animation-library) | — | client, server |
 | [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [collective](https://modrinth.com/mod/collective) | — | client, server |
 | [structure-pool-api](https://modrinth.com/mod/structure-pool-api) | — | client, server |
@@ -126,8 +123,8 @@ Minecraft **26.2** · **neoforge** · версия **20260917.2036**
 | [cristel-lib](https://modrinth.com/mod/cristel-lib) | — | client, server |
 | [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
 | [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
-| [armor-model-api](https://modrinth.com/mod/armor-model-api) | — | client, server |
 | [runes](https://modrinth.com/mod/runes) | — | client, server |
+| [armor-model-api](https://modrinth.com/mod/armor-model-api) | — | client, server |
 | [ranged-weapon-api](https://modrinth.com/mod/ranged-weapon-api) | — | client, server |
 | [bundle-api](https://modrinth.com/mod/bundle-api) | — | client, server |
 | [critical-strike](https://modrinth.com/mod/critical-strike) | — | client, server |

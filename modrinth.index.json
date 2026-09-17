@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260917.2036",
+  "versionId": "20260917.2100",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -139,21 +139,6 @@
         "https://cdn.modrinth.com/data/kfqD1JRw/versions/zoLCpqp3/VisualWorkbench-v26.2.1-mc26.2.x-NeoForge.jar"
       ],
       "fileSize": 67090
-    },
-    {
-      "path": "mods/foodtxf-26.2-1.8.8-neoforge.jar",
-      "hashes": {
-        "sha1": "dccbe07a1905db5f325ae57e3ccf8208fec5aba6",
-        "sha512": "1d47420d880dadbb5297b162564917c3a05422b744896aac860715a20c10daf3ec88e7d4c55d3e973e499e1e728814208d3f177bdae133a4ea05a3a8c63d7064"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/gHfCZDqf/versions/uT2qrry7/foodtxf-26.2-1.8.8-neoforge.jar"
-      ],
-      "fileSize": 513942
     },
     {
       "path": "mods/cookingforblockheads-neoforge-26.2-26.2.0.4.jar",
@@ -394,36 +379,6 @@
         "https://raw.githubusercontent.com/ohSmmy/TE-Test-modpack/main/cf-mods/tacztweaks-2.14.2+neoforge.26.2.Beta-1.jar"
       ],
       "fileSize": 0
-    },
-    {
-      "path": "mods/ingotcraft-26.2-2.4.11-neoforge.jar",
-      "hashes": {
-        "sha1": "81ae7b7f4df5707cb88264e6be4e7aa3141c2a88",
-        "sha512": "21a13d4b3230d3876e27ccf75c1f46dc79f4088fb7665228f2b85bd6d3f8871b729dab0b69e30b07f8f7ba301fa4918d4146b3ef96e9389fe0f6b54149d4e162"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Kma1RCF3/versions/CickACH4/ingotcraft-26.2-2.4.11-neoforge.jar"
-      ],
-      "fileSize": 227302
-    },
-    {
-      "path": "mods/kuromaterials-26.2-1.0.5-neoforge.jar",
-      "hashes": {
-        "sha1": "b4dc1433c4a75a94769e882728168eb87d8da70b",
-        "sha512": "ca0d6966f148687507dab38e1695912801b19c43629cce09665b885de39696789b26cfee2edb0a8d913486feea7dc47ed22e6ce650f32090907cee930ffac231"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/GNdysNQl/versions/SPtGmyKw/kuromaterials-26.2-1.0.5-neoforge.jar"
-      ],
-      "fileSize": 207199
     },
     {
       "path": "mods/BuildPaste_NeoForge-26.2v3.0.2.jar",
@@ -1506,21 +1461,6 @@
       "fileSize": 97831
     },
     {
-      "path": "mods/PlayerAnimationLibMerged-1.2.6+mc.26.2.jar",
-      "hashes": {
-        "sha1": "55d06e255b162cb648671bbe0cb4dd0961188269",
-        "sha512": "8a497e6f168837c660f88d9d8134ceea295ad6c862ae3a34296383bcb9a68e6b173b69da58ff6e5eb80594208064b41f0ee0f02aaeefddef53a27ab2e71ea28f"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/ha1mEyJS/versions/Hq1CwB9w/PlayerAnimationLibMerged-1.2.6%2Bmc.26.2.jar"
-      ],
-      "fileSize": 419757
-    },
-    {
       "path": "mods/spell_power-neoforge-1.6.2+26.2.jar",
       "hashes": {
         "sha1": "d37f64c06c4a691683977b5844f8e3f9897cfaa7",
@@ -1534,6 +1474,21 @@
         "https://cdn.modrinth.com/data/8ooWzSQP/versions/JlBYCif9/spell_power-neoforge-1.6.2%2B26.2.jar"
       ],
       "fileSize": 221717
+    },
+    {
+      "path": "mods/PlayerAnimationLibMerged-1.2.6+mc.26.2.jar",
+      "hashes": {
+        "sha1": "55d06e255b162cb648671bbe0cb4dd0961188269",
+        "sha512": "8a497e6f168837c660f88d9d8134ceea295ad6c862ae3a34296383bcb9a68e6b173b69da58ff6e5eb80594208064b41f0ee0f02aaeefddef53a27ab2e71ea28f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ha1mEyJS/versions/Hq1CwB9w/PlayerAnimationLibMerged-1.2.6%2Bmc.26.2.jar"
+      ],
+      "fileSize": 419757
     },
     {
       "path": "mods/cloth-config-26.2.155.jar",
@@ -1776,21 +1731,6 @@
       "fileSize": 1019379
     },
     {
-      "path": "mods/armor_model_api-neoforge-1.1.0+26.2.jar",
-      "hashes": {
-        "sha1": "69a37cc54c764c59c2f2c2e01af792e8f99874ea",
-        "sha512": "0329d729424b51fbf47e4e555efe82f55a171051cfc6141a211c7daf98f4da3bcf5d54d22a7c4e19c399481e71d42df1c172c8621a465af7e90ad2c48615c34c"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/onz2NN2n/versions/kUSvVTaI/armor_model_api-neoforge-1.1.0%2B26.2.jar"
-      ],
-      "fileSize": 94407
-    },
-    {
       "path": "mods/runes-neoforge-1.3.2+26.2.jar",
       "hashes": {
         "sha1": "c7d68803a564591db177415054c4d0b8e5ac1d05",
@@ -1804,6 +1744,21 @@
         "https://cdn.modrinth.com/data/lP9Yrr1E/versions/8VuD1vlH/runes-neoforge-1.3.2%2B26.2.jar"
       ],
       "fileSize": 389095
+    },
+    {
+      "path": "mods/armor_model_api-neoforge-1.1.1+26.2.jar",
+      "hashes": {
+        "sha1": "e285fd8e8794168371aa750ce0baec1b8cc9ddbd",
+        "sha512": "e8ba79ba198fe81b65193915f955a2b9e0a6e8395cac3bac8be563283ea226a3b6ecf0b45791ea1e414152a9331facf4961dade5e13cf64d8fffb3d49381c15f"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/onz2NN2n/versions/EtAwDXsf/armor_model_api-neoforge-1.1.1%2B26.2.jar"
+      ],
+      "fileSize": 99593
     },
     {
       "path": "mods/ranged_weapon_api-neoforge-4.0.0+26.2.jar",
