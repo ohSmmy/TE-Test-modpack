@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260917.1818**
+Minecraft **26.2** · **neoforge** · версия **20260917.1933**
 
 [latest release](https://github.com/ohSmmy/TE-Test-modpack/releases/latest) · [Modrinth](https://modrinth.com/modpack/IKSUSyg1)
 
