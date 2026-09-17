@@ -1,10 +1,10 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260917.0647**
+Minecraft **26.2** · **neoforge** · версия **20260917.0649**
 
 [latest release](https://github.com/ohSmmy/TE-Test-modpack/releases/latest) · [Modrinth](https://modrinth.com/modpack/IKSUSyg1)
 
-## Моды (132)
+## Моды (131)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -31,7 +31,6 @@ Minecraft **26.2** · **neoforge** · версия **20260917.0647**
 | [Too Many Bows](https://modrinth.com/mod/too-many-bows) | 1.0.1-26.2 | client, server |
 | [Melee Weapons Extended](https://modrinth.com/mod/melee-weapons-extended) | 1.4.0+mod | client, server |
 | [Sword Blocking Mechanics](https://modrinth.com/mod/sword-blocking-mechanics) | 26.2.0 | client, server |
-| [Guns ++](https://modrinth.com/mod/guns++) | 5.9.5+mod | client, server |
 | [Combat Roll](https://modrinth.com/mod/combat-roll) | 3.0.1+26.2-neoforge | client, server |
 | [Pufferfish's Attributes](https://modrinth.com/mod/attributes) | 0.8.2 | client, server |
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | neoforge-2.6.23+26.2 | client, server |

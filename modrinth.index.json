@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260917.0647",
+  "versionId": "20260917.0649",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -349,21 +349,6 @@
         "https://cdn.modrinth.com/data/4v5Na7b9/versions/DU253UUI/SwordBlockingMechanics-v26.2.0-mc26.2.x-NeoForge.jar"
       ],
       "fileSize": 82888
-    },
-    {
-      "path": "mods/guns++-5.9.5.jar",
-      "hashes": {
-        "sha1": "7f5e8395ee4d59129af7e1bef5d1d058eb6aff91",
-        "sha512": "c7646fc0c0ff0ba9ca434697e584dc3ed90d8f2c698bd4bb5db6341ce47a4bf7eb2365299e2f3041be24cbd82602a5c000f50486cbacc7780d1c8c5568230ff7"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/kdch0Jxf/versions/ojgoWSyN/guns%2B%2B-5.9.5.jar"
-      ],
-      "fileSize": 25565135
     },
     {
       "path": "mods/combat_roll-neoforge-3.0.1+26.2.jar",
