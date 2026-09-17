@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260917.1955**
+Minecraft **26.2** · **neoforge** · версия **20260917.1958**
 
 [latest release](https://github.com/ohSmmy/TE-Test-modpack/releases/latest) · [Modrinth](https://modrinth.com/modpack/IKSUSyg1)
 
@@ -11,7 +11,7 @@ Minecraft **26.2** · **neoforge** · версия **20260917.1955**
 | [Spell Engine](https://modrinth.com/mod/spell-engine) | 1.10.5+26.2-neoforge | client, server |
 | [Realistic Bees](https://modrinth.com/mod/realistic-bees) | 26.2.0-4.3-fabric+forge+neo | client, server |
 | [Lootr](https://modrinth.com/mod/lootr) | 1.24.39.121 | client, server |
-| [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) | 5.4.0+26.2-neoforge | client, server |
+| [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) | 5.4.1+26.2-neoforge | client, server |
 | [Ecologics](https://modrinth.com/mod/ecologics) | 2.6.0-NeoFab | client, server |
 | [Sit](https://modrinth.com/mod/bl4cks-sit) | v1.5.2 | client, server |
 | [Gazebos (RPG Series)](https://modrinth.com/mod/gazebos) | 2.2.0+26.2-neoforge | server |
@@ -43,16 +43,16 @@ Minecraft **26.2** · **neoforge** · версия **20260917.1955**
 | [Packet Fixer](https://modrinth.com/mod/packet-fixer) | 3.3.6 | client, server |
 | [Let Me Despawn](https://modrinth.com/mod/lmd) | 1.26.9.1 | server |
 | [Concurrent Chunk Management Engine (NeoForge)](https://modrinth.com/mod/c2me-neoforge) | 0.4.2-alpha.0.96+26.2 | client, server |
-| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | 1.16.4+26.2-neoforge | client |
+| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | 1.16.5+26.2-neoforge | client |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | 9.0.0-neoforge | client, server |
 | [Clumps](https://modrinth.com/mod/clumps) | 26.2.1 | client, server |
 | [Sodium](https://modrinth.com/mod/sodium) | mc26.2-0.9.2-neoforge | client |
-| [Fusion Block Transitions](https://modrinth.com/mod/fusion-block-transitions) | 1.0.3-mc1.20-26.2 | client |
-| [Fusion Connected Blocks](https://modrinth.com/mod/fusion-connected-blocks) | 1.1.0-mc1.20-26.2 | client |
-| [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.3.15a-neoforge-mc26.2 | client |
+| [Fusion Block Transitions](https://modrinth.com/mod/fusion-block-transitions) | 1.0.3-mc1.20-26.3 | client |
+| [Fusion Connected Blocks](https://modrinth.com/mod/fusion-connected-blocks) | 1.1.0-mc1.20-26.3 | client |
+| [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures) | 1.3.15b-neoforge-mc26.2 | client |
 | [Iris Shaders](https://modrinth.com/mod/iris) | 1.11.4+26.2-neoforge | client |
-| [Complementary Shaders - Unbound](https://modrinth.com/mod/complementary-unbound) | r5.9.2 | client |
-| [Fusion Connected Glass](https://modrinth.com/mod/fusion-connected-glass) | 1.0.1-mc1.20-26.2 | client |
+| [Complementary Shaders - Unbound](https://modrinth.com/mod/complementary-unbound) | r5.9.3 | client |
+| [Fusion Connected Glass](https://modrinth.com/mod/fusion-connected-glass) | 1.0.1-mc1.20-26.3 | client |
 | [Controlling](https://modrinth.com/mod/controlling) | 26.2.2 | client |
 | [Double Doors](https://modrinth.com/mod/double-doors) | 26.2.0-7.2-fabric+forge+neo | server |
 | [FallingTree](https://modrinth.com/mod/fallingtree) | 26.2-26.2.0.3 | client, server |
@@ -65,8 +65,8 @@ Minecraft **26.2** · **neoforge** · версия **20260917.1955**
 | [Better Days](https://modrinth.com/mod/betterdays) | 26.2-4.1.1.7-NEOFORGE | client, server |
 | [NetherPortalFix](https://modrinth.com/mod/netherportalfix) | 26.2.0.1+neoforge-26.2 | server |
 | [SelectiveBounds](https://modrinth.com/mod/selectivebounds) | 0.0.4+26.2 | client |
-| [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | neoforge-26.2-1.46.0 | client, server |
-| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | neoforge-26.2-26.5.0 | client, server |
+| [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) | neoforge-26.2-1.46.1 | client, server |
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | neoforge-26.2-26.5.1 | client, server |
 | [Immersive Armors](https://modrinth.com/mod/immersive-armors) | 1.8.2+26.2 | client, server |
 | [Better Combat](https://modrinth.com/mod/better-combat) | 3.2.2+26.2-neoforge | client, server |
 | [Mythic Upgrades](https://modrinth.com/mod/mythic-upgrades) | 5.1.0 | client, server |
@@ -80,7 +80,7 @@ Minecraft **26.2** · **neoforge** · версия **20260917.1955**
 | [Undead Nights - Zombie Horde Nights / Hordes](https://modrinth.com/mod/undead-nights) | 2.2.5-NeoForge-mc26.2 | client, server |
 | [Hostile Mobs Improve Over Time](https://modrinth.com/mod/hostile-mobs-improve-over-time) | 2.2+mod | client, server |
 | [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) | 26.2-2.11.2 | client, server |
-| [Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage) | 26.2-1.5.113.2122 | client, server |
+| [Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage) | 26.2-1.5.114.2132 | client, server |
 | [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) | 26.2-3.26.2.2154 | client, server |
 | [GrowableOres](https://modrinth.com/mod/growableores) | 3.8.0-26.2-NeoForge | client, server |
 | [ Integrated Crafting](https://modrinth.com/mod/integrated-crafting) | 26.2-1.4.7-768 | client, server |

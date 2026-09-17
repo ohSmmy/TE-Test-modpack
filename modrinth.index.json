@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260917.1955",
+  "versionId": "20260917.1958",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -51,19 +51,19 @@
       "fileSize": 1433492
     },
     {
-      "path": "mods/shulkerboxtooltip-neoforge-5.4.0+26.2.jar",
+      "path": "mods/shulkerboxtooltip-neoforge-5.4.1+26.2.jar",
       "hashes": {
-        "sha1": "d7c59c5394b811d6c42bd62609e46764277d413c",
-        "sha512": "7c6ffd55042f2517a13ea8138b21b45563ec474d46f42566d503ce354ef15e0f2900f8a5e15f4d67f26dd9706034f9c374ecf2fc7432a4fd4f7fe6c2a9b28be7"
+        "sha1": "40d18841295a2a3372f997ae41d47cdc65c02158",
+        "sha512": "28cf1463aae5b491c1ca9bc047d70999f7e109d78ae1046450fefec1539eb356b658012dc4ca88d82306ac9aa6317de1cf1d1fffa4308a2e33b8da1ae6244afb"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/2M01OLQq/versions/dKpv8u25/shulkerboxtooltip-neoforge-5.4.0%2B26.2.jar"
+        "https://cdn.modrinth.com/data/2M01OLQq/versions/GOy0hzGT/shulkerboxtooltip-neoforge-5.4.1%2B26.2.jar"
       ],
-      "fileSize": 418270
+      "fileSize": 421792
     },
     {
       "path": "mods/Ecologics-NeoFab-26.2-2.6.0.jar",
@@ -531,19 +531,19 @@
       "fileSize": 3734232
     },
     {
-      "path": "mods/ImmediatelyFast-NeoForge-1.16.4+26.2.jar",
+      "path": "mods/ImmediatelyFast-NeoForge-1.16.5+26.2.jar",
       "hashes": {
-        "sha1": "dc13f2ff12cbe9944f55f7d7a8642c1af2141523",
-        "sha512": "18dbb155050d43440cafd728f3a0a29ae2bb9412597a89c8b0aa64ba830e46b78db95dd1ee6c0d714c11619387a91256a6e60e374ac1962f84c2bdc6cf20e559"
+        "sha1": "60c34a439f8ac6153b0820a23fa1004d8820025b",
+        "sha512": "435e40e555c87fced7f61b8bd6f5d44c7ba9c872b99bd57389dcead454b734ac12fc1912a22f534c8c3fbf533812cc208cd73e984cbc9488b98358ca15800c0e"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/5ZwdcRci/versions/kc7MJI19/ImmediatelyFast-NeoForge-1.16.4%2B26.2.jar"
+        "https://cdn.modrinth.com/data/5ZwdcRci/versions/4C8Vb9ab/ImmediatelyFast-NeoForge-1.16.5%2B26.2.jar"
       ],
-      "fileSize": 106453
+      "fileSize": 110491
     },
     {
       "path": "mods/ferritecore-9.0.0-neoforge.jar",
@@ -621,19 +621,19 @@
       "fileSize": 271587
     },
     {
-      "path": "mods/fusion-1.3.15a-neoforge-mc26.2.jar",
+      "path": "mods/fusion-1.3.15b-neoforge-mc26.2.jar",
       "hashes": {
-        "sha1": "83a73dfc59b32140966b802ad345e03409dc70d1",
-        "sha512": "e77944edd15418678a18087118cb130b171717db23e3c9a792f7016748df00820767f2f10a62b7619d98e2cf448d6422d41e4d5909649523e29fbb78493d7939"
+        "sha1": "56a5c13096bb3b94467bc877ff20d8cdd19c9d94",
+        "sha512": "68aebb066bd988064ed57f4c10dd819f615e17f638611a7ce7df3e9722f1febe3557cd21c31c4e34c479b3adaffd8364cdeeb36ee8c3e5c2ff60e43ad57ebcc7"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/p19vrgc2/versions/AQoJqg7N/fusion-1.3.15a-neoforge-mc26.2.jar"
+        "https://cdn.modrinth.com/data/p19vrgc2/versions/11cZ8J2Y/fusion-1.3.15b-neoforge-mc26.2.jar"
       ],
-      "fileSize": 939134
+      "fileSize": 939144
     },
     {
       "path": "mods/iris-neoforge-1.11.4+mc26.2.jar",
@@ -651,19 +651,19 @@
       "fileSize": 2775477
     },
     {
-      "path": "shaderpacks/ComplementaryUnbound_r5.9.2.zip",
+      "path": "shaderpacks/ComplementaryUnbound_r5.9.3.zip",
       "hashes": {
-        "sha1": "a5aee22c8d55f5f54c4c6629b3533c91ce911a50",
-        "sha512": "75ed262c8504343bfb83721fa500b60f4dceb767e211a500aa7e3c065b4a8ddf7bf6737b884ea99dfff68072f7cae6d82c5d863379b7487cc13e172a9c5ddae8"
+        "sha1": "2ee08300e1d6f039e63eae8484dddf57b3aaaf67",
+        "sha512": "a085d1d8cda67cd17a2b414eeba48bbd809da069f269bab46246235ec8fe714a275013c70d0504527b0987d810deddddba4564332414ab3b3bd7435932ff808c"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/R6NEzAwj/versions/nahkiiZN/ComplementaryUnbound_r5.9.2.zip"
+        "https://cdn.modrinth.com/data/R6NEzAwj/versions/B1kyfoUZ/ComplementaryUnbound_r5.9.3.zip"
       ],
-      "fileSize": 553239
+      "fileSize": 553400
     },
     {
       "path": "resourcepacks/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip",
@@ -861,34 +861,34 @@
       "fileSize": 186151
     },
     {
-      "path": "mods/xaeroworldmap-neoforge-26.2-1.46.0.jar",
+      "path": "mods/xaeroworldmap-neoforge-26.2-1.46.1.jar",
       "hashes": {
-        "sha1": "67ae16f098c2956a3cffec8acc9af0366c9c1c4a",
-        "sha512": "0ccd08ab477c2994c902a5a856c0bb6ebfc2a8187b87a4344714c8c53efe7291c7f21bec594265b86ae0a91ae63e461ccb9e12e115690d91cf79b8421a0598bc"
+        "sha1": "6e1346fba34f0218acf037574095deca2c0956ff",
+        "sha512": "dabb98626ccdc48a1b3db071f2a86e4cf7312322417754615f0aa1642376ec5add98556fe8f8d43426ee22987d6a17e265d1a6e96169f645d6362c9ebfaeaa28"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/NcUtCpym/versions/kusU9lBt/xaeroworldmap-neoforge-26.2-1.46.0.jar"
+        "https://cdn.modrinth.com/data/NcUtCpym/versions/jvDo1iio/xaeroworldmap-neoforge-26.2-1.46.1.jar"
       ],
-      "fileSize": 1445615
+      "fileSize": 1445620
     },
     {
-      "path": "mods/xaerominimap-neoforge-26.2-26.5.0.jar",
+      "path": "mods/xaerominimap-neoforge-26.2-26.5.1.jar",
       "hashes": {
-        "sha1": "8dc3c963edeb93d676f0ac70286b2db2a4fe6540",
-        "sha512": "b821e2c1914c893f718782239bb1073ab8dd4fca5c1cd79f7b22f717154cde20b60154a84b0fb592d7f2ccb7def62a0d4bbd0c2f6594ba713cbe2c1e734cea7e"
+        "sha1": "3608c490ae43835e3a7076c9d0078a5c1b21ae48",
+        "sha512": "e977b98b189ef99ede887211c64c35d27e9944d20a8aa4da48eb8d202ee288ee32008da13c6fb3b102b8493ab32b42dfd465ce66140f864018384c3608340003"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/1bokaNcj/versions/ulT9Wbps/xaerominimap-neoforge-26.2-26.5.0.jar"
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/WnaAZsas/xaerominimap-neoforge-26.2-26.5.1.jar"
       ],
-      "fileSize": 2170949
+      "fileSize": 2170951
     },
     {
       "path": "mods/immersive_armors-1.8.2+26.2-neoforge.jar",
@@ -1086,19 +1086,19 @@
       "fileSize": 863058
     },
     {
-      "path": "mods/sophisticatedstorage-26.2-1.5.113.2122.jar",
+      "path": "mods/sophisticatedstorage-26.2-1.5.114.2132.jar",
       "hashes": {
-        "sha1": "a3cdcc718d7cf36740c143cce50723cbc76a4721",
-        "sha512": "7f365f9ffecc5e9b73efd321af05ced503b8bc310a0a99fa4cb95beaf1ea944d631454af7c12a22a9b8fb36ef45d8f84578d1b0ec03057de816a5e52b78f5cc7"
+        "sha1": "50319106f43849fed54c5cf7673c00b83e86e752",
+        "sha512": "95f5f27a797c162bf59989faaf6edf49494642808bfe9e755e4b82f53af77cd75a9c8ea59d4bfbf617d535ae7f738510e282af79370654cf2f8ec1086705a81b"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/hMlaZH8f/versions/EVA2q8Zy/sophisticatedstorage-26.2-1.5.113.2122.jar"
+        "https://cdn.modrinth.com/data/hMlaZH8f/versions/9jOzQdN5/sophisticatedstorage-26.2-1.5.114.2132.jar"
       ],
-      "fileSize": 1924326
+      "fileSize": 1924174
     },
     {
       "path": "mods/sophisticatedbackpacks-26.2-3.26.2.2154.jar",
