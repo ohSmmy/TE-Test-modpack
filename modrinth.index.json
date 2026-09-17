@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260917.2026",
+  "versionId": "20260917.2036",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -409,6 +409,21 @@
         "https://cdn.modrinth.com/data/Kma1RCF3/versions/CickACH4/ingotcraft-26.2-2.4.11-neoforge.jar"
       ],
       "fileSize": 227302
+    },
+    {
+      "path": "mods/kuromaterials-26.2-1.0.5-neoforge.jar",
+      "hashes": {
+        "sha1": "b4dc1433c4a75a94769e882728168eb87d8da70b",
+        "sha512": "ca0d6966f148687507dab38e1695912801b19c43629cce09665b885de39696789b26cfee2edb0a8d913486feea7dc47ed22e6ce650f32090907cee930ffac231"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/GNdysNQl/versions/SPtGmyKw/kuromaterials-26.2-1.0.5-neoforge.jar"
+      ],
+      "fileSize": 207199
     },
     {
       "path": "mods/BuildPaste_NeoForge-26.2v3.0.2.jar",
@@ -1491,21 +1506,6 @@
       "fileSize": 97831
     },
     {
-      "path": "mods/spell_power-neoforge-1.6.2+26.2.jar",
-      "hashes": {
-        "sha1": "d37f64c06c4a691683977b5844f8e3f9897cfaa7",
-        "sha512": "204e10234decbf6ca43dc14fc016cacf24ca32dd7f38b6a5a2063cf80124b5a2f207126ef651ef815c60924a966bb3e724153289fb4eb64456ff124c14fe0627"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/8ooWzSQP/versions/JlBYCif9/spell_power-neoforge-1.6.2%2B26.2.jar"
-      ],
-      "fileSize": 221717
-    },
-    {
       "path": "mods/PlayerAnimationLibMerged-1.2.6+mc.26.2.jar",
       "hashes": {
         "sha1": "55d06e255b162cb648671bbe0cb4dd0961188269",
@@ -1519,6 +1519,21 @@
         "https://cdn.modrinth.com/data/ha1mEyJS/versions/Hq1CwB9w/PlayerAnimationLibMerged-1.2.6%2Bmc.26.2.jar"
       ],
       "fileSize": 419757
+    },
+    {
+      "path": "mods/spell_power-neoforge-1.6.2+26.2.jar",
+      "hashes": {
+        "sha1": "d37f64c06c4a691683977b5844f8e3f9897cfaa7",
+        "sha512": "204e10234decbf6ca43dc14fc016cacf24ca32dd7f38b6a5a2063cf80124b5a2f207126ef651ef815c60924a966bb3e724153289fb4eb64456ff124c14fe0627"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8ooWzSQP/versions/JlBYCif9/spell_power-neoforge-1.6.2%2B26.2.jar"
+      ],
+      "fileSize": 221717
     },
     {
       "path": "mods/cloth-config-26.2.155.jar",

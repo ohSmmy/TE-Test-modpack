@@ -1,10 +1,10 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260917.2026**
+Minecraft **26.2** · **neoforge** · версия **20260917.2036**
 
 [latest release](https://github.com/ohSmmy/TE-Test-modpack/releases/latest) · [Modrinth](https://modrinth.com/modpack/IKSUSyg1)
 
-## Моды (125)
+## Моды (126)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -35,6 +35,7 @@ Minecraft **26.2** · **neoforge** · версия **20260917.2026**
 | [[UNOFFICIAL]TaCZ Renovated](https://modrinth.com/mod/unofficial-tacz-renovated) | — | client, server |
 | [TaCZ Tweaks (Refabricated)](https://modrinth.com/mod/tacz-tweaks-refabricated) | — | client, server |
 | [IngotCraft](https://modrinth.com/mod/ingotcraft) | 26.2-2.4.11-neoforge | client, server |
+| [Kuro Materials](https://modrinth.com/mod/kuro-materials) | 26.2-1.0.5-neoforge | client, server |
 | [BuildPaste - Instant Structures](https://modrinth.com/mod/buildpaste) | 3.0.2 | client, server |
 | [Rechiseled](https://modrinth.com/mod/rechiseled) | 1.2.6-neoforge-mc26.2 | client, server |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
@@ -107,8 +108,8 @@ Minecraft **26.2** · **neoforge** · версия **20260917.2026**
 | [ReArm: Combat Overhaul](https://modrinth.com/mod/rearm) | 2.5.6+26.2 | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
-| [spell-power](https://modrinth.com/mod/spell-power) | — | client, server |
 | [player-animation-library](https://modrinth.com/mod/player-animation-library) | — | client, server |
+| [spell-power](https://modrinth.com/mod/spell-power) | — | client, server |
 | [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [collective](https://modrinth.com/mod/collective) | — | client, server |
 | [structure-pool-api](https://modrinth.com/mod/structure-pool-api) | — | client, server |
