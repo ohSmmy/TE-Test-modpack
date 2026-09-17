@@ -1,17 +1,16 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260917.0856**
+Minecraft **26.2** · **neoforge** · версия **20260917.1818**
 
 [latest release](https://github.com/ohSmmy/TE-Test-modpack/releases/latest) · [Modrinth](https://modrinth.com/modpack/IKSUSyg1)
 
-## Моды (129)
+## Моды (124)
 
 | Мод | Версия | Сторона |
 |---|---|---|
 | [Spell Engine](https://modrinth.com/mod/spell-engine) | 1.10.5+26.2-neoforge | client, server |
 | [Realistic Bees](https://modrinth.com/mod/realistic-bees) | 26.2.0-4.3-fabric+forge+neo | client, server |
 | [Lootr](https://modrinth.com/mod/lootr) | 1.24.39.121 | client, server |
-| [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul) | 2.1.1-neoforge+mc.26.1-plus | client |
 | [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) | 5.4.0+26.2-neoforge | client, server |
 | [Ecologics](https://modrinth.com/mod/ecologics) | 2.6.0-NeoFab | client, server |
 | [Sit](https://modrinth.com/mod/bl4cks-sit) | v1.5.2 | client, server |
@@ -36,7 +35,6 @@ Minecraft **26.2** · **neoforge** · версия **20260917.0856**
 | [[UNOFFICIAL]TaCZ Renovated](https://modrinth.com/mod/unofficial-tacz-renovated) | — | client, server |
 | [TaCZ Tweaks (Refabricated)](https://modrinth.com/mod/tacz-tweaks-refabricated) | — | client, server |
 | [BuildPaste - Instant Structures](https://modrinth.com/mod/buildpaste) | 3.0.2 | client, server |
-| [RE:Constructed Wands](https://modrinth.com/mod/reconstructed-wands) | 1.1.5+neoforge-26.2 | client, server |
 | [Rechiseled](https://modrinth.com/mod/rechiseled) | 1.2.6-neoforge-mc26.2 | client, server |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
 | [Lithium](https://modrinth.com/mod/lithium) | mc26.2-0.25.3-neoforge | client, server |
@@ -83,7 +81,6 @@ Minecraft **26.2** · **neoforge** · версия **20260917.0856**
 | [Tom's Simple Storage Mod](https://modrinth.com/mod/toms-storage) | 26.2-2.11.2 | client, server |
 | [Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage) | 26.2-1.5.113.2122 | client, server |
 | [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) | 26.2-3.26.2.2154 | client, server |
-| [Pipez](https://modrinth.com/mod/pipez) | neoforge-1.2.32+26.2 | client, server |
 | [GrowableOres](https://modrinth.com/mod/growableores) | 3.8.0-26.2-NeoForge | client, server |
 | [ Integrated Crafting](https://modrinth.com/mod/integrated-crafting) | 26.2-1.4.7-768 | client, server |
 | [Integrated Tunnels](https://modrinth.com/mod/integrated-tunnels) | 26.2-1.9.6-775 | client, server |
@@ -93,10 +90,8 @@ Minecraft **26.2** · **neoforge** · версия **20260917.0856**
 | [Towns and Towers](https://modrinth.com/mod/towns-and-towers) | 1.13.11 | client, server |
 | [Nature's Compass](https://modrinth.com/mod/natures-compass) | 26.2-3.3.0-neoforge | client, server |
 | [Explorer's Compass](https://modrinth.com/mod/explorers-compass) | 26.2-3.3.0-neoforge | client, server |
-| [Infinity Cave](https://modrinth.com/mod/infinity-cave) | 0.92 | client, server |
 | [Stellarity](https://modrinth.com/mod/stellarity) | 5.5.5+mod | client, server |
 | [Incendium Legacy](https://modrinth.com/mod/incendium) | 5.5.1 | client, server |
-| [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns) | 5.3.2+mod | client, server |
 | [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) | 26.2.0.0.28 | client, server |
 | [Friends&Foes (Forge/NeoForge)](https://modrinth.com/mod/friends-and-foes-forge) | neoforge-4.0.27+mc26.2 | client, server |
 | [Tectonic](https://modrinth.com/mod/tectonic) | 3.0.28-neoforge-26.2 | client, server |
@@ -111,8 +106,8 @@ Minecraft **26.2** · **neoforge** · версия **20260917.0856**
 | [ReArm: Combat Overhaul](https://modrinth.com/mod/rearm) | 2.5.6+26.2 | client, server |
 | [terrablender](https://modrinth.com/mod/terrablender) | — | client, server |
 | [glitchcore](https://modrinth.com/mod/glitchcore) | — | client, server |
-| [spell-power](https://modrinth.com/mod/spell-power) | — | client, server |
 | [player-animation-library](https://modrinth.com/mod/player-animation-library) | — | client, server |
+| [spell-power](https://modrinth.com/mod/spell-power) | — | client, server |
 | [cloth-config](https://modrinth.com/mod/cloth-config) | — | client, server |
 | [collective](https://modrinth.com/mod/collective) | — | client, server |
 | [structure-pool-api](https://modrinth.com/mod/structure-pool-api) | — | client, server |
@@ -129,8 +124,8 @@ Minecraft **26.2** · **neoforge** · версия **20260917.0856**
 | [cristel-lib](https://modrinth.com/mod/cristel-lib) | — | client, server |
 | [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
 | [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
-| [armor-model-api](https://modrinth.com/mod/armor-model-api) | — | client, server |
 | [runes](https://modrinth.com/mod/runes) | — | client, server |
+| [armor-model-api](https://modrinth.com/mod/armor-model-api) | — | client, server |
 | [ranged-weapon-api](https://modrinth.com/mod/ranged-weapon-api) | — | client, server |
 | [bundle-api](https://modrinth.com/mod/bundle-api) | — | client, server |
 | [critical-strike](https://modrinth.com/mod/critical-strike) | — | client, server |
