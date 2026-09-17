@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260916.2006",
+  "versionId": "20260917.0647",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -1566,21 +1566,6 @@
       "fileSize": 266593
     },
     {
-      "path": "mods/jegn-1.7.4+neoforge26.2.jar",
-      "hashes": {
-        "sha1": "3d26755e789a18c8fc0c9df87989eae522403432",
-        "sha512": "1eb7e23ff29538c3d39e08686d8ecafbee0bc2aa5587ef5c1312ae019e02aa1a4b450e3bc5a6c085d6c2eaf774304dcae662ad3b08273907ee9f3c6405ec0c30"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/dxTydNDF/versions/DSRl1pA1/jegn-1.7.4%2Bneoforge26.2.jar"
-      ],
-      "fileSize": 14889604
-    },
-    {
       "path": "mods/TerraBlender-neoforge-26.2-26.2.0.0.2.jar",
       "hashes": {
         "sha1": "82ab30bc5cf0177e4ca1a0e5aad14d0e79e2aa13",
@@ -1984,21 +1969,6 @@
         "https://cdn.modrinth.com/data/hYykXjDp/versions/DP6iNAD6/fzzy_config-0.7.7%2B26.2%2Bneoforge.jar"
       ],
       "fileSize": 2348925
-    },
-    {
-      "path": "mods/geckolib-neoforge-26.2-5.5.6.jar",
-      "hashes": {
-        "sha1": "980aba8415e4d9593c03403e955e96a8b11117c6",
-        "sha512": "0717d360e0bba26dedd77eb42450a327eae6f3931692c353ebe3ac622c8556b442f3ece22e5eaf699ac9702a6edd6e02d1cfba96d3f1a52aba98cce0bd0bae55"
-      },
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/8BmcQJ2H/versions/IEGPh4CJ/geckolib-neoforge-26.2-5.5.6.jar"
-      ],
-      "fileSize": 1154336
     },
     {
       "path": "mods/kotlinforforge-6.3.0-all.jar",
