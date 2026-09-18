@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260918.0701**
+Minecraft **26.2** · **neoforge** · версия **20260918.0718**
 
 [latest release](https://github.com/ohSmmy/TE-Test-modpack/releases/latest) · [Modrinth](https://modrinth.com/modpack/IKSUSyg1)
 
@@ -10,7 +10,7 @@ Minecraft **26.2** · **neoforge** · версия **20260918.0701**
 |---|---|---|
 | [Spell Engine](https://modrinth.com/mod/spell-engine) | 1.10.5+26.2-neoforge | client, server |
 | [Realistic Bees](https://modrinth.com/mod/realistic-bees) | 26.2.0-4.3-fabric+forge+neo | client, server |
-| [Lootr](https://modrinth.com/mod/lootr) | 1.24.39.121 | client, server |
+| [Lootr](https://modrinth.com/mod/lootr) | 1.24.39.122 | client, server |
 | [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip) | 5.4.1+26.2-neoforge | client, server |
 | [Ecologics](https://modrinth.com/mod/ecologics) | 2.6.0-NeoFab | client, server |
 | [Sit](https://modrinth.com/mod/bl4cks-sit) | v1.5.2 | client, server |

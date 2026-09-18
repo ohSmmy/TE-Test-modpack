@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "20260918.0701",
+  "versionId": "20260918.0718",
   "name": "TE Test",
   "summary": "TE Test (MC 26.2 / neoforge)",
   "files": [
@@ -36,19 +36,19 @@
       "fileSize": 67294
     },
     {
-      "path": "mods/lootr-neoforge-26.2-1.24.39.121.jar",
+      "path": "mods/lootr-neoforge-26.2-1.24.39.122.jar",
       "hashes": {
-        "sha1": "d797de96918530a73bcc9dbdcd9df8c975678e53",
-        "sha512": "54a8124a2b7cc50902e2c90d1f65c3ba4a644ce06b68043a946da09126a6ff6b6a260143c780a4568484d4eaba9251d837841e589c30d4e4e3f7f38b0967a7de"
+        "sha1": "1c0b6258c7afd617c8ffdd7f8311fd9368891e25",
+        "sha512": "a50f987d9687b6814659784adf717584fd803ceec93f47890ba1b7b9e6286a6ef052e00acd9e8c2284d4de4ff0ff7cd0d1286f8457a6480b979267ef5163b6d5"
       },
       "env": {
         "client": "required",
         "server": "required"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/EltpO5cN/versions/mWjELssH/lootr-neoforge-26.2-1.24.39.121.jar"
+        "https://cdn.modrinth.com/data/EltpO5cN/versions/alTg1SZ2/lootr-neoforge-26.2-1.24.39.122.jar"
       ],
-      "fileSize": 1433492
+      "fileSize": 1441216
     },
     {
       "path": "mods/shulkerboxtooltip-neoforge-5.4.1+26.2.jar",
