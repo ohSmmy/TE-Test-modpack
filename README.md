@@ -1,10 +1,10 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260918.0610**
+Minecraft **26.2** · **neoforge** · версия **20260918.0701**
 
 [latest release](https://github.com/ohSmmy/TE-Test-modpack/releases/latest) · [Modrinth](https://modrinth.com/modpack/IKSUSyg1)
 
-## Моды (123)
+## Моды (124)
 
 | Мод | Версия | Сторона |
 |---|---|---|
@@ -33,6 +33,7 @@ Minecraft **26.2** · **neoforge** · версия **20260918.0610**
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | neoforge-2.6.23+26.2 | client, server |
 | [[UNOFFICIAL]TaCZ Renovated](https://modrinth.com/mod/unofficial-tacz-renovated) | — | client, server |
 | [TaCZ Tweaks (Refabricated)](https://modrinth.com/mod/tacz-tweaks-refabricated) | — | client, server |
+| [Immersive Aircraft](https://modrinth.com/mod/immersive-aircraft) | 1.5.1+26.2 | client, server |
 | [BuildPaste - Instant Structures](https://modrinth.com/mod/buildpaste) | 3.0.2 | client, server |
 | [Rechiseled](https://modrinth.com/mod/rechiseled) | 1.2.6-neoforge-mc26.2 | client, server |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | 0.3.0-alpha.0.16+26.2 | client, server |
@@ -123,8 +124,8 @@ Minecraft **26.2** · **neoforge** · версия **20260918.0610**
 | [cristel-lib](https://modrinth.com/mod/cristel-lib) | — | client, server |
 | [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
 | [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
-| [armor-model-api](https://modrinth.com/mod/armor-model-api) | — | client, server |
 | [runes](https://modrinth.com/mod/runes) | — | client, server |
+| [armor-model-api](https://modrinth.com/mod/armor-model-api) | — | client, server |
 | [ranged-weapon-api](https://modrinth.com/mod/ranged-weapon-api) | — | client, server |
 | [bundle-api](https://modrinth.com/mod/bundle-api) | — | client, server |
 | [critical-strike](https://modrinth.com/mod/critical-strike) | — | client, server |
