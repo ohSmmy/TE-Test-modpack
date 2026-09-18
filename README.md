@@ -1,6 +1,6 @@
 # TE Test
 
-Minecraft **26.2** · **neoforge** · версия **20260917.2100**
+Minecraft **26.2** · **neoforge** · версия **20260918.0610**
 
 [latest release](https://github.com/ohSmmy/TE-Test-modpack/releases/latest) · [Modrinth](https://modrinth.com/modpack/IKSUSyg1)
 
@@ -123,8 +123,8 @@ Minecraft **26.2** · **neoforge** · версия **20260917.2100**
 | [cristel-lib](https://modrinth.com/mod/cristel-lib) | — | client, server |
 | [resourceful-lib](https://modrinth.com/mod/resourceful-lib) | — | client, server |
 | [lithostitched](https://modrinth.com/mod/lithostitched) | — | client, server |
-| [runes](https://modrinth.com/mod/runes) | — | client, server |
 | [armor-model-api](https://modrinth.com/mod/armor-model-api) | — | client, server |
+| [runes](https://modrinth.com/mod/runes) | — | client, server |
 | [ranged-weapon-api](https://modrinth.com/mod/ranged-weapon-api) | — | client, server |
 | [bundle-api](https://modrinth.com/mod/bundle-api) | — | client, server |
 | [critical-strike](https://modrinth.com/mod/critical-strike) | — | client, server |
